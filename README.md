@@ -25,11 +25,6 @@
 </a>
 </p>
 
-[![Browse New Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://internships.win/)
-[![Visit the Zapply website](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply.jobs/)
-[![Join Our Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UswBsduwcD)
-[![Join Our Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
-
 ## Contents
 
 - [Contents](#contents)
@@ -48,6 +43,21 @@
 - [List of Undergraduate Research Internships](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
 <br/>
+
+## **Website & Autofill Extension**
+
+![Apply to jobs in seconds with Zapply.](images/zapply.png)
+
+Explore Zapply's website and check out:
+
+- Our chrome extension that auto-fills your job applications in seconds.
+- A dedicated job board with the latest jobs for various types of roles.
+- User account providing multiple profiles for different resume roles.
+- Job application tracking with streaks to unlock commitment awards.
+
+Experience an advanced career journey with us! 🚀
+
+
 
 ## **Join Our Community**
 
