@@ -57,20 +57,30 @@ Explore Zapply's website and check out:
 
 Experience an advanced career journey with us! 🚀
 
-
-
-## **Join Our Community**
-
-![Join Our Community - Illustration of people holding hands.](images/uci-community.png)
-
 <p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/uci-discord.png" alt="Join Our Discord" width="235"></a>
+  <a href=""><img src="images/zapply-button.png" alt="Visit Our Website" width="350"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/Zapply/"><img src="images/uci-reddit.png" alt="Join Our Reddit" width="200"></a>
+  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="350"></a>
 </p>
 
-<p > 
-  Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
+## Explore Around
+
+<img src="images/connect.png" alt="Explore Around">
+
+Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities!
+
+<p align="center">
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/socials-instagram.png" alt="Instagram" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/socials-tiktok.png" alt="TikTok" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/zapply-jobs/"><img src="images/socials-linkedin.png" alt="LinkedIn" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/socials-discord.png" alt="Discord" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/socials-reddit.png" alt="Reddit" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs"><img src="images/socials-github.png" alt="GitHub" height="50"></a>
 </p>
 
 ## Internships
