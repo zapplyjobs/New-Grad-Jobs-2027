@@ -56,9 +56,9 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href=""><img src="images/zapply-button.png" alt="Visit Our Website" width="350"></a>
+  <a href=""><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="350"></a>
+  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
 </p>
 
 ## Explore Around
@@ -68,17 +68,15 @@ Experience an advanced career journey with us! 🚀
 Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities.
 
 <p align="center">
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/socials-discord.png" alt="Discord" height="50"></a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/zapplyjobs"><img src="images/socials-instagram.png" alt="Instagram" height="50"></a>
   &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/socials-tiktok.png" alt="TikTok" height="50"></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/zapply-jobs/"><img src="images/socials-linkedin.png" alt="LinkedIn" height="50"></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/socials-discord.png" alt="Discord" height="50"></a>
-  &nbsp;&nbsp;
   <a href="https://www.reddit.com/r/Zapply/"><img src="images/socials-reddit.png" alt="Reddit" height="50"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs"><img src="images/socials-github.png" alt="GitHub" height="50"></a>
 </p>
 
 ## Internships
