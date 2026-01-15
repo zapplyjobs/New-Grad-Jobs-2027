@@ -17,7 +17,7 @@
 </p>
 
 > [!NOTE]
-> Open and close statuses are not updated daily. PLease check yourself just to be sure.
+> Open and close statuses are not updated daily. Please check yourself just to be sure.
 
 <p align="center">
   This repo is maintained in collaboration with <a href="https://zapply.jobs">
