@@ -68,14 +68,6 @@ Experience an advanced career journey with us! 🚀
 Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities.
 
 <p align="center">
-  <a href=""><img src="images/socials-big-discord.png" alt="Discord"></a>
-  &nbsp;&nbsp;
-  <a href=""><img src="images/socials-big-instagram.png" alt="Discord"></a>
-  &nbsp;&nbsp;
-  <a href=""><img src="images/socials-big-tiktok.png" alt="Discord"></a>
-</p>
-
-<p align="center">
   <a href="https://discord.gg/UswBsduwcD"><img src="images/socials-discord.png" alt="Discord" height="50"></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/zapplyjobs"><img src="images/socials-instagram.png" alt="Instagram" height="50"></a>
