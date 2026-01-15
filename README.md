@@ -48,7 +48,7 @@
 
 Explore Zapply's website and check out:
 
-- Our chrome extension that auto-fills your job applications in seconds.
+- Our chrome extension that autofills your job applications in seconds.
 - A dedicated job board with the latest jobs for various types of roles.
 - User account providing multiple profiles for different resume roles.
 - Job application tracking with streaks to unlock commitment awards.
