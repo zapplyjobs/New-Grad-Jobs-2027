@@ -42,8 +42,6 @@
 - [List of Open-Source Fellowships](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 - [List of Undergraduate Research Internships](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
-<br/>
-
 ## **Website & Autofill Extension**
 
 ![Apply to jobs in seconds with Zapply.](images/zapply.png)
@@ -67,7 +65,7 @@ Experience an advanced career journey with us! 🚀
 
 <img src="images/connect.png" alt="Explore Around">
 
-Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities!
+Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities.
 
 <p align="center">
   <a href="https://www.instagram.com/zapplyjobs"><img src="images/socials-instagram.png" alt="Instagram" height="50"></a>
@@ -208,6 +206,10 @@ These are 1-4 week program during December/January. Activites includes hackathon
 | [Forage](https://www.theforage.com/)                            | All student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc.                                                                                     |
 
 ## More Resources
+
+![Jobs and templates in our other repos.](images/more-resources.png)
+
+Check out our other repos for jobs and free resources:
 
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
