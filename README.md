@@ -1,24 +1,29 @@
+![Underclassmen Internships - Illustration of people applying to internships together.](images/uci-heading.png)
+
 <h1 align="center">
 💥💥 Underclassmen Internships 💥💥
 </h1>
 
 <p align="center">
-  Curated list of internships/externships/fellowships <b>exclusive</b> for CS freshman and sophomore
+  Curated list of internships, externships, and fellowships <b>exclusive</b> for CS freshman and sophomore students.
 </p>
 
 <p align="center">
- Are you a upperclassman? Check out this <a href="https://github.com/Julian048/CS-Programs-Fellowships-Insights">list of opportunities for all class year</a> by @Julian048
+ Are you an upperclassman? Check out this <a href="https://github.com/Julian048/CS-Programs-Fellowships-Insights">list of opportunities for all class year</a> by @Julian048.
 </p>
  
 <p align="center">
   Will do my best to update frequently through the fall. Stars & PR appreciated!!
 </p>
 
-<p align="center">
-  <sub>Note: open/close status is not updated daily. Check yourself just to be sure</sub>
-</p>
+> [!NOTE]
+> Open and close statuses are not updated daily. Please check yourself just to be sure.
 
-<br/>
+<p align="center">
+  This repo is maintained in collaboration with <a href="https://zapply.jobs">
+  <img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center">
+</a>
+</p>
 
 ## Contents
 
@@ -26,23 +31,85 @@
 - [Useful Lists](#useful-lists)
 - [Internships](#internships)
 - [Fellowships](#fellowships)
-- [Internship-matching Fellowships](#internship-matching-fellowships)
-- [Externships/Insight Series](#externshipsinsight-series)
-- [Winternship](#winternship)
-- [Special Programs \& Resources](#special-programs--resources)
-
-<br/>
+- [Internship-Matching Fellowships](#internship-matching-fellowships)
+- [Externships / Insight Series](#externships--insight-series)
+- [Winternships](#winternships)
+- [Special Programs & Resources](#special-programs--resources)
 
 ## Useful Lists
 
 - [List of Opportunities in Tech for All Class Years](https://github.com/Julian048/CS-Programs-Fellowships-Insights)
-- [List of Summer 2025 Tech Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
 - [List of Open-Source Fellowships](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 - [List of Undergraduate Research Internships](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
-<br/>
+## **Website & Autofill Extension**
+
+![Apply to jobs in seconds with Zapply.](images/zapply.png)
+
+Explore Zapply's website and check out:
+
+- Our chrome extension that autofills your job applications in seconds.
+- A dedicated job board with the latest jobs for various types of roles.
+- User account providing multiple profiles for different resume roles.
+- Job application tracking with streaks to unlock commitment awards.
+
+Experience an advanced career journey with us! 🚀
+
+<p align="center">
+  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
+</p>
+
+## Explore Around
+
+<img src="images/connect.png" alt="Explore Around">
+
+Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities.
+
+<p align="center">
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/socials-discord.png" alt="Discord" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/socials-instagram.png" alt="Instagram" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/socials-tiktok.png" alt="TikTok" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/zapply-jobs/"><img src="images/socials-linkedin.png" alt="LinkedIn" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/socials-reddit.png" alt="Reddit" height="50"></a>
+</p>
+
+## More Resources
+
+![Jobs and templates in our other repos.](images/more-resources.png)
+
+Check out our other repos for jobs and free resources:
+
+<p align="center">
+  <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/interview-handbook-2026"><img src="images/repo-ihb.png" alt="Interview Handbook" height="40"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/zapplyjobs/Internships-2026"><img src="images/repo-int.png" alt="Internships 2026" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships" height="40"></a>
+</p>
 
 ## Internships
+
+![Current internships for students and early-career candidates.](images/uci-section-internships.png)
 
 | Name                                                                                                                                                                      | Status/Open Date   | Year                | Note                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -69,9 +136,9 @@
 | [Palantir Path](https://www.palantir.com/careers/students/path/)                                                                                                          | ?                  | Sophomore           |                                                                                                                              |
 | [BoA Sophomore Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-2749362/xf-76b73a3ee885/candidate/so/pm/1/pl/1/opp/10195)                   | ?                  | Sophomore           | Closed for 2024                                                                                                              |
 
-<br/>
-
 ## Fellowships
+
+![Structured programs beyond traditional internships.](images/uci-section-fellowships.png)
 
 Fellowships can be internships, but also mentorship, training, or open source contribution programs. These are long in duraction (6-12 weeks)
 
@@ -98,9 +165,9 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/)                                                                     | ?                  | All student         | 2-6 month self-paced program to work on open source research tools. Stipend available                                                            |
 | [Keploy DevRel Cohort](https://devrel.keploy.io/)                                                                                                           | ?                  | All student         | Get into the world of DevRels and experience of being one for a month                                                                            |
 
-<br/>
+## Internship-Matching Fellowships
 
-## Internship-matching Fellowships
+![Programs that pair fellows directly with internships.](images/uci-section-imf.png)
 
 A type of fellowship hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
 
@@ -117,9 +184,9 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [Code2040 Fellows](https://www.code2040.org/fellows-program)                                                   | ?                | All student |                                                                                                                                                                                             |
 | [Hack Diversity](https://www.hackdiversity.com/)                                                               | ?                | All Student | Match [NYC](https://www.hackdiversity.com/how-to-apply-nyc) and [Boston](https://www.hackdiversity.com/how-to-apply-boston) students to internships. Provides year-round technical training |
 
-<br/>
+## Externships / Insight Series
 
-## Externships/Insight Series
+![Early exposure opportunities across industries.](images/uci-section-externships.png)
 
 These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinars, training, networking event, and hackathon. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
 
@@ -140,9 +207,9 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | [Impact Labs Summit](https://www.impactlabs.io/summit)                                                                                                                                     | ?                | All student         | Professional networking event for students & professionals in NYC                                                                                                 |
 | [Paragon One Career Bootcamp]([https://www.paragonone.com/externships/career-bootcamp])                                                                                                    | ?                | All Students        |
 
-<br/>
+## Winternships
 
-## Winternship
+![Winter break opportunities to gain experience.](images/uci-section-winterships.png)
 
 These are 1-4 week program during December/January. Activites includes hackathon, mentorship, networking event etc.
 
@@ -154,9 +221,9 @@ These are 1-4 week program during December/January. Activites includes hackathon
 | [Trail of Bits](https://boards.greenhouse.io/trailofbits/jobs/4271033006)                                         | ?                | All student         | 3-6 week self-paced cybersecurity internship. Stipend available           |
 | [Impact Labs Fellowship](https://www.impactlabs.io/fellowship)                                                    | ?                | All student         | 2-week program in NYC during winter break. Financial assistance available |
 
-<br/>
-
 ## Special Programs & Resources
+
+![Unique programs, workshops, and student resources.](images/uci-section-spr.png)
 
 | Name                                                            | Year        | Note                                                                                                                                                                     |
 | --------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -164,4 +231,12 @@ These are 1-4 week program during December/January. Activites includes hackathon
 | [CodePath](https://www.codepath.org/plan-your-codepath)         | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.                                         |
 | [Forage](https://www.theforage.com/)                            | All student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc.                                                                                     |
 
-<br/>
+## Contributors
+
+![Become a Contributor](images/uci-contributor.png)
+
+Thanks to all our contributors! **The real MVPs. 🏆**
+
+<a href="https://github.com/zapplyjobs/underclassmen-internships/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=zapplyjobs/underclassmen-internships"/>
+</a>
