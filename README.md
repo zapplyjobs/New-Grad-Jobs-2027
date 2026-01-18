@@ -79,8 +79,6 @@ Check out what we're doing on our socials, join our community to connect with fe
   <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/socials-tiktok.png" alt="TikTok" height="50"></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/zapply-jobs/"><img src="images/socials-linkedin.png" alt="LinkedIn" height="50"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/zapply-jobs/"><img src="images/socials-github.png" alt="LinkedIn" height="50"></a>
 </p>
 
 ## More Resources
