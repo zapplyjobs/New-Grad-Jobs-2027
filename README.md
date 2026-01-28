@@ -63,7 +63,7 @@ Experience an advanced career journey with us! 🚀
 
 ## Explore Around
 
-<img src="images/connect.png" alt="Explore Around">
+<img src="images/community.png" alt="Explore Around">
 
 Connect and seek advice from a growing network of fellow students and new grads.
 
