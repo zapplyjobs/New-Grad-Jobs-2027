@@ -20,7 +20,7 @@
 > Open and close statuses are not updated daily. Please check yourself just to be sure.
 
 <p align="center">
-  This repo is maintained in collaboration with <a href="https://zapply.jobs">
+  This repo is maintained in collaboration with <a href="https://zapply.jobs/?ref=github">
   <img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center">
 </a>
 </p>
@@ -56,7 +56,7 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
+  <a href="https://zapply.jobs/?ref=github"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button-enabled.png" alt="Install Our Extension - Coming Soon" width="277"></a>
 </p>
