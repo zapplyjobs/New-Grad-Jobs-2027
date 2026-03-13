@@ -215,9 +215,7 @@ Check out our other repos for jobs and free resources:
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/Remote-Jobs-2026"><img src="images/repo-rmj.png" alt="Remote Jobs" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2026"><img src="images/repo-nsj.png" alt="Healthcare Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/Internships-2026"><img src="images/repo-int.png" alt="Internships 2026" height="40"></a>
 </p>
