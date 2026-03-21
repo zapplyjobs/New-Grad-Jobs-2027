@@ -56,9 +56,7 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/?ref=github"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button-enabled.png" alt="Install Our Extension" width="277"></a>
+  <a href="https://zapply.jobs/?ref=github"><img src="images/zapply-button-2.png" alt="Visit Our Website" width="600"></a>
 </p>
 
 ## Explore Around
@@ -72,7 +70,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="75"></a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
+  <a href="https://www.tiktok.com/@zapply.jobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
 </p>
 
 ## Internships
