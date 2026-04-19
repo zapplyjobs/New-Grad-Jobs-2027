@@ -21,7 +21,7 @@
 
 <p align="center">
   This repo is maintained in collaboration with <a href="https://zapply.jobs/?ref=github">
-  <img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center">
+  <img src="images/zapply-logo.png" alt="Zapply logo" height="20" align="center">
 </a>
 </p>
 
