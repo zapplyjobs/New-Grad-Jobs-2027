@@ -41,6 +41,7 @@
 - [List of Opportunities in Tech for All Class Years](https://github.com/Julian048/CS-Programs-Fellowships-Insights)
 - [List of Open-Source Fellowships](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 - [List of Undergraduate Research Internships](https://github.com/himahuja/Research-Internships-for-Undergraduates)
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Daily-updated Canadian student internship, co-op, new-grad, junior, and entry-level jobs across tech, finance, engineering, business, sciences, and more.
 
 ## **Website & Autofill Extension**
 
