@@ -56,7 +56,7 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/?ref=gh-underclassmen-internships"><img src="images/zapply-button-2.png" alt="Visit Our Website" width="600"></a>
+  <a href="https://zapply.jobs/?ref=gh-underclassmen-internships"><img src="images/zapply-button-4.png" alt="Visit Our Website" width="700"></a>
 </p>
 
 ## Explore Around
@@ -66,11 +66,9 @@ Experience an advanced career journey with us! 🚀
 Connect and seek advice from a growing network of fellow students and new grads.
 
 <p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-button-1.png" alt="Visit Our Discord Server" width="290"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapply.jobs"><img src="images/instagram-icon-2d.png" alt="Instagram" width="130"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapply.jobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" width="130"></a>
+  <a href="https://www.linkedin.com/company/zapply-jobs"><img src="images/linkedin-button-1.png" alt="Visit Our LinkedIn Page" width="250"></a>
 </p>
 
 ## Internships
