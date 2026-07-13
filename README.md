@@ -20,7 +20,7 @@
 > Open and close statuses are not updated daily. Please check yourself just to be sure.
 
 <p align="center">
-  This repo is maintained in collaboration with <a href="https://zapply.jobs/?ref=github">
+  This repo is maintained in collaboration with <a href="https://zapply.jobs/?ref=gh-underclassmen-internships">
   <img src="images/zapply-logo.png" alt="Zapply logo" height="20" align="center">
 </a>
 </p>
