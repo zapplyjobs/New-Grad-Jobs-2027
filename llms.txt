@@ -1,0 +1,27 @@
+# Zapply Jobs — New Grad Jobs 2027
+
+> Curated entry-level and new graduate job listings across tech, finance, healthcare, hardware, data science, and more. Updated every 15 minutes. US-focused.
+
+## What this repo provides
+- 24,000+ entry-level job listings updated every 15 minutes
+- Jobs from 500+ companies across 9 ATS platforms (Greenhouse, Workday, Ashby, Lever, SmartRecruiters, Amazon, JSearch, Netflix, Eightfold)
+- Structured data: title, company, location, apply URL, domain tags, employment type
+- Enriched data: required skills, visa sponsorship, education requirements, summary
+- US-only, entry-level only (senior roles filtered out)
+
+## How to use this data
+- Browse the README table for quick job listings
+- Use `all_jobs.json` (JSONL format) for programmatic access
+- Use `enriched_jobs.json` for skills/visa/education data
+- Use `descriptions-*.jsonl` files for full job descriptions
+- All files at `.github/data/` directory
+
+## Related repos
+- Internships: github.com/zapplyjobs/Internships-2027
+- Software Engineering: github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027
+- Data Science: github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027
+- Hardware Engineering: github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027
+- Healthcare: github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2027
+
+## Who maintains this
+Zapply Jobs (zapplyjobs) — automated pipeline with human curation
