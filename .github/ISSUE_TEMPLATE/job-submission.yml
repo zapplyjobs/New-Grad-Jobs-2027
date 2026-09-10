@@ -1,0 +1,45 @@
+name: Job submission
+description: Submit a job or internship to be added to this board
+title: "Job submission: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting! Fill in the details below — entries that match the checklist are reviewed and added to the board on the next update.
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: "Example: Acme Corp"
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role title
+      placeholder: "Example: Software Engineering Intern (Summer 2027)"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: "Example: San Francisco, CA or Remote (US)"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Application URL
+      description: Direct link to the official posting on the company's own site (not a redirector or affiliate link).
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission checklist
+      options:
+        - label: This is a real, currently-open posting hosted on the company's own careers site
+          required: true
+        - label: This is not promotional, affiliate, or marketing content
+          required: true
