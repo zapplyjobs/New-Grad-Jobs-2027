@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Associate Program Analyst | USA MD Aberdeen | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228571?s=gh-new-grad-jobs-2027) |
 | **GDIT** | ICAM Engineer - Edge Services | USA MD Fort Meade | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228685?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Technical Editor | USA AZ Fort Huachuca | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228642?s=gh-new-grad-jobs-2027) |
@@ -638,8 +638,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nominal** | Mission Dev Engineer - Internship (Summer 2027) | New York, United States | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDq1JPt4gojJg-2VrQLT89PU?s=gh-new-grad-jobs-2027) |
 | **Blue Origin** | Structural Analyst III - New Glenn Advanced Upper Stage | Greater Seattle Area | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R72373?s=gh-new-grad-jobs-2027) |
 | **Wellmark, Inc.** | Health Economics & Outcomes Research (HEOR) Analyst | Des Moines, IA | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-WellmarkInc-744000150526529?s=gh-new-grad-jobs-2027) |
-| **Watershed** | GTM engineer | San Francisco | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-watershed-00f1ba3f-67ba-48cb-8e88-1eacc2ebb9f7?s=gh-new-grad-jobs-2027) |
-| **xAI** | Material Handler - Memphis | Southaven, MS | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-xai-5174576007?s=gh-new-grad-jobs-2027) |
+| **Watershed** | GTM engineer | San Francisco | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-watershed-00f1ba3f-67ba-48cb-8e88-1eacc2ebb9f7?s=gh-new-grad-jobs-2027) |
+| **xAI** | Material Handler - Memphis | Southaven, MS | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-xai-5174576007?s=gh-new-grad-jobs-2027) |
 | **TJX** | Part time cashier | Menifee, California | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ145136?s=gh-new-grad-jobs-2027) |
 | **TJX** | Retail Merchandise Associate | Brunswick, Maine | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ157350?s=gh-new-grad-jobs-2027) |
 | **TJX** | Part-time Merchandise Associate | Winter Park, Florida | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ132776?s=gh-new-grad-jobs-2027) |
