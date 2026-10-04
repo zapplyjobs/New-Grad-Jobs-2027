@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Cloud Engineering Consultant - CTJ - TS/SCI | Springfield, Virginia, United... | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200058835?s=gh-new-grad-jobs-2027) |
-| **Microsoft** | DevOps Cloud Engineering Consultant- CTJ- TS/SCI | Springfield, Virginia, United... | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200058836?s=gh-new-grad-jobs-2027) |
+| **Microsoft** | Cloud Engineering Consultant - CTJ - TS/SCI | Springfield, Virginia, United... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200058835?s=gh-new-grad-jobs-2027) |
+| **Microsoft** | DevOps Cloud Engineering Consultant- CTJ- TS/SCI | Springfield, Virginia, United... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200058836?s=gh-new-grad-jobs-2027) |
 | **Expedia Group** | Software Development Engineer III, Media Solutions | Washington - Seattle | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-expedia-private-R-109666?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Cloud Platform Engineer | Plano, TX, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002801?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Loan Platforms Product Manager | TX DALLAS 5430 LBJ FREEWAY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-330591?s=gh-new-grad-jobs-2027) |
@@ -399,7 +399,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Crane Co.** | Mechanical Engineer | Elyria, Ohio | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102340?s=gh-new-grad-jobs-2027) |
-| **Anduril** | Systems Test Engineer, IBCS-M | Costa Mesa, California, United... | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5255079007?s=gh-new-grad-jobs-2027) |
+| **Anduril** | Systems Test Engineer, IBCS-M | Costa Mesa, California, United... | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5255079007?s=gh-new-grad-jobs-2027) |
 | **CAE** | Avionics Simulator Technician | USA-CA-Edwards AFB | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cae-career-122092?s=gh-new-grad-jobs-2027) |
 | **RTX** | Avionics Test Engineering -Systems Engineer Intern (Onsite) | IA-CEDAR RAPIDS | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01876518?s=gh-new-grad-jobs-2027) |
 | **Moog** | Supplier Quality Engineer | Torrance, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19030?s=gh-new-grad-jobs-2027) |
@@ -513,7 +513,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Operations Analyst Tech | USA FL MacDill AFB | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229508?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Sourcing and Procurement Analyst | USA VA Falls Church | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229359?s=gh-new-grad-jobs-2027) |
 | **Magna** | Quality Technician Sewing | Tanger, MA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00223710?s=gh-new-grad-jobs-2027) |
-| **Mach Industries** | Logistics Specialist | Huntington Beach, California,... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-machindustries-4432878009?s=gh-new-grad-jobs-2027) |
+| **Mach Industries** | Logistics Specialist | Huntington Beach, California,... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-machindustries-4432878009?s=gh-new-grad-jobs-2027) |
 | **Mach Industries** | Machine Maintenance Technician | Huntington Beach, California,... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-machindustries-4432870009?s=gh-new-grad-jobs-2027) |
 | **Leidos** | Assembly, Integration and Test Technician | Huntsville, AL | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193840?s=gh-new-grad-jobs-2027) |
 | **Warner Bros. Discovery** | Inventory Operations Associate (REG PT) - Chicago | IL Chicago 676 N. Michigan Ave | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-warnerbros-global-R000109233?s=gh-new-grad-jobs-2027) |
@@ -620,8 +620,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Carrier Global** | Project Certification Manager | CAI23: Carrier-Indianapolis,... | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30209542?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Carrier Global** | Project Certification Manager | CAI23: Carrier-Indianapolis,... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30209542?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Underwriting Assistant | San Antonio, TX, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002593?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Express Account Specialist | Ft. Wayne, IN, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002196?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Financial Analytics Manager | Remote - USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002266?s=gh-new-grad-jobs-2027) |
@@ -633,8 +633,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ASM Global** | Stocker   Highmark Stadium | Orchard Park, NY | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100122782?s=gh-new-grad-jobs-2027) |
 | **ASM Global** | Kitchen Supervisor   Highmark Stadium | Buffalo Bills Hospitality | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100121778?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Quality Assurance Rep III | USA VA Chesapeake | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229592?s=gh-new-grad-jobs-2027) |
-| **TD Bank** | Experience Designer (Human Centric Design- US) | Mount Laurel, New Jersey | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510550?s=gh-new-grad-jobs-2027) |
-| **Microsoft** | Consulting Project Manager - CTJ - TS/SCI | Springfield, Virginia, United... | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200058833?s=gh-new-grad-jobs-2027) |
+| **TD Bank** | Experience Designer (Human Centric Design- US) | Mount Laurel, New Jersey | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510550?s=gh-new-grad-jobs-2027) |
+| **Microsoft** | Consulting Project Manager - CTJ - TS/SCI | Springfield, Virginia, United... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200058833?s=gh-new-grad-jobs-2027) |
 | **Elevance Health** | Nurse Case Mgr II (US) | KY-LOUISVILLE | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR205913?s=gh-new-grad-jobs-2027) |
 | **Wells Fargo** | Teller Part Time Atlanta | ATLANTA, GA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-579045?s=gh-new-grad-jobs-2027) |
 | **Wells Fargo** | Personal Banker Ustick Branch Boise, ID | BOISE, ID | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-579860?s=gh-new-grad-jobs-2027) |
