@@ -6,7 +6,7 @@ STATUS 2026-10-06: the operative reuse terms for this repository are the
 link-back + credit; no resubmission of listings to third-party aggregators
 or feeds; enrichment fields are automated estimates provided as-is). The
 Creative Commons BY-NC-SA 4.0 text below applied to copies taken before
-2026-10-06 and continues to govern those copies.
+the licence change on 2026-10-06 and continues to govern those copies.
 
 Job listings are public information provided by employers, who remain
 responsible for their accuracy. The compilation and the added data fields
@@ -17,32 +17,30 @@ Questions or a different use? Open an issue - we say yes more often than not.
 
 ---
 
-PRIOR LICENSE (applies to copies taken before 2026-10-06):
+PRIOR LICENSE (verbatim; applies to copies taken before the licence change
+on 2026-10-06):
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
 Copyright (c) 2025 Zapply
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike
-4.0 International License.
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 You are free to:
-- Share - copy and redistribute the material in any medium or format
-- Adapt - remix, transform, and build upon the material
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
 
 Under the following terms:
-- Attribution - You must give appropriate credit to Zapply, provide a link to
-  the license, and indicate if changes were made.
-- NonCommercial - You may not use the material for commercial purposes.
-- ShareAlike - If you remix, transform, or build upon the material, you must
-  distribute your contributions under the same license as the original.
-- No additional restrictions - You may not apply legal terms or technological
-  measures that legally restrict others from doing anything the license permits.
+- Attribution — You must give appropriate credit to Zapply, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+This is a human-readable summary of (and not a substitute for) the license.
 
 Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
-COMMERCIAL LICENSING: for commercial use inquiries, open an issue.
+COMMERCIAL LICENSING:
+For commercial use inquiries, please contact: hello@zapply.com
 
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT.
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
