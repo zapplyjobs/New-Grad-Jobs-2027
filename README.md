@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Disney** | Software Engineer II | Glendale, CA | 56m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10143792?s=gh-new-grad-jobs-2027) |
+| **Disney** | Software Engineer II | Glendale, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10143792?s=gh-new-grad-jobs-2027) |
 | **Apple** | Graphics Software Engineer | Austin | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688305?s=gh-new-grad-jobs-2027) |
 | **Microsoft** | Full Stack Engineer II- Fabric | United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200057888?s=gh-new-grad-jobs-2027) |
 | **Anduril** | Software Engineer, Strategic Defense | Costa Mesa, California, United... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5260733007?s=gh-new-grad-jobs-2027) |
@@ -398,8 +398,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Lifecycle Systems Engineer I- Onsite | MA-WOBURN-WB2 | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868262?s=gh-new-grad-jobs-2027) |
-| **RTX** | Lifecycle Systems Engineer II - Onsite | MA-WOBURN-WB2 | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01875409?s=gh-new-grad-jobs-2027) |
+| **RTX** | Lifecycle Systems Engineer I- Onsite | MA-WOBURN-WB2 | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868262?s=gh-new-grad-jobs-2027) |
+| **RTX** | Lifecycle Systems Engineer II - Onsite | MA-WOBURN-WB2 | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01875409?s=gh-new-grad-jobs-2027) |
 | **AMD** | Rack and Chassis Design Mechanical Engineer | Austin, TX, United States | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-88060?s=gh-new-grad-jobs-2027) |
 | **AMD** | 2027 Masters Thermal Engineering Intern/Co-Op | Austin, TX, United States | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-93646?s=gh-new-grad-jobs-2027) |
 | **AMD** | 2027 Masters Thermal Engineering Intern/Co-Op | Santa Clara, CA, United States | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-93645?s=gh-new-grad-jobs-2027) |
@@ -509,9 +509,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | Operations Analyst Technician | USA CA Coronado | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230076?s=gh-new-grad-jobs-2027) |
-| **GDIT** | Systems Technician - TS/SCI with Polygraph | USA VA Reston | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230281?s=gh-new-grad-jobs-2027) |
-| **Proofpoint** | Named Account Manager, Mid-Market - WA/OR | Washington | 48m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-proofpoint-proofpointcareers-R14869?s=gh-new-grad-jobs-2027) |
+| **GDIT** | Operations Analyst Technician | USA CA Coronado | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230076?s=gh-new-grad-jobs-2027) |
+| **GDIT** | Systems Technician - TS/SCI with Polygraph | USA VA Reston | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230281?s=gh-new-grad-jobs-2027) |
+| **Proofpoint** | Named Account Manager, Mid-Market - WA/OR | Washington | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-proofpoint-proofpointcareers-R14869?s=gh-new-grad-jobs-2027) |
 | **Gen Digital** | Fixed Term Recruiter - 6 Months to Perm | USA - New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-gen-digital-cdff49f3-1e29-4469-a6c0-db592babd573?s=gh-new-grad-jobs-2027) |
 | **Blue Origin** | Technician-Tube Shop II | Space Coast, FL | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R69212?s=gh-new-grad-jobs-2027) |
 | **Cisco** | Solutions Engineer - Splunk (Remote) | San Jose, California, US | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024724?s=gh-new-grad-jobs-2027) |
@@ -620,11 +620,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Aerospace Corporation** | 2027 Space Vehicle Concepts Design Engineer | El Segundo, CA | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016437?s=gh-new-grad-jobs-2027) |
-| **GDIT** | Laborer | USA VA Chesapeake | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228773?s=gh-new-grad-jobs-2027) |
-| **GDIT** | IT Quality Assurance Manager | USA VA Falls Church | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230020?s=gh-new-grad-jobs-2027) |
-| **Proofpoint** | Data Security Sales Specialist | New York | 48m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-proofpoint-proofpointcareers-R14870?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Aerospace Corporation** | 2027 Space Vehicle Concepts Design Engineer | El Segundo, CA | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016437?s=gh-new-grad-jobs-2027) |
+| **GDIT** | Laborer | USA VA Chesapeake | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228773?s=gh-new-grad-jobs-2027) |
+| **GDIT** | IT Quality Assurance Manager | USA VA Falls Church | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230020?s=gh-new-grad-jobs-2027) |
+| **Proofpoint** | Data Security Sales Specialist | New York | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-proofpoint-proofpointcareers-R14870?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | OTC Derivatives Analyst | New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-331927?s=gh-new-grad-jobs-2027) |
 | **Copart** | Loader Operator | Houston, TX | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-copart-copart-JR112073?s=gh-new-grad-jobs-2027) |
 | **Capital One** | Full-stack Engineer 5 | McLean, VA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001301?s=gh-new-grad-jobs-2027) |
