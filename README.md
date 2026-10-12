@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | Software Engineer, DL Kernel Libraries - New College Grad 2027 | US, CA, Santa Clara | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027337?s=gh-new-grad-jobs-2027) |
+| **NVIDIA** | Software Engineer, DL Kernel Libraries - New College Grad 2027 | US, CA, Santa Clara | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027337?s=gh-new-grad-jobs-2027) |
 | **Nox Metals** | Operations Systems Product Manager | Los Angeles | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-e9544ab2-ad02-45d2-8825-e911d40fb604?s=gh-new-grad-jobs-2027) |
 | **Nox Metals** | Customer & Commercial Product Manager | Los Angeles | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-880015f4-2b2c-46bf-b2d4-b1a3ca25a97b?s=gh-new-grad-jobs-2027) |
 | **GlobalFoundries** | Software Engineer (2027 New College Graduate) | Texas Austin | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604100?s=gh-new-grad-jobs-2027) |
@@ -398,9 +398,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Mechanical Engineer Intern (Summer 2027) | CA-EL SEGUNDO-E01 | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881647?s=gh-new-grad-jobs-2027) |
-| **RTX** | Lifecycle Systems Engineer I- Onsite | MA-WOBURN-WB2 | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868262?s=gh-new-grad-jobs-2027) |
-| **AMD** | 2027 Masters Thermal Engineering Intern/Co-Op | Austin, TX, United States | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-93646?s=gh-new-grad-jobs-2027) |
+| **RTX** | Mechanical Engineer Intern (Summer 2027) | CA-EL SEGUNDO-E01 | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881647?s=gh-new-grad-jobs-2027) |
+| **RTX** | Lifecycle Systems Engineer I- Onsite | MA-WOBURN-WB2 | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868262?s=gh-new-grad-jobs-2027) |
+| **AMD** | 2027 Masters Thermal Engineering Intern/Co-Op | Austin, TX, United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-93646?s=gh-new-grad-jobs-2027) |
 | **AMD** | 2027 Masters Thermal Engineering Intern/Co-Op | Santa Clara, CA, United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-93645?s=gh-new-grad-jobs-2027) |
 | **AMD** | 2027 Undergrad Thermal Engineering Intern/Co-Op | Austin, TX, United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-93644?s=gh-new-grad-jobs-2027) |
 | **Curtiss-Wright** | Intern, Manufacturing Engineering | OH-Brecksville | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR13756?s=gh-new-grad-jobs-2027) |
@@ -509,11 +509,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Iberdrola** | Plant Technician I - Power | OR | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34121?s=gh-new-grad-jobs-2027) |
-| **Conagra Brands** | Industrial Maintenance Technician - 2nd Shift | Lincoln, Nebraska | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-conagrabrands-careers-us-Req-039807?s=gh-new-grad-jobs-2027) |
+| **Iberdrola** | Plant Technician I - Power | OR | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34121?s=gh-new-grad-jobs-2027) |
+| **Conagra Brands** | Industrial Maintenance Technician - 2nd Shift | Lincoln, Nebraska | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-conagrabrands-careers-us-Req-039807?s=gh-new-grad-jobs-2027) |
 | **Nox Metals** | Weekend Operations Associate | Detroit | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-ddd7fc78-da0e-4f20-926a-b8262d65a8b0?s=gh-new-grad-jobs-2027) |
-| **Nox Metals** | Business Development Representative | Detroit | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-2b25e0b0-0a4b-4a7e-855a-f35939d9ef1d?s=gh-new-grad-jobs-2027) |
-| **Nox Metals** | Account Executive | Los Angeles | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-8e884c86-5361-4fcd-a1a4-b35ac4ae76f8?s=gh-new-grad-jobs-2027) |
+| **Nox Metals** | Business Development Representative | Detroit | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-2b25e0b0-0a4b-4a7e-855a-f35939d9ef1d?s=gh-new-grad-jobs-2027) |
+| **Nox Metals** | Account Executive | Los Angeles | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-8e884c86-5361-4fcd-a1a4-b35ac4ae76f8?s=gh-new-grad-jobs-2027) |
 | **Figma** | Early Career, Inside Sales Representative (2027) | San Francisco, CA • New York, NY | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figma-6174190004?s=gh-new-grad-jobs-2027) |
 | **Gen Digital** | Fixed Term Recruiter - 6 Months to Perm | USA - New York, NY | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-gen-digital-cdff49f3-1e29-4469-a6c0-db592babd573?s=gh-new-grad-jobs-2027) |
 | **SS&C Technologies** | Customer Success Manager | Remote - Missouri, US | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R42639?s=gh-new-grad-jobs-2027) |
@@ -620,15 +620,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GlobalFoundries** | Strategic Pricing & AI Analytics Intern (Summer 2027) | USA - Texas - Austin | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605139?s=gh-new-grad-jobs-2027) |
-| **GlobalFoundries** | Customer Business Manager Intern (Summer 2027) | USA - Texas - Austin | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604223?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Disney** | Editor, Features (National Geographic) | Washington, DC | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10156356?s=gh-new-grad-jobs-2027) |
-| **GDIT** | Laborer | USA VA Chesapeake | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228773?s=gh-new-grad-jobs-2027) |
-| **Firestorm** | AUSA 2026 | San Diego, United States | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-firestorm-am9icG9zdDrvovSx93sJrBV52UACI2gy?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Personal Banker Midwest Charlotte | GASTONIA, NC | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-578695?s=gh-new-grad-jobs-2027) |
-| **Proofpoint** | Data Security Sales Specialist | New York | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-proofpoint-proofpointcareers-R14870?s=gh-new-grad-jobs-2027) |
-| **State Street** | MD / Managing Counsel, State Street Investment Management Legal - Institutional Distribution,... | Boston, Massachusetts | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-799297?s=gh-new-grad-jobs-2027) |
+| **GlobalFoundries** | Strategic Pricing & AI Analytics Intern (Summer 2027) | USA - Texas - Austin | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605139?s=gh-new-grad-jobs-2027) |
+| **GlobalFoundries** | Customer Business Manager Intern (Summer 2027) | USA - Texas - Austin | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604223?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Disney** | Editor, Features (National Geographic) | Washington, DC | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10156356?s=gh-new-grad-jobs-2027) |
+| **GDIT** | Laborer | USA VA Chesapeake | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228773?s=gh-new-grad-jobs-2027) |
+| **Firestorm** | AUSA 2026 | San Diego, United States | 48m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-firestorm-am9icG9zdDrvovSx93sJrBV52UACI2gy?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Personal Banker Midwest Charlotte | GASTONIA, NC | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-578695?s=gh-new-grad-jobs-2027) |
+| **Proofpoint** | Data Security Sales Specialist | New York | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-proofpoint-proofpointcareers-R14870?s=gh-new-grad-jobs-2027) |
+| **State Street** | MD / Managing Counsel, State Street Investment Management Legal - Institutional Distribution,... | Boston, Massachusetts | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-799297?s=gh-new-grad-jobs-2027) |
 | **Bosch Group** | Robotics Research Intern | Sunnyvale, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154911489?s=gh-new-grad-jobs-2027) |
 | **Amentum** | Helicopter Pilot (Instructor) | AL-Fort Rucker | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0166437?s=gh-new-grad-jobs-2027) |
 | **HPE (University)** | Corporate Strategy & Transformation Intern | Spring, Texas, United States of... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216007?s=gh-new-grad-jobs-2027) |
@@ -644,7 +644,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nox Metals** | Operations Trainer | Detroit | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-b8cdaba9-9554-456a-8c08-74711ca382d6?s=gh-new-grad-jobs-2027) |
 | **Nox Metals** | Saw Operator | Los Angeles | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-2042e3dc-eaad-4772-9218-1d0ba5841d34?s=gh-new-grad-jobs-2027) |
 | **Nox Metals** | Material Handler / Shipping Associate | Los Angeles | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-f17a039c-294a-43a3-9bb9-81c914280792?s=gh-new-grad-jobs-2027) |
-| **Red Bull** | Sales Trainee | Ogden, UT | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000154889499?s=gh-new-grad-jobs-2027) |
+| **Red Bull** | Sales Trainee | Ogden, UT | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000154889499?s=gh-new-grad-jobs-2027) |
 | **RTX** | Mechanical Assembler | MS-FOREST | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880157?s=gh-new-grad-jobs-2027) |
 | **AMD** | Pricing Strategy Manager | Austin, TX, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-92357?s=gh-new-grad-jobs-2027) |
 | **Becton Dickinson** | Team Lead | USA MD - Hunt Valley | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-554647?s=gh-new-grad-jobs-2027) |
