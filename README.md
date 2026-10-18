@@ -500,8 +500,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Salesforce** | Retail POS Enterprise Account Executive | New York | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR298937?s=gh-new-grad-jobs-2027) |
-| **RTX** | Materials Management & Logistics Internship Program (Summer 2027) | CT-EAST HARTFORD-ETC | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01862953?s=gh-new-grad-jobs-2027) |
+| **Salesforce** | Retail POS Enterprise Account Executive | New York | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR298937?s=gh-new-grad-jobs-2027) |
+| **RTX** | Materials Management & Logistics Internship Program (Summer 2027) | CT-EAST HARTFORD-ETC | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01862953?s=gh-new-grad-jobs-2027) |
 | **Honeywell** | Inside Sales Representative I | Houston, TX, United States | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159684?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Business Development Representative | Milwaukee, WI, USA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003362?s=gh-new-grad-jobs-2027) |
 | **ASM Global** | Ticket Sales Representative - Georgia Tech | Atlanta, GA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126108?s=gh-new-grad-jobs-2027) |
@@ -611,11 +611,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Northrop Grumman** | Manager of General Manufacturing 1 | United States-New York-Bethpage | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256062?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Northrop Grumman** | Manager of General Manufacturing 1 | United States-New York-Bethpage | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256062?s=gh-new-grad-jobs-2027) |
 | **Thales** | Master Scheduler | Orlando | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0339339?s=gh-new-grad-jobs-2027) |
 | **Home Depot** | DC TRANSPORTATION AREA SUPERVISOR | ATLANTA FDC/BDC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req196410?s=gh-new-grad-jobs-2027) |
-| **Cisco** | Executive Assistant, VPs, Operations and Renewals (Remote) | Bellevue Washington US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026885?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Executive Assistant, VPs, Operations and Renewals (Remote) | Bellevue Washington US | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026885?s=gh-new-grad-jobs-2027) |
 | **Live Nation** | Overnight Cleaning Supervisor Brooklyn Paramount | Brooklyn, NY, USA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-93706?s=gh-new-grad-jobs-2027) |
 | **UPS** | Odessa Center Seasonal Part Time Coordinator (Odess, TX) | ODESSA, Texas | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26035759?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Underwriting Supervisor | Vero Beach, FL | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003378?s=gh-new-grad-jobs-2027) |
@@ -627,7 +627,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Associate Banker I (Brooklyn Chinatown) PT 20 hours - Bilingual Mandarin or Fujianese preferred | Brooklyn, New York | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515658?s=gh-new-grad-jobs-2027) |
 | **Wells Fargo** | Personal Banker Bilingual Spanish Chapel Hill University | CHAPEL HILL, NC | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-581948?s=gh-new-grad-jobs-2027) |
 | **Wells Fargo** | Relationship Banker North Meck | CORNELIUS, NC | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574497?s=gh-new-grad-jobs-2027) |
-| **PNC Financial Services** | Client Experience Associate | CA - Stockton | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R232966?s=gh-new-grad-jobs-2027) |
+| **PNC Financial Services** | Client Experience Associate | CA - Stockton | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R232966?s=gh-new-grad-jobs-2027) |
 | **Sanofi** | Field Reimbursement Manager, Pulmonology and Gastroenterology - South Bend, IN | Remote, USA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-46029607040?s=gh-new-grad-jobs-2027) |
 | **Sanofi** | Area Business Manager – Pulmonary Birmingham, AL | Remote, USA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-46029582720?s=gh-new-grad-jobs-2027) |
 | **Sanofi** | Global Quality Auditor | Remote, USA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-46029545024?s=gh-new-grad-jobs-2027) |
@@ -636,7 +636,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ASM Global** | Warehouse Clerk | San Francisco, CA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126101?s=gh-new-grad-jobs-2027) |
 | **ASM Global** | House Usher | Tacoma, WA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100125250?s=gh-new-grad-jobs-2027) |
 | **Cigna** | Pharmacy Underwriting Summer Internship Program | Morris Plains, NJ | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009219?s=gh-new-grad-jobs-2027) |
-| **Shield AI** | Engineer I, Mechanical (R6302) | Seattle, Washington | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a?s=gh-new-grad-jobs-2027) |
+| **Shield AI** | Engineer I, Mechanical (R6302) | Seattle, Washington | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a?s=gh-new-grad-jobs-2027) |
 | **Lyft** | UX Researcher | New York, NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8896666002?s=gh-new-grad-jobs-2027) |
 | **Shield AI** | Engineer I, Mechanical Hardware Test | Seattle, Washington | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-41e7cdce-586b-4776-b947-e8e262d20326?s=gh-new-grad-jobs-2027) |
 | **LexisNexis Risk Solutions** | Training & Content Governance Coordinator | Georgia | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-relx-risksolutions-R119195?s=gh-new-grad-jobs-2027) |
