@@ -499,7 +499,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cisco** | Virtual Sales Account Executive - Splunk Federal Civilian (Remote) | McLean Virginia US | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027224?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Virtual Sales Account Executive - Splunk Federal Civilian (Remote) | McLean Virginia US | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027224?s=gh-new-grad-jobs-2027) |
 | **RTX** | Materials Management & Logistics Internship Program (Summer 2027) | CT-EAST HARTFORD-ETC | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01862953?s=gh-new-grad-jobs-2027) |
 | **Red Hat** | Sales Account Manager 2 | US, NC | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-redhat-jobs-R-058949?s=gh-new-grad-jobs-2027) |
 | **Cisco** | Virtual Sales Account Executive - Splunk Federal Civilian (Remote) | Mclean, Virginia | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2027224?s=gh-new-grad-jobs-2027) |
@@ -610,13 +610,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Caterpillar** | Program Manager - Digital Media COE | Irving, Texas | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000400550?s=gh-new-grad-jobs-2027) |
-| **KBR** | Wells HSE Specialist | Basra, Al Başrah, Iraq | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131142?s=gh-new-grad-jobs-2027) |
-| **KBR** | Team Lead Growth 2 | Basra, Al Başrah, Iraq | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131141?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Assistant Broker | Scottsdale, AZ, USA | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001804?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Inside Sales Specialist | California | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003021?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Dealer Performance & Growth Executive | Arlington, TX, USA | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001892?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Caterpillar** | Program Manager - Digital Media COE | Irving, Texas | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000400550?s=gh-new-grad-jobs-2027) |
+| **KBR** | Wells HSE Specialist | Basra, Al Başrah, Iraq | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131142?s=gh-new-grad-jobs-2027) |
+| **KBR** | Team Lead Growth 2 | Basra, Al Başrah, Iraq | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131141?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Assistant Broker | Scottsdale, AZ, USA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001804?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Inside Sales Specialist | California | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003021?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Dealer Performance & Growth Executive | Arlington, TX, USA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001892?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
 | **Home Depot** | DC TRANSPORTATION AREA SUPERVISOR | ATLANTA FDC/BDC | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req196410?s=gh-new-grad-jobs-2027) |
 | **PNC Financial Services** | Client Experience Associate | CA - Stockton | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R232966?s=gh-new-grad-jobs-2027) |
 | **TD Bank** | Relationship Banker I (74th & Broadway) 30 Hours | New York, New York | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1516192?s=gh-new-grad-jobs-2027) |
