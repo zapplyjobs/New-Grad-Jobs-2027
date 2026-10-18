@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cisco** | Engineering Product Manager, Cisco Partner Incentive - Hybrid | RTP North Carolina US | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025355?s=gh-new-grad-jobs-2027) |
-| **Cisco** | Engineering Product Manager, Cisco Partner Incentive - Hybrid | RTP North Carolina US | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025367?s=gh-new-grad-jobs-2027) |
-| **Cisco** | Engineering Product Manager Hybrid | RTP North Carolina US | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026064?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Engineering Product Manager, Cisco Partner Incentive - Hybrid | RTP North Carolina US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025355?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Engineering Product Manager, Cisco Partner Incentive - Hybrid | RTP North Carolina US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025367?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Engineering Product Manager Hybrid | RTP North Carolina US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026064?s=gh-new-grad-jobs-2027) |
 | **Home Depot** | User Experience Designer - Online | STORE SUPPORT | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req195909?s=gh-new-grad-jobs-2027) |
 | **Home Depot** | PRODUCT MANAGER | STORE SUPPORT | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req195951?s=gh-new-grad-jobs-2027) |
 | **RTX** | Software Engineer I, Onsite | IA-CEDAR RAPIDS | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878662?s=gh-new-grad-jobs-2027) |
@@ -125,7 +125,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KION Group** | Software Engineering Intern | Grand Rapids MI United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0097732?s=gh-new-grad-jobs-2027) |
 | **Tessera Labs** | Software Engineering Intern, Full Stack | San Jose | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-tessera-labs-892bb150-8c98-47f4-a8b6-93633ecb2ea7?s=gh-new-grad-jobs-2027) |
 | **Nominal** | Product Designer - New Grad (Summer 2027) | New York, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDry9kV7vE_-FGiPtGinvtOT?s=gh-new-grad-jobs-2027) |
-| **Apple** | SoC Pre-Silicon Platform Engineering Program Manager | Cupertino | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200689111?s=gh-new-grad-jobs-2027) |
+| **Apple** | SoC Pre-Silicon Platform Engineering Program Manager | Cupertino | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200689111?s=gh-new-grad-jobs-2027) |
 | **Credence** | Air Force Maintenance Product Owner- U-2 | Warner Robins, Georgia | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-credence-B856D81041?s=gh-new-grad-jobs-2027) |
 | **Credence** | Air Force Supply Product Owner | Warner Robins, Georgia | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-credence-AEBDC81112?s=gh-new-grad-jobs-2027) |
 | **Credence** | Air Force Supply Product Owner - U-2 | Warner Robins, Georgia | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-credence-C494D60287?s=gh-new-grad-jobs-2027) |
@@ -213,7 +213,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oracle** | NA Sales Representative, Data Platform - Manufacturing & Transportation | Chicago, IL, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-oracle-347716?s=gh-new-grad-jobs-2027) |
 | **Oracle** | NA Sales Representative, Data Platform - Manufacturing & Transportation | OH, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-oracle-347722?s=gh-new-grad-jobs-2027) |
 | **Anduril** | Winter 2027 Research Engineer Co-op | Santa Ana, California, United... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5265127007?s=gh-new-grad-jobs-2027) |
-| **Apple** | Engineering Project Manager, Ai & Data Platforms | Sunnyvale | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688678?s=gh-new-grad-jobs-2027) |
+| **Apple** | Engineering Project Manager, Ai & Data Platforms | Sunnyvale | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688678?s=gh-new-grad-jobs-2027) |
 | **Point72** | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research | New York, NY | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-point72-8885299002?s=gh-new-grad-jobs-2027) |
 | **ICF** | 2027 Summer Intern, AI Engineer (Reston, VA) | Reston, VA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603521?s=gh-new-grad-jobs-2027) |
 | **ICF** | 2027 Summer Intern, AI Engineer (Reston, VA) | Reston, VA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603518?s=gh-new-grad-jobs-2027) |
@@ -468,7 +468,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **MITRE** | Associate FPGA / ASIC Design Engineer - Summer 2027 | Bedford, Massachusetts | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117605?s=gh-new-grad-jobs-2027) |
 | **Entegris** | Engineer I, Electrical Engineering | San Luis Obispo, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15078?s=gh-new-grad-jobs-2027) |
 | **Skydio** | Process Engineering Intern - Summer 2027 | San Mateo, California, United... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-6e76d5fa-981e-4986-955b-602aa6ddcb1b?s=gh-new-grad-jobs-2027) |
-| **Apple** | SoC Pre-Silicon Engineering Program Manager | Austin | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200678199?s=gh-new-grad-jobs-2027) |
+| **Apple** | SoC Pre-Silicon Engineering Program Manager | Austin | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200678199?s=gh-new-grad-jobs-2027) |
 | **Philips** | Co-op – Mechanical/Process Engineer – Reedsville, PA – 2027 | Reedsville, Pennsylvania,... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592205?s=gh-new-grad-jobs-2027) |
 | **Amentum** | Avionics Technician | AZ-Tucson | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173020?s=gh-new-grad-jobs-2027) |
 | **Amentum** | Avionics Technician | AZ-Tucson | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173019?s=gh-new-grad-jobs-2027) |
@@ -499,7 +499,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cisco** | Virtual Sales Account Executive - Splunk Federal Civilian (Remote) | McLean Virginia US | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027224?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Virtual Sales Account Executive - Splunk Federal Civilian (Remote) | McLean Virginia US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027224?s=gh-new-grad-jobs-2027) |
 | **RTX** | Materials Management & Logistics Internship Program (Summer 2027) | CT-EAST HARTFORD-ETC | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01862953?s=gh-new-grad-jobs-2027) |
 | **Red Hat** | Sales Account Manager 2 | US, NC | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-redhat-jobs-R-058949?s=gh-new-grad-jobs-2027) |
 | **Cisco** | Virtual Sales Account Executive - Splunk Federal Civilian (Remote) | Mclean, Virginia | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2027224?s=gh-new-grad-jobs-2027) |
@@ -610,7 +610,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
 | **Caterpillar** | Program Manager - Digital Media COE | Irving, Texas | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000400550?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Assistant Broker | Scottsdale, AZ, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001804?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Inside Sales Specialist | California | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003021?s=gh-new-grad-jobs-2027) |
