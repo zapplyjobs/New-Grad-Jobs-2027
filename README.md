@@ -389,7 +389,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boeing** | Systems Engineer (Experienced or Lead) | Hazelwood, MO | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2025489672?s=gh-new-grad-jobs-2027) |
+| **Boeing** | Systems Engineer (Experienced or Lead) | Hazelwood, MO | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2025489672?s=gh-new-grad-jobs-2027) |
 | **Boeing** | Modeling and Simulation Systems Engineer (Mid-Level or Senior) | USA - Albuquerque, NM | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026496140?s=gh-new-grad-jobs-2027) |
 | **Allegion** | Summer Intern - Firmware Engineer | Farmington, CT | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allegion-careers-JR37449?s=gh-new-grad-jobs-2027) |
 | **Thornton Tomasetti** | Structural Engineer Intern | Chicago, IL, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7484?s=gh-new-grad-jobs-2027) |
@@ -500,8 +500,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Brown & Brown Insurance** | Business Development Representative | Milwaukee, WI, USA | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003362?s=gh-new-grad-jobs-2027) |
-| **SS&C Technologies** | Account Executive, Partnership Sales | Florida US | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R46089?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Business Development Representative | Milwaukee, WI, USA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003362?s=gh-new-grad-jobs-2027) |
+| **SS&C Technologies** | Account Executive, Partnership Sales | Florida US | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R46089?s=gh-new-grad-jobs-2027) |
 | **RTX** | Materials Management & Logistics Internship Program (Summer 2027) | CT-EAST HARTFORD-ETC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01862953?s=gh-new-grad-jobs-2027) |
 | **Honeywell** | Inside Sales Representative I | Houston, TX, United States | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159684?s=gh-new-grad-jobs-2027) |
 | **ASM Global** | Ticket Sales Representative - Georgia Tech | Atlanta, GA | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126108?s=gh-new-grad-jobs-2027) |
@@ -611,20 +611,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Brown & Brown Insurance** | Employee Benefits Consultant | Milwaukee, WI | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003366?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Property & Casualty Risk Consultant | Milwaukee, WI | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003363?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Contract Surety Underwriter Associate | Remote - Pennsylvania | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003369?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **SS&C Technologies** | Investor Services Representative - Entry Level | Kansas US | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R44245?s=gh-new-grad-jobs-2027) |
-| **SS&C Technologies** | Mail/Distribution Services Representative (Night Shift/Weekends) | Kansas City, MO | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R43429?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Personal Banker Bilingual Spanish Chapel Hill University | CHAPEL HILL, NC | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-581948?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Relationship Banker North Meck | CORNELIUS, NC | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574497?s=gh-new-grad-jobs-2027) |
-| **Thales** | Master Scheduler | Orlando | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0339339?s=gh-new-grad-jobs-2027) |
-| **Baker Hughes** | Field Operator - Operador de campo | Pico Truncado, AR | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R170805?s=gh-new-grad-jobs-2027) |
-| **Live Nation** | Overnight Cleaning Supervisor Brooklyn Paramount | Brooklyn, NY, USA | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-93706?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Employee Benefits Consultant | Milwaukee, WI | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003366?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Property & Casualty Risk Consultant | Milwaukee, WI | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003363?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Contract Surety Underwriter Associate | Remote - Pennsylvania | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003369?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **SS&C Technologies** | Investor Services Representative - Entry Level | Kansas US | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R44245?s=gh-new-grad-jobs-2027) |
+| **SS&C Technologies** | Mail/Distribution Services Representative (Night Shift/Weekends) | Kansas City, MO | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R43429?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Personal Banker Bilingual Spanish Chapel Hill University | CHAPEL HILL, NC | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-581948?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Relationship Banker North Meck | CORNELIUS, NC | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574497?s=gh-new-grad-jobs-2027) |
+| **Thales** | Master Scheduler | Orlando | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0339339?s=gh-new-grad-jobs-2027) |
+| **Baker Hughes** | Field Operator - Operador de campo | Pico Truncado, AR | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R170805?s=gh-new-grad-jobs-2027) |
+| **Live Nation** | Overnight Cleaning Supervisor Brooklyn Paramount | Brooklyn, NY, USA | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-93706?s=gh-new-grad-jobs-2027) |
 | **TD Bank** | Relationship Banker I (74th & Broadway) 30 Hours | New York, New York | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1516192?s=gh-new-grad-jobs-2027) |
 | **TD Bank** | Associate Banker I (Brooklyn Chinatown) PT 20 hours - Bilingual Mandarin or Fujianese preferred | Brooklyn, New York | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515658?s=gh-new-grad-jobs-2027) |
-| **Northrop Grumman** | Manager of General Manufacturing 1 | United States-New York-Bethpage | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256062?s=gh-new-grad-jobs-2027) |
+| **Northrop Grumman** | Manager of General Manufacturing 1 | United States-New York-Bethpage | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256062?s=gh-new-grad-jobs-2027) |
 | **Cisco** | Executive Assistant, VPs, Operations and Renewals (Remote) | Bellevue Washington US | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026885?s=gh-new-grad-jobs-2027) |
 | **University of Miami** | ECMO Support Specialist | Miami, Florida | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102197?s=gh-new-grad-jobs-2027) |
 | **UPS** | Seasonal Package Delivery Driver | Glenwood Springs, Colorado | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-0b4a8873-0ce5-4faf-ad98-802658d937cd?s=gh-new-grad-jobs-2027) |
