@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Brown & Brown Insurance** | Account Manager - Personal Lines | Medford, OR, USA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002187?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Account Manager - Personal Lines | Medford, OR, USA | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002187?s=gh-new-grad-jobs-2027) |
 | **SS&C Technologies** | Sales Development Representative | Jacksonville, FL | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R43635?s=gh-new-grad-jobs-2027) |
 | **ICF** | On-Call Archaeological Field Technician (Southeast US) | Raleigh, NC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603658?s=gh-new-grad-jobs-2027) |
 | **Cisco** | Virtual Sales Account Executive - Splunk -Portuguese Speaking (Remote) | Austin Texas US | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027337?s=gh-new-grad-jobs-2027) |
@@ -620,15 +620,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KBR** | Electrical Specialist | Basra, Al Başrah, Iraq | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131282?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Associate, Bonds Data | New York, NY | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332412?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Marketing Specialist- Enterprise Solution | New York, NY | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332335?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002784?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002785?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002786?s=gh-new-grad-jobs-2027) |
-| **Deutsche Bank** | Audit Associate | New York, 1 Columbus Circle | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0456585?s=gh-new-grad-jobs-2027) |
-| **TD Synnex** | Vendor Solutions Representative - CCA | Miramar Florida United States | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R57186?s=gh-new-grad-jobs-2027) |
+| **KBR** | Electrical Specialist | Basra, Al Başrah, Iraq | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131282?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Associate, Bonds Data | New York, NY | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332412?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Marketing Specialist- Enterprise Solution | New York, NY | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332335?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002784?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002785?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002786?s=gh-new-grad-jobs-2027) |
+| **Deutsche Bank** | Audit Associate | New York, 1 Columbus Circle | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0456585?s=gh-new-grad-jobs-2027) |
+| **TD Synnex** | Vendor Solutions Representative - CCA | Miramar Florida United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R57186?s=gh-new-grad-jobs-2027) |
 | **Target** | Assets Protection Specialist (Retail Theft & Fraud Investigator) | Kailua Kona, HI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478615?s=gh-new-grad-jobs-2027) |
 | **DriveTime** | Sales & Operations Advisor in Training | 1354 E Main St Salem, VA 24153 | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-drivetime-drivetime-R16556?s=gh-new-grad-jobs-2027) |
 | **PNC Financial Services** | Middle Office Services Specialist (Loan Coordinator) - PNC Private Bank | Home Location-OH | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R238066?s=gh-new-grad-jobs-2027) |
