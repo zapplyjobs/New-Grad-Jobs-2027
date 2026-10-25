@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Skydio** | PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027 | San Mateo, California, United... | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-f1a72f5b-6157-47c1-8de9-379a32c7419f?s=gh-new-grad-jobs-2027) |
+| **Skydio** | PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027 | San Mateo, California, United... | 41m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-f1a72f5b-6157-47c1-8de9-379a32c7419f?s=gh-new-grad-jobs-2027) |
 | **Vertex Pharmaceuticals** | Spring Co-Op 2027, Process Engineering Data Analytics | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31006?s=gh-new-grad-jobs-2027) |
 | **Parsons** | Data Scientist I | DC, Washington, R186422 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R186422?s=gh-new-grad-jobs-2027) |
 | **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scm-721895?s=gh-new-grad-jobs-2027) |
@@ -484,9 +484,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Brown & Brown Insurance** | Account Manager - Personal Lines | Medford, OR, USA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002187?s=gh-new-grad-jobs-2027) |
-| **Baxter International** | Recruiter | Deerfield, Illinois | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-211795?s=gh-new-grad-jobs-2027) |
-| **Teledyne** | Procurement/Customer Service Representative | Tracy, CA | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ37122?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Account Manager - Personal Lines | Medford, OR, USA | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002187?s=gh-new-grad-jobs-2027) |
+| **Baxter International** | Recruiter | Deerfield, Illinois | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-211795?s=gh-new-grad-jobs-2027) |
+| **Teledyne** | Procurement/Customer Service Representative | Tracy, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ37122?s=gh-new-grad-jobs-2027) |
 | **Mach Industries** | University Recruiter | Huntington Beach, California,... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-machindustries-4466802009?s=gh-new-grad-jobs-2027) |
 | **Eurofins** | Chemistry Laboratory Technician I | Mounds View, MN | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000157679349?s=gh-new-grad-jobs-2027) |
 | **AST SpaceMobile** | Composite Technician, 2nd shift, Site 2 | Midland, Texas, United States | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astspacemobile-4741194005?s=gh-new-grad-jobs-2027) |
@@ -595,16 +595,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Wells Fargo** | Relationship Banker - Huntsville, AL | HUNTSVILLE, AL | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580057?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002784?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002785?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002786?s=gh-new-grad-jobs-2027) |
-| **ASM Global** | Event Attendant (Casual) - The Moscone Center | San Francisco, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126091?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Capital One** | Café Ambassador- Scottsdale Fashion Sq. | Scottsdale, AZ | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1004287?s=gh-new-grad-jobs-2027) |
-| **Skydio** | Autonomy Engineer Intern, 2027 | San Mateo, California, United... | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-d39c46ce-a4e9-45d2-99bf-17e3b7dac34b?s=gh-new-grad-jobs-2027) |
-| **Skydio** | PhD Autonomy Engineer Intern, 2027 | San Mateo, California, United... | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-fe26fdf8-15b2-44e6-8e43-ace13431453c?s=gh-new-grad-jobs-2027) |
-| **Stanley Black & Decker** | 3rd Shift Cell Operator - Portaband Weld - $22.64/hour | Shelbyville, KY, United States | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053574?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Relationship Banker - Huntsville, AL | HUNTSVILLE, AL | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580057?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002784?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002785?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002786?s=gh-new-grad-jobs-2027) |
+| **ASM Global** | Event Attendant (Casual) - The Moscone Center | San Francisco, CA | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126091?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Capital One** | Café Ambassador- Scottsdale Fashion Sq. | Scottsdale, AZ | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1004287?s=gh-new-grad-jobs-2027) |
+| **Skydio** | Autonomy Engineer Intern, 2027 | San Mateo, California, United... | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-d39c46ce-a4e9-45d2-99bf-17e3b7dac34b?s=gh-new-grad-jobs-2027) |
+| **Skydio** | PhD Autonomy Engineer Intern, 2027 | San Mateo, California, United... | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-fe26fdf8-15b2-44e6-8e43-ace13431453c?s=gh-new-grad-jobs-2027) |
+| **Stanley Black & Decker** | 3rd Shift Cell Operator - Portaband Weld - $22.64/hour | Shelbyville, KY, United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053574?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Associate, Bonds Data | New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332412?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Marketing Specialist- Enterprise Solution | New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332335?s=gh-new-grad-jobs-2027) |
 | **Intapp** | Client Technology Strategist (CTS) | NY New York | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intapp-intapp-R2025421?s=gh-new-grad-jobs-2027) |
