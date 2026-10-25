@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Wells Fargo** | Product Owner - Contact Center Workforce Management Tools | CHARLOTTE, NC | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-570098?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Product Owner - Contact Center Workforce Management Tools | CHARLOTTE, NC | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-570098?s=gh-new-grad-jobs-2027) |
 | **Cox** | Software Engineering Intern - Summer 2027 (Austin, TX) | Austin TX | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682168?s=gh-new-grad-jobs-2027) |
 | **Barclays** | Process, Control and Revenue Optimization Product Manager | New York, 745 7th Avenue | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000125312?s=gh-new-grad-jobs-2027) |
 | **CACI** | Cleared Software Engineer Intern - Summer 2027 | Denver CO US | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331999?s=gh-new-grad-jobs-2027) |
@@ -509,12 +509,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **SS&C Technologies** | Sales Development Representative | Jacksonville, FL | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R43635?s=gh-new-grad-jobs-2027) |
+| **SS&C Technologies** | Sales Development Representative | Jacksonville, FL | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R43635?s=gh-new-grad-jobs-2027) |
 | **ICF** | On-Call Archaeological Field Technician (Southeast US) | Raleigh, NC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603658?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Commercial Lines Account Manager | Rochester, NY, USA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003124?s=gh-new-grad-jobs-2027) |
 | **Cisco** | Virtual Sales Account Executive - Splunk -Portuguese Speaking (Remote) | Austin Texas US | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027337?s=gh-new-grad-jobs-2027) |
 | **Apple** | CRM Campaign Operations Specialist | Cupertino | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200691123?s=gh-new-grad-jobs-2027) |
-| **Anduril** | NDT Technician | McHenry, Mississippi, United States | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5272426007?s=gh-new-grad-jobs-2027) |
+| **Anduril** | NDT Technician | McHenry, Mississippi, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5272426007?s=gh-new-grad-jobs-2027) |
 | **Regal Rexnord** | Electronics Lab Technician I | Radford, Virginia, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04131?s=gh-new-grad-jobs-2027) |
 | **Thales** | Logistics Specialist | Orlando | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0345439?s=gh-new-grad-jobs-2027) |
 | **Clarivate** | Business Development Associate - Life Sciences & Healthcare | 121 Massachusetts | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-clarivate-clarivate-careers-JREQ136142?s=gh-new-grad-jobs-2027) |
@@ -620,24 +620,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Deutsche Bank** | Audit Associate | New York, 1 Columbus Circle | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0456585?s=gh-new-grad-jobs-2027) |
-| **KBR** | Area Authority (AAD) | Basra, Al Başrah, Iraq | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129450?s=gh-new-grad-jobs-2027) |
-| **TD Synnex** | Vendor Solutions Representative - CCA | Miramar Florida United States | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R57186?s=gh-new-grad-jobs-2027) |
-| **Pfizer** | Associate Scientist CID | United States - New York -... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4965881?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Target** | Assets Protection Specialist (Retail Theft & Fraud Investigator) | Kailua Kona, HI | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478615?s=gh-new-grad-jobs-2027) |
-| **DriveTime** | Sales & Operations Advisor in Training | 1354 E Main St Salem, VA 24153 | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-drivetime-drivetime-R16556?s=gh-new-grad-jobs-2027) |
-| **PNC Financial Services** | Middle Office Services Specialist (Loan Coordinator) - PNC Private Bank | Home Location-OH | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R238066?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Relationship Banker Lynchburg Area | LYNCHBURG, VA | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583769?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Relationship Banker Santa Ana, CA | SANTA ANA, CA | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-578945?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Personal Banker Elizabethtown | ELIZABETHTOWN, NC | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583511?s=gh-new-grad-jobs-2027) |
-| **Polaris** | Material Handler - 1st Shift | Huntsville, AL, USA | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31694?s=gh-new-grad-jobs-2027) |
-| **Polaris** | Production Operator - 3rd Shift | Huntsville, AL, USA | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31693?s=gh-new-grad-jobs-2027) |
+| **Deutsche Bank** | Audit Associate | New York, 1 Columbus Circle | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0456585?s=gh-new-grad-jobs-2027) |
+| **KBR** | Area Authority (AAD) | Basra, Al Başrah, Iraq | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129450?s=gh-new-grad-jobs-2027) |
+| **TD Synnex** | Vendor Solutions Representative - CCA | Miramar Florida United States | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R57186?s=gh-new-grad-jobs-2027) |
+| **Pfizer** | Associate Scientist CID | United States - New York -... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4965881?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Target** | Assets Protection Specialist (Retail Theft & Fraud Investigator) | Kailua Kona, HI | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478615?s=gh-new-grad-jobs-2027) |
+| **DriveTime** | Sales & Operations Advisor in Training | 1354 E Main St Salem, VA 24153 | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-drivetime-drivetime-R16556?s=gh-new-grad-jobs-2027) |
+| **PNC Financial Services** | Middle Office Services Specialist (Loan Coordinator) - PNC Private Bank | Home Location-OH | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R238066?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Relationship Banker Lynchburg Area | LYNCHBURG, VA | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583769?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Relationship Banker Santa Ana, CA | SANTA ANA, CA | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-578945?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Personal Banker Elizabethtown | ELIZABETHTOWN, NC | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583511?s=gh-new-grad-jobs-2027) |
+| **Polaris** | Material Handler - 1st Shift | Huntsville, AL, USA | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31694?s=gh-new-grad-jobs-2027) |
+| **Polaris** | Production Operator - 3rd Shift | Huntsville, AL, USA | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31693?s=gh-new-grad-jobs-2027) |
 | **Stanley Black & Decker** | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052835?s=gh-new-grad-jobs-2027) |
 | **Broadridge** | Sorting Machine Operator | South Windsor, CT | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086336?s=gh-new-grad-jobs-2027) |
 | **Broadridge** | Sorting Machine Operator | South Windsor, CT | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086335?s=gh-new-grad-jobs-2027) |
 | **Broadridge** | Production Assist. | South Windsor, CT | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086333?s=gh-new-grad-jobs-2027) |
-| **RTX** | Material Program Manager (MPM) - Tucson, AZ | AZ-TUCSON-M09 | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884881?s=gh-new-grad-jobs-2027) |
+| **RTX** | Material Program Manager (MPM) - Tucson, AZ | AZ-TUCSON-M09 | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884881?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Associate, Bonds Data | New York, NY | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332412?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Marketing Specialist- Enterprise Solution | New York, NY | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332335?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Accounting Associate | Daytona Beach, FL, USA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R25_0000000049?s=gh-new-grad-jobs-2027) |
