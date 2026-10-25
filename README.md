@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cox** | Software Engineering Intern - Summer 2027 (Austin, TX) | Austin TX | 8m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682168?s=gh-new-grad-jobs-2027) |
+| **Cox** | Software Engineering Intern - Summer 2027 (Austin, TX) | Austin TX | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682168?s=gh-new-grad-jobs-2027) |
 | **Manulife** | Product Owner | USA, Massachusetts - Full Time... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091650?s=gh-new-grad-jobs-2027) |
 | **Vanguard** | Product Owner, Specialist-1 | Malvern, PA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vanguard-vanguard-external-182962?s=gh-new-grad-jobs-2027) |
 | **CVS Health** | Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad | NY - New York | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081114?s=gh-new-grad-jobs-2027) |
@@ -509,9 +509,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **SS&C Technologies** | Sales Development Representative | Jacksonville, FL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R43635?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Commercial Lines Account Manager | Rochester, NY, USA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003124?s=gh-new-grad-jobs-2027) |
-| **ICF** | On-Call Archaeological Field Technician (Southeast US) | Raleigh, NC | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603658?s=gh-new-grad-jobs-2027) |
+| **SS&C Technologies** | Sales Development Representative | Jacksonville, FL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R43635?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Commercial Lines Account Manager | Rochester, NY, USA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003124?s=gh-new-grad-jobs-2027) |
+| **ICF** | On-Call Archaeological Field Technician (Southeast US) | Raleigh, NC | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603658?s=gh-new-grad-jobs-2027) |
 | **Cisco** | Virtual Sales Account Executive - Splunk -Portuguese Speaking (Remote) | Austin Texas US | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027337?s=gh-new-grad-jobs-2027) |
 | **Apple** | CRM Campaign Operations Specialist | Cupertino | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200691123?s=gh-new-grad-jobs-2027) |
 | **Anduril** | NDT Technician | McHenry, Mississippi, United States | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5272426007?s=gh-new-grad-jobs-2027) |
@@ -620,17 +620,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Target** | Assets Protection Specialist (Retail Theft & Fraud Investigator) | Kailua Kona, HI | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478615?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Relationship Banker Lynchburg Area | LYNCHBURG, VA | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583769?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Relationship Banker Santa Ana, CA | SANTA ANA, CA | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-578945?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Personal Banker Elizabethtown | ELIZABETHTOWN, NC | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583511?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Associate, Bonds Data | New York, NY | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332412?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Marketing Specialist- Enterprise Solution | New York, NY | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332335?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Accounting Associate | Daytona Beach, FL, USA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R25_0000000049?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Entry Level Insurance Professional | Daytona Beach, FL, USA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R23_0000003953?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Technical Program Manager - CRM | Plano, TX, USA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002771?s=gh-new-grad-jobs-2027) |
-| **Deutsche Bank** | Audit Associate | New York, 1 Columbus Circle | 58m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0456585?s=gh-new-grad-jobs-2027) |
+| **Target** | Assets Protection Specialist (Retail Theft & Fraud Investigator) | Kailua Kona, HI | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478615?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Relationship Banker Lynchburg Area | LYNCHBURG, VA | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583769?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Relationship Banker Santa Ana, CA | SANTA ANA, CA | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-578945?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Personal Banker Elizabethtown | ELIZABETHTOWN, NC | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583511?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Associate, Bonds Data | New York, NY | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332412?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Marketing Specialist- Enterprise Solution | New York, NY | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332335?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Accounting Associate | Daytona Beach, FL, USA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R25_0000000049?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Entry Level Insurance Professional | Daytona Beach, FL, USA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R23_0000003953?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Technical Program Manager - CRM | Plano, TX, USA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002771?s=gh-new-grad-jobs-2027) |
+| **Deutsche Bank** | Audit Associate | New York, 1 Columbus Circle | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0456585?s=gh-new-grad-jobs-2027) |
 | **Magna** | Executive Assistant | Troy, Michigan, US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00266960?s=gh-new-grad-jobs-2027) |
 | **Broadridge** | Sorting Machine Operator | South Windsor, CT | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086336?s=gh-new-grad-jobs-2027) |
 | **Broadridge** | Sorting Machine Operator | South Windsor, CT | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086335?s=gh-new-grad-jobs-2027) |
@@ -639,8 +639,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Synnex** | Vendor Solutions Representative - CCA | Miramar Florida United States | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R57186?s=gh-new-grad-jobs-2027) |
 | **DriveTime** | Sales & Operations Advisor in Training | 1354 E Main St Salem, VA 24153 | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-drivetime-drivetime-R16556?s=gh-new-grad-jobs-2027) |
 | **Pfizer** | Associate Scientist CID | United States - New York -... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4965881?s=gh-new-grad-jobs-2027) |
-| **Stanley Black & Decker** | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052835?s=gh-new-grad-jobs-2027) |
-| **KBR** | Area Authority (AAD) | Basra, Al Başrah, Iraq | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129450?s=gh-new-grad-jobs-2027) |
+| **Stanley Black & Decker** | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052835?s=gh-new-grad-jobs-2027) |
+| **KBR** | Area Authority (AAD) | Basra, Al Başrah, Iraq | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129450?s=gh-new-grad-jobs-2027) |
 | **Polaris** | Material Handler - 1st Shift | Huntsville, AL, USA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31694?s=gh-new-grad-jobs-2027) |
 | **Polaris** | Production Operator - 3rd Shift | Huntsville, AL, USA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31693?s=gh-new-grad-jobs-2027) |
 | **GDIT** | JMSC-P IT Communications Integrator – SECRET Clearance Required | USA HI Schofield | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230710?s=gh-new-grad-jobs-2027) |
@@ -648,7 +648,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Maintenance Trade Helper VLS | USA VA Chesapeake | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230830?s=gh-new-grad-jobs-2027) |
 | **SpaceX** | Pipefitter | Starbase, TX | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8906240002?s=gh-new-grad-jobs-2027) |
 | **Philips** | Intern– Design Assurance Engineer – Colorado Springs, CO – Summer 2027 | Colorado Springs, Colorado,... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-591948?s=gh-new-grad-jobs-2027) |
-| **Anthropic** | Incident Manager, Safeguards | Boston, MA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-anthropic-5462881008?s=gh-new-grad-jobs-2027) |
+| **Anthropic** | Incident Manager, Safeguards | Boston, MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-anthropic-5462881008?s=gh-new-grad-jobs-2027) |
 | **Avis Budget Group** | Car Detailer - FT | St. Louis International Airport | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0187374?s=gh-new-grad-jobs-2027) |
 | **Avis Budget Group** | Car Detailer - FT | Key West International Airport | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0189086?s=gh-new-grad-jobs-2027) |
 | **Avis Budget Group** | Customer Experience Specialist - FT | 375 Mcclellan Hwy, East Boston,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0184647?s=gh-new-grad-jobs-2027) |
