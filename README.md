@@ -584,10 +584,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Relationship Banker - Huntsville, AL | HUNTSVILLE, AL | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580057?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Associate, Bonds Data | New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332412?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Marketing Specialist- Enterprise Solution | New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332335?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Relationship Banker - Huntsville, AL | HUNTSVILLE, AL | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580057?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Associate, Bonds Data | New York, NY | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332412?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Marketing Specialist- Enterprise Solution | New York, NY | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332335?s=gh-new-grad-jobs-2027) |
 | **ASM Global** | Event Attendant (Casual) - The Moscone Center | San Francisco, CA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126091?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002784?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | RV Operations Customer Service | Remote - USA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002785?s=gh-new-grad-jobs-2027) |
