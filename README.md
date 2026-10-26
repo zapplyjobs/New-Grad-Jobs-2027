@@ -484,13 +484,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Micron Technology** | DEMQRA DQA WLR Technician | Boise, ID - Main Site | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR115204?s=gh-new-grad-jobs-2027) |
+| **Micron Technology** | DEMQRA DQA WLR Technician | Boise, ID - Main Site | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR115204?s=gh-new-grad-jobs-2027) |
 | **Sanofi** | Strategic Account Manager - Wisconsin, Milwaukee, Green Bay, Madison, Vaccine | Remote, USA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-45872457920?s=gh-new-grad-jobs-2027) |
 | **Sanofi** | Strategic Account Manager - Illinois, Chicago | Remote, USA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-45872457856?s=gh-new-grad-jobs-2027) |
 | **Sanofi** | Strategic Account Manager - Spokane, WA / Seattle East | Remote, USA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-45872457472?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Account Manager - Canada Sell-Side | New York, NY | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332281?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Account Manager - Canada Sell-Side | New York, NY | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332281?s=gh-new-grad-jobs-2027) |
 | **Baxter International** | Recruiter | Deerfield, Illinois | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-211795?s=gh-new-grad-jobs-2027) |
-| **AST SpaceMobile** | Technician I, 1st shift, Site 2 | Midland, Texas, United States | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astspacemobile-4747451005?s=gh-new-grad-jobs-2027) |
+| **AST SpaceMobile** | Technician I, 1st shift, Site 2 | Midland, Texas, United States | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astspacemobile-4747451005?s=gh-new-grad-jobs-2027) |
 | **Hologic** | Breast & Skeletal Account Executive - Central Texas | Austin, TX, United States | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hologic-12662?s=gh-new-grad-jobs-2027) |
 | **Mach Industries** | University Recruiter | Huntington Beach, California,... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-machindustries-4466802009?s=gh-new-grad-jobs-2027) |
 | **Eurofins** | Chemistry Laboratory Technician I | Mounds View, MN | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000157679349?s=gh-new-grad-jobs-2027) |
@@ -595,15 +595,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Teledyne** | College Intern - Technical | Woodridge, IL | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36728?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Southwest Airlines** | Material Specialist - PHX | Phoenix, AZ | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74091?s=gh-new-grad-jobs-2027) |
-| **Southwest Airlines** | CARE AI Prompt Design Consultant | Dallas, TX | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74081?s=gh-new-grad-jobs-2027) |
-| **State Street** | State Street - Markets Rising Junior Summer Internship 2027 | Boston, Massachusetts | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800244?s=gh-new-grad-jobs-2027) |
-| **State Street** | State Street - Markets Rising Senior Summer Internship 2027 | Boston, Massachusetts | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800243?s=gh-new-grad-jobs-2027) |
-| **State Street** | State Street - Undergraduate Finance Summer Internship 2027 | Boston, Massachusetts | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800242?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Product Specialist - Indices & ETF’s | New York, NY | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-331761?s=gh-new-grad-jobs-2027) |
-| **Cisco** | Executive Assistant, VP, CX Product Management (Hybrid) | Seattle Washington US | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026300?s=gh-new-grad-jobs-2027) |
+| **Teledyne** | College Intern - Technical | Woodridge, IL | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36728?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Southwest Airlines** | Material Specialist - PHX | Phoenix, AZ | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74091?s=gh-new-grad-jobs-2027) |
+| **Southwest Airlines** | CARE AI Prompt Design Consultant | Dallas, TX | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74081?s=gh-new-grad-jobs-2027) |
+| **State Street** | State Street - Markets Rising Junior Summer Internship 2027 | Boston, Massachusetts | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800244?s=gh-new-grad-jobs-2027) |
+| **State Street** | State Street - Markets Rising Senior Summer Internship 2027 | Boston, Massachusetts | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800243?s=gh-new-grad-jobs-2027) |
+| **State Street** | State Street - Undergraduate Finance Summer Internship 2027 | Boston, Massachusetts | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800242?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Product Specialist - Indices & ETF’s | New York, NY | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-331761?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Executive Assistant, VP, CX Product Management (Hybrid) | Seattle Washington US | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026300?s=gh-new-grad-jobs-2027) |
 | **Google** | Data Center Technical Program Manager, Infrastructure Delivery | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-84549987777553094?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Pipefitter - Chula Vista, California | USA CA Chula Vista | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231094?s=gh-new-grad-jobs-2027) |
 | **Aptiv** | Environmental Health & Safety Manager | Warwick, RI - USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702442?s=gh-new-grad-jobs-2027) |
