@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | TX-RICHARDSON-C17 | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884756?s=gh-new-grad-jobs-2027) |
-| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | CO-AURORA-S75 | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884752?s=gh-new-grad-jobs-2027) |
-| **RTX** | Software Engineer I (Onsite) | IN-INDIANAPOLIS | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883492?s=gh-new-grad-jobs-2027) |
-| **PTC** | Software Engineer Intern (Summer 2027) | Boston, MA, USA | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-new-grad-jobs-2027) |
+| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | TX-RICHARDSON-C17 | 39m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884756?s=gh-new-grad-jobs-2027) |
+| **RTX** | Part Time Software Platform Engineer Co-Op  (Remote) | CO-AURORA-S75 | 39m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884752?s=gh-new-grad-jobs-2027) |
+| **RTX** | Software Engineer I (Onsite) | IN-INDIANAPOLIS | 39m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883492?s=gh-new-grad-jobs-2027) |
+| **PTC** | Software Engineer Intern (Summer 2027) | Boston, MA, USA | 49m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-new-grad-jobs-2027) |
 | **JPMorgan Chase** | AI Associate Engineer for Sales Assistant Platform Technology - Software Engineer III | Jersey City, NJ, United States | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210788723?s=gh-new-grad-jobs-2027) |
 | **Aerospace Corporation** | 2027 Cloud Solutions Engineer / Site Reliability Grad Intern | El Segundo, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016715?s=gh-new-grad-jobs-2027) |
 | **Chamberlain Group** | Associate Product Manager (Hybrid - Oak Brook, IL) | Oak Brook, IL | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31753?s=gh-new-grad-jobs-2027) |
@@ -484,8 +484,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Fiserv** | Sales Executive - Plastics | Omaha Nebraska | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fiserv-ext-R-10387767?s=gh-new-grad-jobs-2027) |
-| **Micron Technology** | DEMQRA DQA WLR Technician | Boise, ID - Main Site | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR115204?s=gh-new-grad-jobs-2027) |
+| **Fiserv** | Sales Executive - Plastics | Omaha Nebraska | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fiserv-ext-R-10387767?s=gh-new-grad-jobs-2027) |
+| **Micron Technology** | DEMQRA DQA WLR Technician | Boise, ID - Main Site | 50m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR115204?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Account Manager - Canada Sell-Side | New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332281?s=gh-new-grad-jobs-2027) |
 | **Baxter International** | Recruiter | Deerfield, Illinois | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-211795?s=gh-new-grad-jobs-2027) |
 | **AST SpaceMobile** | Technician I, 1st shift, Site 2 | Midland, Texas, United States | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astspacemobile-4747451005?s=gh-new-grad-jobs-2027) |
@@ -595,18 +595,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **State Street** | State Street - Markets Rising Junior Summer Internship 2027 | Boston, Massachusetts | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800244?s=gh-new-grad-jobs-2027) |
-| **State Street** | State Street - Markets Rising Senior Summer Internship 2027 | Boston, Massachusetts | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800243?s=gh-new-grad-jobs-2027) |
-| **State Street** | State Street - Undergraduate Finance Summer Internship 2027 | Boston, Massachusetts | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800242?s=gh-new-grad-jobs-2027) |
-| **Southwest Airlines** | Material Specialist - PHX | Phoenix, AZ | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74091?s=gh-new-grad-jobs-2027) |
-| **Southwest Airlines** | CARE AI Prompt Design Consultant | Dallas, TX | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74081?s=gh-new-grad-jobs-2027) |
-| **CrowdStrike** | Executive Assistant (Hybrid, Sunnyvale) | USA - Sunnyvale, CA | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30439?s=gh-new-grad-jobs-2027) |
-| **CrowdStrike** | Incident Response Consultant (Remote) | USA - Remote | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30536?s=gh-new-grad-jobs-2027) |
-| **Boeing** | Entry Level or Associate Aerospace Safety Engineer | USA - Mesa, AZ | 31m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523589?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Cisco** | Executive Assistant, VP, CX Product Management (Hybrid) | Seattle Washington US | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026300?s=gh-new-grad-jobs-2027) |
-| **Microsoft** | Partner Solution Sales - Azure (DACH) | United States | 50m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061991?s=gh-new-grad-jobs-2027) |
-| **Aptiv** | Environmental Health & Safety Manager | Warwick, RI - USA | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702442?s=gh-new-grad-jobs-2027) |
+| **State Street** | State Street - Markets Rising Junior Summer Internship 2027 | Boston, Massachusetts | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800244?s=gh-new-grad-jobs-2027) |
+| **State Street** | State Street - Markets Rising Senior Summer Internship 2027 | Boston, Massachusetts | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800243?s=gh-new-grad-jobs-2027) |
+| **State Street** | State Street - Undergraduate Finance Summer Internship 2027 | Boston, Massachusetts | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-800242?s=gh-new-grad-jobs-2027) |
+| **Southwest Airlines** | Material Specialist - PHX | Phoenix, AZ | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74091?s=gh-new-grad-jobs-2027) |
+| **Southwest Airlines** | CARE AI Prompt Design Consultant | Dallas, TX | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74081?s=gh-new-grad-jobs-2027) |
+| **CrowdStrike** | Executive Assistant (Hybrid, Sunnyvale) | USA - Sunnyvale, CA | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30439?s=gh-new-grad-jobs-2027) |
+| **CrowdStrike** | Incident Response Consultant (Remote) | USA - Remote | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30536?s=gh-new-grad-jobs-2027) |
+| **Boeing** | Entry Level or Associate Aerospace Safety Engineer | USA - Mesa, AZ | 49m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523589?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Executive Assistant, VP, CX Product Management (Hybrid) | Seattle Washington US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026300?s=gh-new-grad-jobs-2027) |
+| **Microsoft** | Partner Solution Sales - Azure (DACH) | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061991?s=gh-new-grad-jobs-2027) |
+| **Aptiv** | Environmental Health & Safety Manager | Warwick, RI - USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702442?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Product Specialist - Indices & ETF’s | New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-331761?s=gh-new-grad-jobs-2027) |
 | **ASM Global** | Casual Utility | Pittsburgh, PA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126249?s=gh-new-grad-jobs-2027) |
 | **Teledyne** | College Intern - Technical | Woodridge, IL | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36728?s=gh-new-grad-jobs-2027) |
@@ -625,7 +625,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JPMorgan Chase** | Relationship Banker - Georgia South - South Dekalb, Decatur, GA | Decatur, GA, United States | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210802127?s=gh-new-grad-jobs-2027) |
 | **Cisco** | Executive Assistant, VP, CX Product Management (Hybrid) | Seattle, Washington | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2026300?s=gh-new-grad-jobs-2027) |
 | **Kohl's** | Part-Time Beauty Advisor - Sephora | Woodstock, Georgia | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508170?s=gh-new-grad-jobs-2027) |
-| **Veolia Environnement SA** | Site Safety Manager | Boise, ID | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157682429?s=gh-new-grad-jobs-2027) |
+| **Veolia Environnement SA** | Site Safety Manager | Boise, ID | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157682429?s=gh-new-grad-jobs-2027) |
 | **Skydio** | Autonomy Engineer Intern, 2027 | San Mateo, California, United... | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-d39c46ce-a4e9-45d2-99bf-17e3b7dac34b?s=gh-new-grad-jobs-2027) |
 | **Skydio** | PhD Autonomy Engineer Intern, 2027 | San Mateo, California, United... | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-fe26fdf8-15b2-44e6-8e43-ace13431453c?s=gh-new-grad-jobs-2027) |
 | **Eurofins** | Operational Support Specialist I | River Falls, WI | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000157678909?s=gh-new-grad-jobs-2027) |
