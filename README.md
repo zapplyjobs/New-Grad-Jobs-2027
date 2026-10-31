@@ -83,7 +83,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GardaWorld** | Infrastructure Engineer Intern | Wayzata, Minnesota, United States | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gardacp-6239821004?s=gh-new-grad-jobs-2027) |
 | **The New York Times** | Backend Engineering Intern, Wirecutter | New York, NY | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748483005?s=gh-new-grad-jobs-2027) |
 | **Roblox** | \[2027\] Senior Software Engineer - Data Acquisition PhD Early Career | San Mateo, CA, United States | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-roblox-8315883?s=gh-new-grad-jobs-2027) |
-| **Microsoft** | Software Development Partner Sales Excellence | United States | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200059374?s=gh-new-grad-jobs-2027) |
+| **Microsoft** | Software Development Partner Sales Excellence | United States | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200059374?s=gh-new-grad-jobs-2027) |
 | **Carnegie Mellon University** | Full-Stack Software Development Intern | Pittsburgh, PA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025287?s=gh-new-grad-jobs-2027) |
 | **Carnegie Mellon SEI** | Full-Stack Software Development Intern | Pittsburgh, PA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-sei-2025287?s=gh-new-grad-jobs-2027) |
 | **Wex** | Software Engineer Intern | Remote | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wexinc-wexinc-R22585?s=gh-new-grad-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Bristol Myers Squibb** | Associate Engineer, Analytical AI Engineering | Princeton - NJ - US | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608005?s=gh-new-grad-jobs-2027) |
+| **Bristol Myers Squibb** | Associate Engineer, Analytical AI Engineering | Princeton - NJ - US | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608005?s=gh-new-grad-jobs-2027) |
 | **NVIDIA** | PhD Research Intern, Efficient Deep Learning - 2027 | CA Santa Clara | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025478?s=gh-new-grad-jobs-2027) |
 | **NVIDIA** | Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026 | US, CA, Santa Clara | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2012398?s=gh-new-grad-jobs-2027) |
 | **NVIDIA** | Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026 | US, CA, Santa Clara | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027551?s=gh-new-grad-jobs-2027) |
@@ -194,7 +194,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Toyota Research Institute** | Machine Learning/Agentic AI Intern | Cambridge, MA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-f8c9ed26-4574-4ad2-954b-b7f5ec365495?s=gh-new-grad-jobs-2027) |
 | **Stripe** | PhD Machine Learning Engineer, Intern | San Francisco, New York City,... | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8328662?s=gh-new-grad-jobs-2027) |
 | **Stripe** | Master's Machine Learning Engineer, Intern | San Francisco, New York City,... | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8333074?s=gh-new-grad-jobs-2027) |
-| **IMC Trading** | Quantitative Researcher | Chicago, United States | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-imc-4987748101?s=gh-new-grad-jobs-2027) |
+| **IMC Trading** | Quantitative Researcher | Chicago, United States | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-imc-4987748101?s=gh-new-grad-jobs-2027) |
 | **Capital One** | Manager, Data Science - Model Risk Office | McLean, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1003550?s=gh-new-grad-jobs-2027) |
 | **General Motors** | 2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning | Warren, Michigan, United States... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622746?s=gh-new-grad-jobs-2027) |
 | **FIS** | Artificial Intelligence/Machine Learning Engineers | FL JAX 347 | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fis-searchjobs-JR0310785?s=gh-new-grad-jobs-2027) |
@@ -491,8 +491,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Synechron** | Business Development Manager – BFSI (Account Farming) | Dallas, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045838?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Ratings Operations Specialist, Denver, CO | Colorado, US | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332489?s=gh-new-grad-jobs-2027) |
+| **Synechron** | Business Development Manager – BFSI (Account Farming) | Dallas, TX | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045838?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Ratings Operations Specialist, Denver, CO | Colorado, US | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332489?s=gh-new-grad-jobs-2027) |
 | **Micron Technology** | FAB Process Technician | Manassas, VA -  Fab 6 | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR114914?s=gh-new-grad-jobs-2027) |
 | **Hitachi** | Warehouse Technician - Loader (Monday-Friday 4:00pm - 2:30am)pm) | Bland, Virginia, United States... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0146054?s=gh-new-grad-jobs-2027) |
 | **Hitachi** | Intern - Supply Chain Management | Pittsburgh, Pennsylvania,... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0148734?s=gh-new-grad-jobs-2027) |
@@ -559,12 +559,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Facilities Building Manager | Austin | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200689635?s=gh-new-grad-jobs-2027) |
 | **Arrow Electronics** | Internal Sales Representative | Neu Isenburg, DE | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R247154?s=gh-new-grad-jobs-2027) |
 | **Inductive Automation** | Software Solutions Engineer I | On-Site: Columbia, MD | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-inductive-automation-llc-30720689-1747-4983-a482-7e19a5d4d151?s=gh-new-grad-jobs-2027) |
-| **Blue Origin** | Technician - Maintenance I | Grandview, MO | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R74294?s=gh-new-grad-jobs-2027) |
+| **Blue Origin** | Technician - Maintenance I | Grandview, MO | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R74294?s=gh-new-grad-jobs-2027) |
 | **Toast** | Territory Account Executive, Retail - South Dallas and Waco | Waco, TX | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-toast-8338187?s=gh-new-grad-jobs-2027) |
-| **Eurofins** | Laboratory Technician l (3rd Shift) | Omaha, NE | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000158847878?s=gh-new-grad-jobs-2027) |
-| **Eurofins** | Laboratory Technician l | Omaha, NE | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000158847679?s=gh-new-grad-jobs-2027) |
+| **Eurofins** | Laboratory Technician l (3rd Shift) | Omaha, NE | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000158847878?s=gh-new-grad-jobs-2027) |
+| **Eurofins** | Laboratory Technician l | Omaha, NE | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000158847679?s=gh-new-grad-jobs-2027) |
 | **Eurofins** | Laboratory Technician l (2nd Shift) | Omaha, NE | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000158844749?s=gh-new-grad-jobs-2027) |
-| **Apple** | User Studies Operations Specialist | San Jose | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200692667?s=gh-new-grad-jobs-2027) |
+| **Apple** | User Studies Operations Specialist | San Jose | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200692667?s=gh-new-grad-jobs-2027) |
 | **Avride** | Robot Service Technician Assistant – Part Time Weekend/Contract | Davie, Florida | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-avride-4414528009?s=gh-new-grad-jobs-2027) |
 | **Avride** | Robot Service Technician Assistant – Part Time Weekend/Contract | Tucson, Arizona | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-avride-4474918009?s=gh-new-grad-jobs-2027) |
 | **Smiths Group** | Field Service Technician I - PHL | Philadelphia, PA | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SmithsGroup2-744000158840469?s=gh-new-grad-jobs-2027) |
@@ -578,7 +578,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vercel** | Technical Business Development Representative | Hybrid - San Francisco, New... | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vercel-6236991004?s=gh-new-grad-jobs-2027) |
 | **Lyft** | Fleet Operations Associate (Swing Shift) | Nashville, TN | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8925496002?s=gh-new-grad-jobs-2027) |
 | **Lyft** | Fleet Operations Associate (Overnight Shift) | Nashville, TN | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8925493002?s=gh-new-grad-jobs-2027) |
-| **Lyft** | Fleet Operations Associate (Day Shift) | Nashville, TN | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8925486002?s=gh-new-grad-jobs-2027) |
+| **Lyft** | Fleet Operations Associate (Day Shift) | Nashville, TN | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8925486002?s=gh-new-grad-jobs-2027) |
 | **StackAdapt** | Account Executive - Southeast | United States | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stackadapt-4469296009?s=gh-new-grad-jobs-2027) |
 | **LangChain** | Sales Development Representative (SF) | San Francisco, CA | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-langchain-8b83f97a-12fb-42a6-9697-c3ef07646335?s=gh-new-grad-jobs-2027) |
 | **SpaceX** | Material Flow Technician - 1st Shift | Hawthorne, CA | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8924768002?s=gh-new-grad-jobs-2027) |
@@ -602,7 +602,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Dow Jones** | Summer 2027 Internship Program – Communications Intern | NYC | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55870?s=gh-new-grad-jobs-2027) |
+| **Dow Jones** | Summer 2027 Internship Program – Communications Intern | NYC | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55870?s=gh-new-grad-jobs-2027) |
 | **Apple** | US - Specialist: Seasonal, Part-time | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
 | **University System of New Hampshire** | Adjunct Hourly Research Support | University of New Hampshire – Main | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usnh-careers-JR10491?s=gh-new-grad-jobs-2027) |
 | **University System of New Hampshire** | Plumber/Pipefitter | Plymouth State University | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usnh-careers-JR10462?s=gh-new-grad-jobs-2027) |
