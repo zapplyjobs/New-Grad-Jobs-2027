@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | Redmond, Washington, United States | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042199?s=gh-new-grad-jobs-2027) |
+| **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | Redmond, Washington, United States | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042199?s=gh-new-grad-jobs-2027) |
 | **Amentum** | Entry Level Software Engineer - SECRET | VA-Dahlgren | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173771?s=gh-new-grad-jobs-2027) |
 | **Handshake** | Software Engineer I, Promotions | San Francisco, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-handshake-c2cea12b-4dba-4782-ac2d-279c6865a4b7?s=gh-new-grad-jobs-2027) |
 | **Apple** | Product Manager, iPhone | Cupertino | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200692705?s=gh-new-grad-jobs-2027) |
@@ -501,13 +501,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **KION Group** | Electrical Pre-Commissioning Technician 1 | Grand Rapids, MI, United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098196?s=gh-new-grad-jobs-2027) |
-| **Kohl's** | Seasonal Stockroom Operations Associate | Eau Claire, Wisconsin | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R476723?s=gh-new-grad-jobs-2027) |
-| **Kohl's** | Seasonal Stockroom Operations Associate | Flowood, Mississippi | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R477935?s=gh-new-grad-jobs-2027) |
-| **Kohl's** | Seasonal Stockroom Operations Associate | Jacksonville, Florida | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R477965?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Patient Care Technician Float | Chicago, IL | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322652?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Rehabilitation Technician | Murfreesboro, TN | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-19336?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Supply Chain Field Operations Intern | MILWAUKEE, WI | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-465192?s=gh-new-grad-jobs-2027) |
-| **UPS** | Talent Acquisition Supervisor - Air District | PHILADELPHIA, Pennsylvania | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040569?s=gh-new-grad-jobs-2027) |
+| **Kohl's** | Seasonal Stockroom Operations Associate | Eau Claire, Wisconsin | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R476723?s=gh-new-grad-jobs-2027) |
+| **Kohl's** | Seasonal Stockroom Operations Associate | Flowood, Mississippi | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R477935?s=gh-new-grad-jobs-2027) |
+| **Kohl's** | Seasonal Stockroom Operations Associate | Jacksonville, Florida | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R477965?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Patient Care Technician Float | Chicago, IL | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322652?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Rehabilitation Technician | Murfreesboro, TN | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-19336?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Supply Chain Field Operations Intern | MILWAUKEE, WI | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-465192?s=gh-new-grad-jobs-2027) |
+| **UPS** | Talent Acquisition Supervisor - Air District | PHILADELPHIA, Pennsylvania | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040569?s=gh-new-grad-jobs-2027) |
 | **Baseten** | Recruiting Operations Specialist | San Francisco | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-baseten-88fe7cb5-3e97-4548-a2d1-c97d40c51110?s=gh-new-grad-jobs-2027) |
 | **SS&C Technologies** | Sales Executive | Remote - Florida, US | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R45939?s=gh-new-grad-jobs-2027) |
 | **Red Hat** | Market Development Representative 1 | Raleigh | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-redhat-jobs-R-059686?s=gh-new-grad-jobs-2027) |
@@ -540,7 +540,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **The New York Times** | Advertising Revenue Operations Intern | New York, NY | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748489005?s=gh-new-grad-jobs-2027) |
 | **Bosch Group** | Logistics Materials Intern/Co-Op - Spring 2027 | Florence, KY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000158818407?s=gh-new-grad-jobs-2027) |
 | **Mach Industries** | Propulsion Technician | Victorville, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-machindustries-4474536009?s=gh-new-grad-jobs-2027) |
-| **Datadog** | Technical Account Manager 2 - San Francisco | San Francisco, California, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-datadog-8318034?s=gh-new-grad-jobs-2027) |
+| **Datadog** | Technical Account Manager 2 - San Francisco | San Francisco, California, USA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-datadog-8318034?s=gh-new-grad-jobs-2027) |
 | **ASML** | Optical Fabrication Technician CWW BEN (Wed-Fri, and every other Saturday) — BCELL | Wilton, CT, USA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00356228?s=gh-new-grad-jobs-2027) |
 | **RTX** | Special Process Technician - IV, 2nd Shift (Onsite) | CT-WINDSOR LOCKS-B1A | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884873?s=gh-new-grad-jobs-2027) |
 | **RTX** | Special Process Technician - IV, 1st Shift (Onsite) | CT-WINDSOR LOCKS-B1A | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884870?s=gh-new-grad-jobs-2027) |
@@ -611,7 +611,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | Contract Administrator | United States-Maryland-Linthicum | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256622?s=gh-new-grad-jobs-2027) |
+| **Northrop Grumman** | Contract Administrator | United States-Maryland-Linthicum | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256622?s=gh-new-grad-jobs-2027) |
 | **Wash U** | Research Opportunities - Neurology | Washington University Medical | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98378?s=gh-new-grad-jobs-2027) |
 | **TD Bank** | Relationship Banker I - Allston, MA | Allston, Massachusetts | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1520100?s=gh-new-grad-jobs-2027) |
 | **Apple** | US - Specialist: Seasonal, Part-time | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
@@ -622,18 +622,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Brown & Brown Insurance** | Reinsurance Accountant | Tyler, TX, USA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003192?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Agency Services Supervisor | Vero Beach, FL | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003210?s=gh-new-grad-jobs-2027) |
 | **Apple** | Lease Manager | San Jose | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200691770?s=gh-new-grad-jobs-2027) |
-| **Kohl's** | Seasonal Truck Unloader (6 a.m. start) | Garden City, Kansas | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R473736?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Behavioral Health Therapist | Hoffman Estates, IL | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1319762?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Certified Medical Assistant | MIRAMAR BEACH, FL | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-20894?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Registered Nurse Operating Room | Austin, TX | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-22214?s=gh-new-grad-jobs-2027) |
-| **UPS** | Driver Helper | Pelham, New Hampshire | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-4b7db98b-c03f-49e9-a120-52c0eb8db7b2?s=gh-new-grad-jobs-2027) |
-| **UPS** | Driver Helper | Newton, Massachusetts | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-14727c99-c189-48dd-a0ca-a6a90cd9a26c?s=gh-new-grad-jobs-2027) |
-| **UPS** | Driver Helper | Burlington, Vermont | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-cf51bcf8-beb5-4a0c-8d06-3b6eb911492c?s=gh-new-grad-jobs-2027) |
-| **Kohl's** | Full-Time Loss Prevention Supervisor | Raleigh, North Carolina | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R488850?s=gh-new-grad-jobs-2027) |
-| **Kohl's** | Seasonal Truck Unloader (6 a.m. start) | Creve Coeur, Missouri | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R477821?s=gh-new-grad-jobs-2027) |
-| **University of Miami** | Events Manager - Entry Level | Coral Gables, Florida | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100100757?s=gh-new-grad-jobs-2027) |
-| **University of Miami** | Cane Navigator (Academic Advisor) - Arts & Sciences | Coral Gables, Florida | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102500?s=gh-new-grad-jobs-2027) |
-| **Eaton** | Buyer 1 | Camarillo, California, USA, 93010 | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687239413126?s=gh-new-grad-jobs-2027) |
+| **Kohl's** | Seasonal Truck Unloader (6 a.m. start) | Garden City, Kansas | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R473736?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Behavioral Health Therapist | Hoffman Estates, IL | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1319762?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Certified Medical Assistant | MIRAMAR BEACH, FL | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-20894?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Registered Nurse Operating Room | Austin, TX | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-22214?s=gh-new-grad-jobs-2027) |
+| **UPS** | Driver Helper | Pelham, New Hampshire | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-4b7db98b-c03f-49e9-a120-52c0eb8db7b2?s=gh-new-grad-jobs-2027) |
+| **UPS** | Driver Helper | Newton, Massachusetts | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-14727c99-c189-48dd-a0ca-a6a90cd9a26c?s=gh-new-grad-jobs-2027) |
+| **UPS** | Driver Helper | Burlington, Vermont | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-cf51bcf8-beb5-4a0c-8d06-3b6eb911492c?s=gh-new-grad-jobs-2027) |
+| **Kohl's** | Full-Time Loss Prevention Supervisor | Raleigh, North Carolina | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R488850?s=gh-new-grad-jobs-2027) |
+| **Kohl's** | Seasonal Truck Unloader (6 a.m. start) | Creve Coeur, Missouri | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R477821?s=gh-new-grad-jobs-2027) |
+| **University of Miami** | Events Manager - Entry Level | Coral Gables, Florida | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100100757?s=gh-new-grad-jobs-2027) |
+| **University of Miami** | Cane Navigator (Academic Advisor) - Arts & Sciences | Coral Gables, Florida | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102500?s=gh-new-grad-jobs-2027) |
+| **Eaton** | Buyer 1 | Camarillo, California, USA, 93010 | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687239413126?s=gh-new-grad-jobs-2027) |
 | **Dow Jones** | Summer 2027 Internship Program – Communications Intern | NYC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55870?s=gh-new-grad-jobs-2027) |
 | **Northrop Grumman** | Manufacturing Expeditor 3/4 | United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258688?s=gh-new-grad-jobs-2027) |
 | **Micron Technology** | Intern - Process Integration – Advanced Packaging | Boise, ID - Main Site | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR115378?s=gh-new-grad-jobs-2027) |
