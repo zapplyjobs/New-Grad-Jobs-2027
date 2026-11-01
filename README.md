@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | Redmond, Washington, United States | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042199?s=gh-new-grad-jobs-2027) |
+| **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | Redmond, Washington, United States | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042199?s=gh-new-grad-jobs-2027) |
 | **Amentum** | Entry Level Software Engineer - SECRET | VA-Dahlgren | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173771?s=gh-new-grad-jobs-2027) |
 | **Handshake** | Software Engineer I, Promotions | San Francisco, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-handshake-c2cea12b-4dba-4782-ac2d-279c6865a4b7?s=gh-new-grad-jobs-2027) |
 | **Apple** | Product Manager, iPhone | Cupertino | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200692705?s=gh-new-grad-jobs-2027) |
@@ -501,10 +501,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **KION Group** | Electrical Pre-Commissioning Technician 1 | Grand Rapids, MI, United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098196?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Supply Chain Field Operations Intern | MILWAUKEE, WI | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-465192?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Rehabilitation Technician | Murfreesboro, TN | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-19336?s=gh-new-grad-jobs-2027) |
-| **Ascension** | MEP Construction Project Manager for Healthcare Facilities | Baltimore, MD | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-463751?s=gh-new-grad-jobs-2027) |
-| **UPS** | Talent Acquisition Supervisor - Air District | PHILADELPHIA, Pennsylvania | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040569?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Supply Chain Field Operations Intern | MILWAUKEE, WI | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-465192?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Rehabilitation Technician | Murfreesboro, TN | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-19336?s=gh-new-grad-jobs-2027) |
+| **Ascension** | MEP Construction Project Manager for Healthcare Facilities | Baltimore, MD | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-463751?s=gh-new-grad-jobs-2027) |
+| **UPS** | Talent Acquisition Supervisor - Air District | PHILADELPHIA, Pennsylvania | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040569?s=gh-new-grad-jobs-2027) |
 | **Baseten** | Recruiting Operations Specialist | San Francisco | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-baseten-88fe7cb5-3e97-4548-a2d1-c97d40c51110?s=gh-new-grad-jobs-2027) |
 | **Applied Materials** | Engineering Technician | Santa Clara,CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2632613?s=gh-new-grad-jobs-2027) |
 | **Red Hat** | Market Development Representative 1 | Raleigh | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-redhat-jobs-R-059686?s=gh-new-grad-jobs-2027) |
@@ -611,7 +611,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 46m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
 | **Wash U** | Research Opportunities - Neurology | Washington University Medical | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98378?s=gh-new-grad-jobs-2027) |
 | **Invesco** | Early Career Intern - Institutional Sales (Retirement & Insurance) | Atlanta, Georgia | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15908?s=gh-new-grad-jobs-2027) |
 | **Invesco** | Early Career Intern - Operations (Fund Reporting) | Houston, Texas | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15838?s=gh-new-grad-jobs-2027) |
@@ -620,16 +620,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Brown & Brown Insurance** | Reinsurance Accountant | Tyler, TX, USA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003192?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Agency Services Supervisor | Vero Beach, FL | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003210?s=gh-new-grad-jobs-2027) |
 | **Apple** | Lease Manager | San Jose | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200691770?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Registered Nurse ICU NE | Chicago, IL | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-18790?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Registered Nurse Behavioral Health | Woodbury, TN | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-15350?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Registered Nurse Clinic Occupational Health and Wellness | Kokomo, IN | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1317275?s=gh-new-grad-jobs-2027) |
-| **UPS** | Seasonal Package Delivery Driver | Clarksville, Indiana | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-f6e0c196-388d-44b1-ac5a-0c06e7464a2d?s=gh-new-grad-jobs-2027) |
-| **UPS** | Seasonal Package Delivery Driver | Wadena, Minnesota | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-8f38e5bf-20aa-4819-991c-202debaed6ef?s=gh-new-grad-jobs-2027) |
-| **UPS** | Driver Helper | Agawam, Massachusetts | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-783cc5af-4ce0-4eff-96cd-e35f79771d4e?s=gh-new-grad-jobs-2027) |
-| **University of Miami** | Events Manager - Entry Level | Coral Gables, Florida | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100100757?s=gh-new-grad-jobs-2027) |
-| **University of Miami** | Cane Navigator (Academic Advisor) - Arts & Sciences | Coral Gables, Florida | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102500?s=gh-new-grad-jobs-2027) |
-| **Kohl's** | Merchandise Specialist | Menomonee Falls, Wisconsin | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508031?s=gh-new-grad-jobs-2027) |
-| **Kohl's** | Risk & Safety Coordinator | Menomonee Falls, Wisconsin | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R472852?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Registered Nurse ICU NE | Chicago, IL | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-18790?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Registered Nurse Behavioral Health | Woodbury, TN | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-15350?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Registered Nurse Clinic Occupational Health and Wellness | Kokomo, IN | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1317275?s=gh-new-grad-jobs-2027) |
+| **UPS** | Seasonal Package Delivery Driver | Clarksville, Indiana | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-f6e0c196-388d-44b1-ac5a-0c06e7464a2d?s=gh-new-grad-jobs-2027) |
+| **UPS** | Seasonal Package Delivery Driver | Wadena, Minnesota | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-8f38e5bf-20aa-4819-991c-202debaed6ef?s=gh-new-grad-jobs-2027) |
+| **UPS** | Driver Helper | Agawam, Massachusetts | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-783cc5af-4ce0-4eff-96cd-e35f79771d4e?s=gh-new-grad-jobs-2027) |
+| **University of Miami** | Events Manager - Entry Level | Coral Gables, Florida | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100100757?s=gh-new-grad-jobs-2027) |
+| **University of Miami** | Cane Navigator (Academic Advisor) - Arts & Sciences | Coral Gables, Florida | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102500?s=gh-new-grad-jobs-2027) |
+| **Kohl's** | Merchandise Specialist | Menomonee Falls, Wisconsin | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508031?s=gh-new-grad-jobs-2027) |
+| **Kohl's** | Risk & Safety Coordinator | Menomonee Falls, Wisconsin | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R472852?s=gh-new-grad-jobs-2027) |
 | **Wells Fargo** | Personal Banker Bilingual Spanish Piedmont South District | SALISBURY, NC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-585252?s=gh-new-grad-jobs-2027) |
 | **Wells Fargo** | Premier Banker at River Oaks | HOUSTON, TX | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-585253?s=gh-new-grad-jobs-2027) |
 | **Wells Fargo** | Associate Wealth Banking Specialist (SAFE) | IRVINE, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-582821?s=gh-new-grad-jobs-2027) |
