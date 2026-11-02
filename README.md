@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | Engineering Program Manager, SWE Security | Cupertino | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200691946?s=gh-new-grad-jobs-2027) |
+| **Apple** | Engineering Program Manager, SWE Security | Cupertino | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200691946?s=gh-new-grad-jobs-2027) |
 | **KnowBe4** | Software Engineer Summer Internship | Clearwater, Florida | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-knowbe4-8919280002?s=gh-new-grad-jobs-2027) |
 | **NVIDIA** | Go-to-Market Product Manager | US, CA, Santa Clara | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2022366?s=gh-new-grad-jobs-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023495?s=gh-new-grad-jobs-2027) |
@@ -389,7 +389,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Systems Engineer I - Business & Regional Programs (Onsite) | IA-CEDAR RAPIDS | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884582?s=gh-new-grad-jobs-2027) |
+| **RTX** | Systems Engineer I - Business & Regional Programs (Onsite) | IA-CEDAR RAPIDS | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884582?s=gh-new-grad-jobs-2027) |
 | **Boeing** | Systems Engineer (Experienced or Lead) | Hazelwood, MO | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2025489672?s=gh-new-grad-jobs-2027) |
 | **Boeing** | Systems Engineer (Experienced or Lead) | USA - Colorado Springs, CO | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026498659?s=gh-new-grad-jobs-2027) |
 | **Boeing** | Systems Engineer (Experienced or Lead) | USA - Huntsville, AL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026498658?s=gh-new-grad-jobs-2027) |
@@ -500,15 +500,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KION Group** | Electrical Pre-Commissioning Technician 1 | Grand Rapids, MI, United States | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098196?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Branch Operations Coordinator Centerville | CENTERVILLE, TX | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580504?s=gh-new-grad-jobs-2027) |
+| **KION Group** | Electrical Pre-Commissioning Technician 1 | Grand Rapids, MI, United States | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098196?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Branch Operations Coordinator Centerville | CENTERVILLE, TX | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580504?s=gh-new-grad-jobs-2027) |
 | **Proofpoint** | Named Account Manager- Pittsburgh, PA | Pennsylvania | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-proofpoint-proofpointcareers-R14850?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Commercial Lines Account Coordinator | Lakeland, FL, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003820?s=gh-new-grad-jobs-2027) |
 | **Federal Reserve System** | Undergraduate Intern – Facilities Focus | Minneapolis, MN | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033979?s=gh-new-grad-jobs-2027) |
 | **BaseLayer** | Business Development Representative | New York City | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-baselayer-5469406008?s=gh-new-grad-jobs-2027) |
 | **BaseLayer** | Account Executive | New York City | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-baselayer-5469404008?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Patient Care Technician Float | Chicago, IL | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322652?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Supply Chain Field Operations Intern | MILWAUKEE, WI | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-465192?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Patient Care Technician Float | Chicago, IL | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322652?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Supply Chain Field Operations Intern | MILWAUKEE, WI | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-465192?s=gh-new-grad-jobs-2027) |
 | **KnowBe4** | Sales Development Representative Summer Internship (Hybrid) | New York, New York | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-knowbe4-8919183002?s=gh-new-grad-jobs-2027) |
 | **KnowBe4** | Sales Development Representative Summer Internship (Hybrid) | Clearwater, Florida | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-knowbe4-8919154002?s=gh-new-grad-jobs-2027) |
 | **KnowBe4** | Sales Development Representative Summer Internship (Hybrid) | Arlington, Virginia | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-knowbe4-8919174002?s=gh-new-grad-jobs-2027) |
@@ -611,13 +611,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Wells Fargo** | Teller Part Time Mason City | MASON CITY, IA | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-566635?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Personal Banker Palm Beach Lakes | WEST PALM BEACH, FL | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583850?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Teller Hobbs | HOBBS, NM | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580609?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Teller Part Time Mason City | MASON CITY, IA | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-566635?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Personal Banker Palm Beach Lakes | WEST PALM BEACH, FL | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583850?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Teller Hobbs | HOBBS, NM | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580609?s=gh-new-grad-jobs-2027) |
 | **Sanofi** | Production Data & Process Support Specialist | Pearl River, New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-46547663872?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **FINRA** | HONORS Program 2027 | New York NY Job Posting | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-finra-finra-R-010398?s=gh-new-grad-jobs-2027) |
-| **Elevance Health** | Medical Management Specialist I | WI-Waukesha, N17W24222... | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR211673?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 50m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **FINRA** | HONORS Program 2027 | New York NY Job Posting | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-finra-finra-R-010398?s=gh-new-grad-jobs-2027) |
+| **Elevance Health** | Medical Management Specialist I | WI-Waukesha, N17W24222... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR211673?s=gh-new-grad-jobs-2027) |
 | **Eurofins** | Analytical Chemistry, Associate Scientist | Easton, MD | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159039669?s=gh-new-grad-jobs-2027) |
 | **Microsoft** | Explore Program Engineering Internship Opportunities: First-Year Students, Redmond | Redmond, Washington, United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042630?s=gh-new-grad-jobs-2027) |
 | **Citi** | Part-Time Universal Banker (20 Hours), Alameda Branch | Alameda California United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-261006227?s=gh-new-grad-jobs-2027) |
@@ -641,17 +641,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northrop Grumman** | Contract Administrator | United States-Maryland-Linthicum | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256622?s=gh-new-grad-jobs-2027) |
 | **BaseLayer** | Executive Assistant to the CEO | New York | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-baselayer-5469407008?s=gh-new-grad-jobs-2027) |
 | **KLA** | Paradox Klara Go Live Test Req U.S. | Milpitas, CA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2643122?s=gh-new-grad-jobs-2027) |
-| **ASM Global** | Dishwasher (Evening Shift) | Fishers, IN | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126014?s=gh-new-grad-jobs-2027) |
-| **ASM Global** | Dishwasher (Day Shift) | Fishers, IN | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126370?s=gh-new-grad-jobs-2027) |
-| **Crowe** | Public Sector Strategy Project Manager | Sacramento, CA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowe-external-careers-R-52622?s=gh-new-grad-jobs-2027) |
+| **ASM Global** | Dishwasher (Evening Shift) | Fishers, IN | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126014?s=gh-new-grad-jobs-2027) |
+| **ASM Global** | Dishwasher (Day Shift) | Fishers, IN | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126370?s=gh-new-grad-jobs-2027) |
+| **Crowe** | Public Sector Strategy Project Manager | Sacramento, CA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowe-external-careers-R-52622?s=gh-new-grad-jobs-2027) |
 | **Guidehouse** | Consultant - Defense & Security - IT Controls - Campus 2027 | VA, McLean | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-46116?s=gh-new-grad-jobs-2027) |
 | **Clipboard Health** | Office and Events Manager | Hybrid (San Francisco, CA) | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-clipboard-09b687bd-a7a9-479f-80cc-8b460eb4d99a?s=gh-new-grad-jobs-2027) |
-| **University of Miami** | Registered Nurse 1- Doral Clinic | Doral, Florida | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102627?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Registered Nurse ICU NE | Chicago, IL | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-18797?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Certified Medical Assistant Internal Medicine | Mount Juliet, TN | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-457284?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Urologist | Appleton, WI | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-453683?s=gh-new-grad-jobs-2027) |
-| **JPMorgan Chase** | Associate Banker, 30 Hours, Amarillo, TX - I 40 Bell Branch | Amarillo, TX, United States | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803705?s=gh-new-grad-jobs-2027) |
-| **JPMorgan Chase** | Associate Banker, 30 Hours, Amarillo, TX - I 40 Bell Branch | Amarillo, TX, United States | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803704?s=gh-new-grad-jobs-2027) |
+| **University of Miami** | Registered Nurse 1- Doral Clinic | Doral, Florida | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102627?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Registered Nurse ICU NE | Chicago, IL | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-18797?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Certified Medical Assistant Internal Medicine | Mount Juliet, TN | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-457284?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Urologist | Appleton, WI | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-453683?s=gh-new-grad-jobs-2027) |
+| **JPMorgan Chase** | Associate Banker, 30 Hours, Amarillo, TX - I 40 Bell Branch | Amarillo, TX, United States | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803705?s=gh-new-grad-jobs-2027) |
+| **JPMorgan Chase** | Associate Banker, 30 Hours, Amarillo, TX - I 40 Bell Branch | Amarillo, TX, United States | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803704?s=gh-new-grad-jobs-2027) |
 | **ElevenLabs** | Revenue Accountant | New York | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-elevenlabs-9d731858-01bf-4d42-89e5-5912ae94cf55?s=gh-new-grad-jobs-2027) |
 | **ElevenLabs** | Equity Administrator | New York | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-elevenlabs-3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6?s=gh-new-grad-jobs-2027) |
 | **KnowBe4** | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-knowbe4-8919260002?s=gh-new-grad-jobs-2027) |
