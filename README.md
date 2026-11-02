@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Embedded Security Software Engineer I (Onsite) | MA-TEWKSBURY-TB1 | 10m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881440?s=gh-new-grad-jobs-2027) |
+| **RTX** | Embedded Security Software Engineer I (Onsite) | MA-TEWKSBURY-TB1 | 16m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881440?s=gh-new-grad-jobs-2027) |
 | **Google** | Software Engineer II, Early Career | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-109116638069957318?s=gh-new-grad-jobs-2027) |
 | **Apple** | Engineering Program Manager, SWE Security | Cupertino | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200691946?s=gh-new-grad-jobs-2027) |
 | **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | Redmond, Washington, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200042199?s=gh-new-grad-jobs-2027) |
@@ -389,7 +389,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Mechanical Engineering | Quincy, Washington, United States | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062383?s=gh-new-grad-jobs-2027) |
+| **Microsoft** | Mechanical Engineering | Quincy, Washington, United States | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062383?s=gh-new-grad-jobs-2027) |
 | **Boeing** | Systems Engineer (Experienced or Lead) | Hazelwood, MO | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2025489672?s=gh-new-grad-jobs-2027) |
 | **RTX** | Systems Engineer I - Business & Regional Programs (Onsite) | IA-CEDAR RAPIDS | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884582?s=gh-new-grad-jobs-2027) |
 | **UPS** | Buildings and Systems Engineering Supervisor (BaSE) | SAN DIEGO, California | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040243?s=gh-new-grad-jobs-2027) |
@@ -500,14 +500,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Caterpillar** | Production Technician I - All Shifts | Seguin, Texas | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000402637?s=gh-new-grad-jobs-2027) |
-| **Adobe** | 2027 University Graduate - Sales Development Representative | San Jose | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R172082?s=gh-new-grad-jobs-2027) |
-| **GDIT** | OCONUS Logistics Manager | International | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231521?s=gh-new-grad-jobs-2027) |
-| **NCR Voyix** | Field service technician I - Concord, NH | GORHAM, NH, USA | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ncr-ext-us-R0156214?s=gh-new-grad-jobs-2027) |
-| **NCR Voyix** | Field Service Technician-Harvard, MA | WORCESTER, MA, USA | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ncr-ext-us-JR2604162?s=gh-new-grad-jobs-2027) |
-| **NCR Voyix** | Field Service Technician-Needham MA | WORCESTER, MA, USA | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ncr-ext-us-JR2604161?s=gh-new-grad-jobs-2027) |
+| **Caterpillar** | Production Technician I - All Shifts | Seguin, Texas | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000402637?s=gh-new-grad-jobs-2027) |
+| **Adobe** | 2027 University Graduate - Sales Development Representative | San Jose | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R172082?s=gh-new-grad-jobs-2027) |
+| **GDIT** | OCONUS Logistics Manager | International | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231521?s=gh-new-grad-jobs-2027) |
+| **NCR Voyix** | Field service technician I - Concord, NH | GORHAM, NH, USA | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ncr-ext-us-R0156214?s=gh-new-grad-jobs-2027) |
+| **NCR Voyix** | Field Service Technician-Harvard, MA | WORCESTER, MA, USA | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ncr-ext-us-JR2604162?s=gh-new-grad-jobs-2027) |
+| **NCR Voyix** | Field Service Technician-Needham MA | WORCESTER, MA, USA | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ncr-ext-us-JR2604161?s=gh-new-grad-jobs-2027) |
 | **BaseLayer** | Business Development Representative | New York City | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-baselayer-5469406008?s=gh-new-grad-jobs-2027) |
-| **BaseLayer** | Account Executive | New York City | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-baselayer-5469404008?s=gh-new-grad-jobs-2027) |
+| **BaseLayer** | Account Executive | New York City | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-baselayer-5469404008?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Rehabilitation Technician | Murfreesboro, TN | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-19336?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Patient Care Technician Oncology | Nashville, TN | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-22360?s=gh-new-grad-jobs-2027) |
 | **Ecolab** | Production Technician I | Huntington, Indiana | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ecolab-R00303109?s=gh-new-grad-jobs-2027) |
@@ -611,16 +611,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Baker Hughes** | Service Delivery Manager – Artificial Lift Services | Port Gentil, GA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R166843?s=gh-new-grad-jobs-2027) |
-| **BMO** | Associate Banker | Fresno, CA, USA | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260028033?s=gh-new-grad-jobs-2027) |
-| **BMO** | Associate Banker | Tempe, AZ, USA | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260028712?s=gh-new-grad-jobs-2027) |
-| **BMO** | Associate Banker | Chandler, AZ, USA | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260028713?s=gh-new-grad-jobs-2027) |
-| **Fiserv** | Program Manager, Card Manufacturing and Personalization | Berkeley Heights New Jersey | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fiserv-ext-R-10404234?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Personal Banker Lake Oconee Village GA | GREENSBORO, GA | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-581931?s=gh-new-grad-jobs-2027) |
-| **CrowdStrike** | Analyst I, Falcon Complete (Remote, PST/MST) | USA - Remote | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30575?s=gh-new-grad-jobs-2027) |
-| **CrowdStrike** | Analyst I, Falcon Complete (Remote, PST/MST) | USA - Remote | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30576?s=gh-new-grad-jobs-2027) |
-| **Cisco** | Executive Assistant - VP, Engineering | San Jose, California, US | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029134?s=gh-new-grad-jobs-2027) |
-| **Manulife** | AVP-Investment Tax | Boston Massachusetts | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26100494?s=gh-new-grad-jobs-2027) |
+| **Baker Hughes** | Service Delivery Manager – Artificial Lift Services | Port Gentil, GA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R166843?s=gh-new-grad-jobs-2027) |
+| **BMO** | Associate Banker | Fresno, CA, USA | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260028033?s=gh-new-grad-jobs-2027) |
+| **BMO** | Associate Banker | Tempe, AZ, USA | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260028712?s=gh-new-grad-jobs-2027) |
+| **BMO** | Associate Banker | Chandler, AZ, USA | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260028713?s=gh-new-grad-jobs-2027) |
+| **Fiserv** | Program Manager, Card Manufacturing and Personalization | Berkeley Heights New Jersey | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fiserv-ext-R-10404234?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Personal Banker Lake Oconee Village GA | GREENSBORO, GA | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-581931?s=gh-new-grad-jobs-2027) |
+| **CrowdStrike** | Analyst I, Falcon Complete (Remote, PST/MST) | USA - Remote | 36m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30575?s=gh-new-grad-jobs-2027) |
+| **CrowdStrike** | Analyst I, Falcon Complete (Remote, PST/MST) | USA - Remote | 36m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30576?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Executive Assistant - VP, Engineering | San Jose, California, US | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029134?s=gh-new-grad-jobs-2027) |
+| **Manulife** | AVP-Investment Tax | Boston Massachusetts | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26100494?s=gh-new-grad-jobs-2027) |
 | **Curtiss-Wright** | Assembler, Associate | NY-Airmont | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR13718?s=gh-new-grad-jobs-2027) |
 | **Curtiss-Wright** | Co-Op | PA-Bethlehem | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR13656?s=gh-new-grad-jobs-2027) |
 | **USAA** | Flight Attendant | San Antonio Hangar | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0121941?s=gh-new-grad-jobs-2027) |
@@ -631,7 +631,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northrop Grumman** | Production Controller 3 | United States-Utah-Corinne | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258687?s=gh-new-grad-jobs-2027) |
 | **Centene** | Youth Care Manager - Behavioral Health | Corpus Christi Texas78414 | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1670750?s=gh-new-grad-jobs-2027) |
 | **Centene** | Behavioral Health Care Manager, Child or Adolescent, LTSS | Austin Texas78712 | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1670749?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
 | **Microsoft** | Solution Area Specialists AI Workforce | United States | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064623?s=gh-new-grad-jobs-2027) |
 | **Microsoft** | Account Technology Strategist | United States | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200057019?s=gh-new-grad-jobs-2027) |
 | **Baker Hughes** | Manufacturing Professional - Equipment Maintenance | Sm, ID | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R166671?s=gh-new-grad-jobs-2027) |
