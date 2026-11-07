@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **MITRE** | Data Science Intern | McLean, Virginia | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-new-grad-jobs-2027) |
-| **Zoox** | Data Science Intern \[Summer 2027\] | Foster City, CA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-zoox-85c6aec7-8da2-445d-9c4d-812365dbce97?s=gh-new-grad-jobs-2027) |
+| **Zoox** | Data Science Intern \[Summer 2027\] | Foster City, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-zoox-85c6aec7-8da2-445d-9c4d-812365dbce97?s=gh-new-grad-jobs-2027) |
 | **NVIDIA** | PhD Research Scientist, Fundamental Generative AI - New College Grad 2026 | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026739?s=gh-new-grad-jobs-2027) |
 | **NVIDIA** | Research Scientist, AI and Systems Security - PhD New College Grad 2026 | MA Westford | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025894?s=gh-new-grad-jobs-2027) |
 | **Parspec** | Applied AI Engineer Intern | Hybrid - San Mateo, California | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-parspec-0a897c21-0df7-40ba-85f2-694bf6678504?s=gh-new-grad-jobs-2027) |
@@ -493,7 +493,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Stryker** | Associate Sales Representative - JR- Boston North Shore | Peabody Massachusetts | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577212?s=gh-new-grad-jobs-2027) |
+| **Stryker** | Associate Sales Representative - JR- Boston North Shore | Peabody Massachusetts | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577212?s=gh-new-grad-jobs-2027) |
 | **Salesforce** | Enterprise Account Executive, Agentforce & Data 360 | California San Francisco | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR297781?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Cable Technician | USA GU Yigo | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231905?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Benefits Account Coordinator | Tallahassee, FL, USA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003259?s=gh-new-grad-jobs-2027) |
@@ -509,8 +509,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Schweitzer Engineering Laboratories** | Project Coordinator Intern | Pennsylvania - King of Prussia | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-24618?s=gh-new-grad-jobs-2027) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Louisville, KY | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000160314539?s=gh-new-grad-jobs-2027) |
 | **Hinge Health** | Recruiting Coordinator - Contract | San Francisco- | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-hinge-health-5a3d69d7-ed52-48e2-8d0d-1b88cf1f369e?s=gh-new-grad-jobs-2027) |
-| **HeyGen** | Sales Development Representative | Los Angeles, California, United... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-heygen-5288025007?s=gh-new-grad-jobs-2027) |
-| **Alo Yoga** | Operations Associate (Part-Time) - Austin (South Congress) | Austin House at Music, Austin,... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-aloyoga-6252039004?s=gh-new-grad-jobs-2027) |
+| **HeyGen** | Sales Development Representative | Los Angeles, California, United... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-heygen-5288025007?s=gh-new-grad-jobs-2027) |
+| **Alo Yoga** | Operations Associate (Part-Time) - Austin (South Congress) | Austin House at Music, Austin,... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-aloyoga-6252039004?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Patient Care Technician CVTU/CVICU | Indianapolis, IN | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-17220?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Pharmacy Technician | Murfreesboro, TN | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-25453?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Certified Pharmacy Technician | Nashville, TN | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-25438?s=gh-new-grad-jobs-2027) |
@@ -604,16 +604,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **d5856577** | Data Center Construction Security Officer | Abilene, TX | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/adp-d5856577-9203177476507_1?s=gh-new-grad-jobs-2027) |
-| **Brunswick** | Boston Whaler - Laminator I | Edgewater, FL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051679?s=gh-new-grad-jobs-2027) |
-| **Brunswick** | Boston Whaler Finisher I | Edgewater, FL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051354?s=gh-new-grad-jobs-2027) |
-| **Brunswick** | Trim and Grind | Edgewater, FL | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051693?s=gh-new-grad-jobs-2027) |
-| **Rolls-Royce** | Chief of  Test and Rigs - America's South | Stennis | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6160451?s=gh-new-grad-jobs-2027) |
-| **Gilead Sciences** | QC Microbiology Tech I | United States - California - El... | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0056244?s=gh-new-grad-jobs-2027) |
-| **GE Healthcare** | Site Master Scheduler | Waukesha | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gehc-gehc-externalsite-R4048656?s=gh-new-grad-jobs-2027) |
-| **Wolters Kluwer** | Fulfillment Associate - Document Management | USA - Wilmington, DE, Orange St | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060996?s=gh-new-grad-jobs-2027) |
-| **Wolters Kluwer** | Fulfillment Associate - Document Management | USA - Wilmington, DE, Orange St | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0061000?s=gh-new-grad-jobs-2027) |
-| **Momentive** | Sustainability Environmental Manager | NY Niskayuna | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-momentive-mc-R9917?s=gh-new-grad-jobs-2027) |
+| **d5856577** | Data Center Construction Security Officer | Abilene, TX | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/adp-d5856577-9203177476507_1?s=gh-new-grad-jobs-2027) |
+| **Brunswick** | Boston Whaler - Laminator I | Edgewater, FL | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051679?s=gh-new-grad-jobs-2027) |
+| **Brunswick** | Boston Whaler Finisher I | Edgewater, FL | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051354?s=gh-new-grad-jobs-2027) |
+| **Brunswick** | Trim and Grind | Edgewater, FL | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051693?s=gh-new-grad-jobs-2027) |
+| **Rolls-Royce** | Chief of  Test and Rigs - America's South | Stennis | 41m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6160451?s=gh-new-grad-jobs-2027) |
+| **Gilead Sciences** | QC Microbiology Tech I | United States - California - El... | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0056244?s=gh-new-grad-jobs-2027) |
+| **GE Healthcare** | Site Master Scheduler | Waukesha | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gehc-gehc-externalsite-R4048656?s=gh-new-grad-jobs-2027) |
+| **Wolters Kluwer** | Fulfillment Associate - Document Management | USA - Wilmington, DE, Orange St | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060996?s=gh-new-grad-jobs-2027) |
+| **Wolters Kluwer** | Fulfillment Associate - Document Management | USA - Wilmington, DE, Orange St | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0061000?s=gh-new-grad-jobs-2027) |
+| **Momentive** | Sustainability Environmental Manager | NY Niskayuna | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-momentive-mc-R9917?s=gh-new-grad-jobs-2027) |
 | **ASM Global** | Dishwasher | New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126497?s=gh-new-grad-jobs-2027) |
 | **Apple** | US - Specialist: Seasonal, Part-time | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
 | **Wells Fargo** | Teller Part Time Signal Hill | SIGNAL HILL, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-579135?s=gh-new-grad-jobs-2027) |
@@ -621,7 +621,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wells Fargo** | Relationship Banker - North Meck | CORNELIUS, NC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-586584?s=gh-new-grad-jobs-2027) |
 | **Crane Co.** | Assembler- $33.91 | Elyria, Ohio | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102814?s=gh-new-grad-jobs-2027) |
 | **Regal Rexnord** | Manual Grinding-Value Added 2nd shift | Cleveland, Ohio, United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_05093?s=gh-new-grad-jobs-2027) |
-| **SpaceX** | Production Coordinator | Long Beach, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8934413002?s=gh-new-grad-jobs-2027) |
+| **SpaceX** | Production Coordinator | Long Beach, CA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8934413002?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Assured Compliance Assessment Solution (ACAS) Administrator | USA KY Fort Campbell | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231598?s=gh-new-grad-jobs-2027) |
 | **GDIT** | COMSEC Responsible Officer (CRO) - TS/SCI with Polygraph | USA CO Aurora | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231820?s=gh-new-grad-jobs-2027) |
 | **Elevance Health** | Pricing Manager - Federal | MA WOBURN 500 UNICORN PARK DR | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR207498?s=gh-new-grad-jobs-2027) |
