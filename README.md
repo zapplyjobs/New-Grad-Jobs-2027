@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | Tier 3 Ground Terminal (GT)/ IT Engineer- Junior, Intermediate and Senior Level- TS/SCI with... | USA CO Aurora | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231948?s=gh-new-grad-jobs-2027) |
+| **GDIT** | Tier 3 Ground Terminal (GT)/ IT Engineer- Junior, Intermediate and Senior Level- TS/SCI with... | USA CO Aurora | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231948?s=gh-new-grad-jobs-2027) |
 | **Amentum** | Product Manager, Data Management | VA-Merrifield | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175004?s=gh-new-grad-jobs-2027) |
 | **UPS** | UI/UX Designer | ATLANTA, Georgia | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26041386?s=gh-new-grad-jobs-2027) |
 | **TD Bank** | Product Owner I (US) Foundational Data Management | New York New York | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1518745?s=gh-new-grad-jobs-2027) |
@@ -161,7 +161,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | UX Designer, Geo Makers | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-84000648575492806?s=gh-new-grad-jobs-2027) |
 | **Parsons** | Software Engineering Intern (Summer 2027) | AL, Huntsville, R187299 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187299?s=gh-new-grad-jobs-2027) |
 | **Microsoft** | Partner Development Manager - Swedish Market | United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064630?s=gh-new-grad-jobs-2027) |
-| **Boston Scientific** | Urology R&D Software Engineering Co-op | Maple Grove US-MN, United... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813743813?s=gh-new-grad-jobs-2027) |
+| **Boston Scientific** | Urology R&D Software Engineering Co-op | Maple Grove US-MN, United... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813743813?s=gh-new-grad-jobs-2027) |
 | **Adobe** | Mgr, Software Development | New York | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R173443?s=gh-new-grad-jobs-2027) |
 | **Federal Reserve System** | Product Owner | New York, NY | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033991?s=gh-new-grad-jobs-2027) |
 | **Caterpillar** | Performance/Simulation/Application Engineering Specialist | Mossville, Illinois | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392618?s=gh-new-grad-jobs-2027) |
@@ -492,7 +492,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | Generator Technician  (Jordan) | International | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231941?s=gh-new-grad-jobs-2027) |
+| **GDIT** | Generator Technician  (Jordan) | International | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231941?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Business Development Representative | Milwaukee, WI, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003362?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Patient Care Technician | Kyle, TX | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-26451?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Pharmacy Technician | Murfreesboro, TN | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-25453?s=gh-new-grad-jobs-2027) |
@@ -603,14 +603,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | Ground Terminal Operator - Junior, Intermediate and Senior Level- TS/SCI with Polygraph | USA CO Aurora | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231943?s=gh-new-grad-jobs-2027) |
-| **GDIT** | Shipyard Material Manager | USA VA Norfolk | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231954?s=gh-new-grad-jobs-2027) |
-| **GDIT** | Technical Editor | USA AZ Fort Huachuca | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231838?s=gh-new-grad-jobs-2027) |
-| **Momentive** | Regional Service Quality Specialist – Logistic | WV Friendly | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-momentive-mc-R10046?s=gh-new-grad-jobs-2027) |
-| **Eaton** | Pads Transformer Assembler - 2nd Shift | Nacogdoches, Texas, USA, 75961 | 46m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687240085382?s=gh-new-grad-jobs-2027) |
-| **Cisco** | Sourcing Commodity Manager (Hyrbid) | Maynard Massachusetts US | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028748?s=gh-new-grad-jobs-2027) |
-| **Cisco** | Supplier Commodity Manager - Optics (Hybrid) | Maynard Massachusetts US | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028062?s=gh-new-grad-jobs-2027) |
-| **Cisco** | Sustainability Specialist: Circular Design | RTP North Carolina US | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030435?s=gh-new-grad-jobs-2027) |
+| **GDIT** | Ground Terminal Operator - Junior, Intermediate and Senior Level- TS/SCI with Polygraph | USA CO Aurora | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231943?s=gh-new-grad-jobs-2027) |
+| **GDIT** | Shipyard Material Manager | USA VA Norfolk | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231954?s=gh-new-grad-jobs-2027) |
+| **GDIT** | Technical Editor | USA AZ Fort Huachuca | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231838?s=gh-new-grad-jobs-2027) |
+| **Momentive** | Regional Service Quality Specialist – Logistic | WV Friendly | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-momentive-mc-R10046?s=gh-new-grad-jobs-2027) |
+| **Eaton** | Pads Transformer Assembler - 2nd Shift | Nacogdoches, Texas, USA, 75961 | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687240085382?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Sourcing Commodity Manager (Hyrbid) | Maynard Massachusetts US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028748?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Supplier Commodity Manager - Optics (Hybrid) | Maynard Massachusetts US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028062?s=gh-new-grad-jobs-2027) |
+| **Cisco** | Sustainability Specialist: Circular Design | RTP North Carolina US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030435?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Change Manager, Customer Experience | Houston, TX | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332708?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Employee Benefits Consultant | Milwaukee, WI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003366?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Property & Casualty Risk Consultant | Milwaukee, WI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003363?s=gh-new-grad-jobs-2027) |
