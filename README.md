@@ -16,9 +16,9 @@
 <p align="center">🚀 New grad, intern/co-op, and adjacent early-career roles across tech, finance, healthcare, and more, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/New%20Grad%20Jobs-29525-3FB950?style=flat&logo=briefcase" height="30" alt="New Grad Jobs">
-  <img src="https://img.shields.io/badge/Business%20%26%20Operations-4268-2F81F7?style=flat&logo=briefcase" height="30" alt="Business & Operations">
-  <img src="https://img.shields.io/badge/Companies-827-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/New%20Grad%20Jobs-29496-3FB950?style=flat&logo=briefcase" height="30" alt="New Grad Jobs">
+  <img src="https://img.shields.io/badge/Business%20%26%20Operations-4266-2F81F7?style=flat&logo=briefcase" height="30" alt="Business & Operations">
+  <img src="https://img.shields.io/badge/Companies-826-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Amentum** | Product Manager, Data Management | VA-Merrifield | 40m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175004?s=gh-new-grad-jobs-2027) |
+| **Amentum** | Product Manager, Data Management | VA-Merrifield | 46m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175004?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Tier 3 Ground Terminal (GT)/ IT Engineer- Junior, Intermediate and Senior Level- TS/SCI with... | USA CO Aurora | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231948?s=gh-new-grad-jobs-2027) |
-| **UPS** | UI/UX Designer | ATLANTA, Georgia | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26041386?s=gh-new-grad-jobs-2027) |
+| **UPS** | UI/UX Designer | ATLANTA, Georgia | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26041386?s=gh-new-grad-jobs-2027) |
 | **TD Bank** | Product Owner I (US) Foundational Data Management | New York New York | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1518745?s=gh-new-grad-jobs-2027) |
 | **RTX** | Software Platform Engineer I (Onsite) | TX-RICHARDSON-C17 | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888024?s=gh-new-grad-jobs-2027) |
 | **GE Aerospace** | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029622?s=gh-new-grad-jobs-2027) |
@@ -89,6 +89,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AMD** | Product Manager | Austin, TX, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-93928?s=gh-new-grad-jobs-2027) |
 | **ASM** | Software Engineer - Early Career | > Arizona > Phoenix | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-asm-5019821101?s=gh-new-grad-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse | San Francisco, California, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8350832?s=gh-new-grad-jobs-2027) |
+| **HPE (University)** | Campus Switching Product Manager Graduate | Roseville California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214267?s=gh-new-grad-jobs-2027) |
+| **Snap** | Product Manager, Ad Tech | Los Angeles California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snapchat-snap-R0047474?s=gh-new-grad-jobs-2027) |
 | **HPE** | Campus Switching Product Manager Graduate | Roseville California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1214267?s=gh-new-grad-jobs-2027) |
 | **Zebra** | 2027 Summer Internship (US) - Supplies & Sensors Product Manager | Lincolnshire, Illinois | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103640?s=gh-new-grad-jobs-2027) |
 | **RTX** | Software Engineer I | MA-TEWKSBURY-TB3 | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885871?s=gh-new-grad-jobs-2027) |
@@ -100,8 +102,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boeing** | Software Engineer (Associate, Experienced or Lead) | USA - El Segundo, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026528951?s=gh-new-grad-jobs-2027) |
 | **Coca-Cola** | Software Engineer I | GA - Atlanta | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-coke-coca-cola-careers-R-147091?s=gh-new-grad-jobs-2027) |
 | **Coca-Cola** | RGM Product Manager | GA - Atlanta | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-coke-coca-cola-careers-R-145114?s=gh-new-grad-jobs-2027) |
-| **HPE (University)** | Campus Switching Product Manager Graduate | Roseville California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214267?s=gh-new-grad-jobs-2027) |
-| **Snap** | Product Manager, Ad Tech | Los Angeles California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snapchat-snap-R0047474?s=gh-new-grad-jobs-2027) |
 | **CACI** | Software Engineering Co-op - Spring 2027 | King of Prussia, PA, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334665?s=gh-new-grad-jobs-2027) |
 | **CACI** | Junior C# Software Engineer | Virginia Beach VA US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334764?s=gh-new-grad-jobs-2027) |
 | **Wells Fargo** | Branch Operations Coordinator Sweetwater and Lexington | SUGAR LAND, TX | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-581001?s=gh-new-grad-jobs-2027) |
@@ -162,9 +162,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Parsons** | Software Engineering Intern (Summer 2027) | AL, Huntsville, R187299 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187299?s=gh-new-grad-jobs-2027) |
 | **Microsoft** | Partner Development Manager - Swedish Market | United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064630?s=gh-new-grad-jobs-2027) |
 | **Boston Scientific** | Urology R&D Software Engineering Co-op | Maple Grove US-MN, United... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813743813?s=gh-new-grad-jobs-2027) |
+| **Entegris** | Reliability Engineer Co-Op | Bedford, MA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14399?s=gh-new-grad-jobs-2027) |
 | **Zebra** | 2027 Summer Internship (US) - Software Engineer | Holtsville, New York | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103657?s=gh-new-grad-jobs-2027) |
 | **Merck & Co.** | 2027 Future Talent Program – Manufacturing and Reliability Engineering Co-Op | USA - Pennsylvania - West Point | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R422487?s=gh-new-grad-jobs-2027) |
-| **Moog** | Intern, Software Engineering | Torrance, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19948?s=gh-new-grad-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **MITRE** | Data Science Intern | McLean, Virginia | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-new-grad-jobs-2027) |
+| **MITRE** | Data Science Intern | McLean, Virginia | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-new-grad-jobs-2027) |
 | **Capital One** | Manager, Data Science - Model Risk Office | McLean, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R242995?s=gh-new-grad-jobs-2027) |
 | **T-Mobile** | Summer 2027 Data Engineering Internship | Frisco Texas | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ380754?s=gh-new-grad-jobs-2027) |
 | **T-Mobile** | Summer 2027 Data Engineering Internship | Frisco Texas | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ380755?s=gh-new-grad-jobs-2027) |
@@ -187,7 +187,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Waymo** | 2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model) | Mountain View, California,... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8358262?s=gh-new-grad-jobs-2027) |
 | **PopStroke** | Associate Business Analyst(Entry Level) | Jupiter, FL | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/rippling-popstroke-job-board-1924-2d809e59-f51d-4f5f-ac31-e3268675febc?s=gh-new-grad-jobs-2027) |
 | **Boston Scientific** | Quality Data Analyst I | Arden Hills US-MN, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813872886?s=gh-new-grad-jobs-2027) |
-| **Bosch Group** | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000160208440?s=gh-new-grad-jobs-2027) |
+| **Bosch Group** | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000160208440?s=gh-new-grad-jobs-2027) |
+| **Invesco** | Early Career Intern - Real Estate (Data Science) | Dallas, Texas | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15091?s=gh-new-grad-jobs-2027) |
+| **Invesco** | Quantitative Researcher | Atlanta, Georgia | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15755?s=gh-new-grad-jobs-2027) |
 | **The Travelers Companies** | Data Engineer I (AWS, Python, GenAI) | CT Hartford | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53217?s=gh-new-grad-jobs-2027) |
 | **Fidelity Investments** | Director, Junior Quantitative Strategist, Fidelity Service Bureau | Boston, MA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133246?s=gh-new-grad-jobs-2027) |
 | **Zillow** | Applied Scientist (Economics) Intern | Seattle-WA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751642?s=gh-new-grad-jobs-2027) |
@@ -198,8 +200,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334800?s=gh-new-grad-jobs-2027) |
 | **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334801?s=gh-new-grad-jobs-2027) |
 | **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334802?s=gh-new-grad-jobs-2027) |
-| **Invesco** | Early Career Intern - Real Estate (Data Science) | Dallas, Texas | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15091?s=gh-new-grad-jobs-2027) |
-| **Invesco** | Quantitative Researcher | Atlanta, Georgia | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15755?s=gh-new-grad-jobs-2027) |
 | **General Motors** | R&D Researcher – AI and Machine Learning | Warren, Michigan, United States... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621474?s=gh-new-grad-jobs-2027) |
 | **Match Group** | Data Scientist Intern | San Francisco, California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-matchgroup-573621f6-9931-4e39-840a-1d04171be2ff?s=gh-new-grad-jobs-2027) |
 | **Match Group** | Machine Learning Engineer Intern | Palo Alto, California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-matchgroup-860a839a-5be3-44dc-916f-eb2e71d67d72?s=gh-new-grad-jobs-2027) |
@@ -208,12 +208,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ICD** | Summer 2027 AI/ML Engineering Internship | Jersey City, NJ, United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-icd-301961?s=gh-new-grad-jobs-2027) |
 | **Tradeweb** | Summer 2027 AI/ML Engineering Internship | Jersey City, NJ, United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tradeweb-301961?s=gh-new-grad-jobs-2027) |
 | **Eurofins** | ELISA Method Development and Validation Research Scientist I | Lenexa, KS | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159962549?s=gh-new-grad-jobs-2027) |
+| **Postman** | Frontier AI Engineering | San Francisco, CA, US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-postman-careers-JR1000057?s=gh-new-grad-jobs-2027) |
 | **JM Family Enterprises** | Data Engineering Intern | Florida - Deerfield Beach | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105086?s=gh-new-grad-jobs-2027) |
 | **PayPal** | Data Scientist Intern - Summer 2027 | San Jose, California, United... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paypal-jobs-R0138582?s=gh-new-grad-jobs-2027) |
 | **PayPal** | Machine Learning Engineer Intern - Summer 2027 | San Jose, California, United... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paypal-jobs-R0138581?s=gh-new-grad-jobs-2027) |
 | **PayPal** | Machine Learning Engineer PhD Intern - Summer 2027 | San Jose, California, United... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paypal-jobs-R0138579?s=gh-new-grad-jobs-2027) |
 | **CrowdStrike** | Sales Data Analytics Intern | Sunnyvale, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30801?s=gh-new-grad-jobs-2027) |
-| **Postman** | Frontier AI Engineering | San Francisco, CA, US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-postman-careers-JR1000057?s=gh-new-grad-jobs-2027) |
 | **Deutsche Bank** | Quantitative Trader | New York, 1 Columbus Circle | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0457997?s=gh-new-grad-jobs-2027) |
 | **University of Texas at Austin** | Research Engineering/ Scientist Associate I | AUSTIN, TX | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049793?s=gh-new-grad-jobs-2027) |
 | **University of Texas at Austin** | Research Engineering/ Scientist Associate I | AUSTIN, TX | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049835?s=gh-new-grad-jobs-2027) |
@@ -265,11 +265,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Blackstone** | Blackstone Technology & Innovations - Data Engineering & Visualization - Associate | New York | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blackstone-bx-external-site-46239?s=gh-new-grad-jobs-2027) |
 | **Intuitive** | AI/ML Engineer Intern | Sunnyvale, CA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000159218439?s=gh-new-grad-jobs-2027) |
 | **Intuitive** | Data Science Intern | Sunnyvale, CA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000159210829?s=gh-new-grad-jobs-2027) |
-| **Equifax** | Data Analytics Rotational Development Associate | USA - Georgia - Alpharetta | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-equifax-ur-external-J00178985?s=gh-new-grad-jobs-2027) |
-| **Gilead Sciences** | Research Scientist I, Attribute Sciences Computational Biology, AI & Scientific Informatics | United States - California -... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0056062?s=gh-new-grad-jobs-2027) |
 | **Dow Jones** | Summer 2027 Internship Program – Data Analyst Intern | NYC | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55893?s=gh-new-grad-jobs-2027) |
 | **Dow Jones** | Summer 2027 Internship Program – Data Analyst Intern | NYC | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55894?s=gh-new-grad-jobs-2027) |
 | **Dow Jones** | Summer 2027 Internship Program - Marketing Data Science Intern | NYC | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-new-grad-jobs-2027) |
+| **Equifax** | Data Analytics Rotational Development Associate | USA - Georgia - Alpharetta | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-equifax-ur-external-J00178985?s=gh-new-grad-jobs-2027) |
+| **Gilead Sciences** | Research Scientist I, Attribute Sciences Computational Biology, AI & Scientific Informatics | United States - California -... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0056062?s=gh-new-grad-jobs-2027) |
 | **FIS** | Business Intelligence & Data Analysis, AWS, BI | GA ATL 201 STE 900 | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fis-searchjobs-JR0307826?s=gh-new-grad-jobs-2027) |
 | **Leidos** | Data Science Intern | Arlington, VA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196049?s=gh-new-grad-jobs-2027) |
 | **Guidehouse** | Data Analyst I | VA, Norfolk | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-45743?s=gh-new-grad-jobs-2027) |
@@ -380,7 +380,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **UPS** | Building and Systems Engineering Specialist | NEW ORLEANS, Louisiana | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26033046?s=gh-new-grad-jobs-2027) |
+| **UPS** | Building and Systems Engineering Specialist | NEW ORLEANS, Louisiana | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26033046?s=gh-new-grad-jobs-2027) |
 | **Magna** | Praktikum im Bereich Industrial Engineering (m/w/d) | Meerane, DE | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00255335?s=gh-new-grad-jobs-2027) |
 | **Applied Materials** | 2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA) | Gloucester,MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2633258?s=gh-new-grad-jobs-2027) |
 | **Caterpillar** | Manufacturing Engineering and Automation Manager | Decatur, Illinois | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000404320?s=gh-new-grad-jobs-2027) |
@@ -395,6 +395,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GlobalFoundries** | Silicon Photonics Test Development Intern (Summer 2027) | USA - Vermont - Essex Junction | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604260?s=gh-new-grad-jobs-2027) |
 | **Sopra Steria** | FPGA Verification Engineer (Entry Level) | Platteville, WI | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000160224361?s=gh-new-grad-jobs-2027) |
 | **Sopra Steria** | FPGA Verification Engineer (Entry Level) | East Hartford, CT | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000160220699?s=gh-new-grad-jobs-2027) |
+| **Draper** | GNC Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003131?s=gh-new-grad-jobs-2027) |
+| **Draper** | GNC Systems Engineering Intern (Summer 2027) | Cambridge, MA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003129?s=gh-new-grad-jobs-2027) |
+| **Draper** | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draper-draper-careers-JR002882?s=gh-new-grad-jobs-2027) |
 | **Jabil** | Industrial Engineer Technician I, Sun - Tues, Sun - Wed, 6:00 AM - 6:00 PM) | Florence, KY | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2470968?s=gh-new-grad-jobs-2027) |
 | **Jabil** | Industrial Engineering Technician I, (Wed - Sat, Thurs - Sat, 6:00 AM - 6:00 PM) | Florence, KY | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2470977?s=gh-new-grad-jobs-2027) |
 | **Danaher** | Firmware Engineer Co-op | Indianapolis, Indiana, United... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1321509?s=gh-new-grad-jobs-2027) |
@@ -412,9 +415,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Model-Based Systems Engineer, Junior | El Segundo, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253162?s=gh-new-grad-jobs-2027) |
 | **Leonardo** | Technician 3 - Avionics | Philadelphia | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leonardocompany-leonardocareersite-R0034758?s=gh-new-grad-jobs-2027) |
 | **KLA** | Mechanical Engineer Intern | Milpitas, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2643268?s=gh-new-grad-jobs-2027) |
-| **Draper** | GNC Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003131?s=gh-new-grad-jobs-2027) |
-| **Draper** | GNC Systems Engineering Intern (Summer 2027) | Cambridge, MA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003129?s=gh-new-grad-jobs-2027) |
-| **Draper** | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draper-draper-careers-JR002882?s=gh-new-grad-jobs-2027) |
 | **CACI** | Junior Boundary Systems Engineer | Linthicum MD US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334745?s=gh-new-grad-jobs-2027) |
 | **CACI** | Radio frequency/Electrical Engineer I | Colorado Springs, CO, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334201?s=gh-new-grad-jobs-2027) |
 | **Abbott** | Software Quality Engineer I | United States - California - Sylmar | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165508?s=gh-new-grad-jobs-2027) |
@@ -460,7 +460,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sierra Nevada Corporation** | Systems Engineer Intern (For SNC Summer 2026 Interns Only) | Sparks, NV | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031220?s=gh-new-grad-jobs-2027) |
 | **Philips** | Co-op – Mechanical/Process Engineer – Reedsville, PA – 2027 | Reedsville, Pennsylvania,... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592206?s=gh-new-grad-jobs-2027) |
 | **Booz Allen Hamilton** | University - 2027 Summer Games Systems Engineer Intern - El Segundo, CA | El Segundo, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248366?s=gh-new-grad-jobs-2027) |
-| **HPE (University)** | Electrical Engineering Intern | Spring, Texas, United States of... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213393?s=gh-new-grad-jobs-2027) |
 | **ASML** | Internship - Electrical Engineer | Wilton, CT, USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355801?s=gh-new-grad-jobs-2027) |
 | **HNTB** | Project Manager I - Structural Engineer Buildings | Seattle WA Downtown | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-32274?s=gh-new-grad-jobs-2027) |
 | **Northrop Grumman** | Electrical Engineering Technician  – Level 2 or Level 3 | United States-Florida-Kennedy Space | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259556?s=gh-new-grad-jobs-2027) |
@@ -480,6 +479,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SharkNinja** | Spring 2027: Quality Engineering Co-op, Shark (January through June) | Needham, MA, United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4723761006?s=gh-new-grad-jobs-2027) |
 | **Northrop Grumman** | 2027 Mechanical Engineer Intern- Gilbert AZ | United States-Arizona-Gilbert | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258214?s=gh-new-grad-jobs-2027) |
 | **Parsons** | Electrical Engineer Intern Summer 2027 | CA, Pasadena, R188029 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R188029?s=gh-new-grad-jobs-2027) |
+| **Parsons** | Electrical Engineer Intern Summer 2027 | TX, San Antonio, R188030 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R188030?s=gh-new-grad-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -494,16 +494,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Brown & Brown Insurance** | Business Development Representative | Milwaukee, WI, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003362?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Generator Technician  (Jordan) | International | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231941?s=gh-new-grad-jobs-2027) |
 | **Blue Origin** | Buyer - Supply Chain | Greater Seattle Area | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R74544?s=gh-new-grad-jobs-2027) |
-| **Ascension** | MEP Construction Project Manager for Healthcare Facilities | Baltimore, MD | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-463751?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Certified Pharmacy Technician | Nashville, TN | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-25438?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Patient Care Technician | Kyle, TX | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-26451?s=gh-new-grad-jobs-2027) |
+| **Ascension** | MEP Construction Project Manager for Healthcare Facilities | Baltimore, MD | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-463751?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Certified Pharmacy Technician | Nashville, TN | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-25438?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Patient Care Technician | Kyle, TX | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-26451?s=gh-new-grad-jobs-2027) |
 | **Nox Metals** | Factory Technician - Weekday First Shift | Detroit | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-20dae0c2-6129-4200-951f-a8a28dd0bbb0?s=gh-new-grad-jobs-2027) |
 | **Nox Metals** | Factory Technician - Weekday Second Shift | Detroit | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-7a0f7994-9e1f-4476-b73b-528624f214eb?s=gh-new-grad-jobs-2027) |
 | **Nox Metals** | Factory Technician - Weekends First Shift | Detroit | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-89c1a3c5-1fec-419c-9530-db2831017f3d?s=gh-new-grad-jobs-2027) |
 | **Eaton** | Manufacturing Technician I - Structure Line (Weekend Shift) | Fayetteville, North Carolina,... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687239782300?s=gh-new-grad-jobs-2027) |
+| **Salesforce** | Enterprise Account Executive, Agentforce & Data 360 | California San Francisco | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR297781?s=gh-new-grad-jobs-2027) |
 | **Stryker** | Associate Sales Representative - JR- Boston North Shore | Peabody Massachusetts | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577212?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Benefits Account Coordinator | Tallahassee, FL, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003259?s=gh-new-grad-jobs-2027) |
-| **Salesforce** | Enterprise Account Executive, Agentforce & Data 360 | California San Francisco | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR297781?s=gh-new-grad-jobs-2027) |
 | **Campbell Soup Company** | Sanitation Technician 2nd shift | USA - WI - Beloit | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-campbellsoup-externalcareers-globalsite-Req-69254?s=gh-new-grad-jobs-2027) |
 | **Campbell Soup Company** | Sanitation Technician 3rd shift | USA - WI - Beloit | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-campbellsoup-externalcareers-globalsite-Req-69258?s=gh-new-grad-jobs-2027) |
 | **Cisco** | Account Executive - Splunk- Veteran Affairs | McLean Virginia US | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029607?s=gh-new-grad-jobs-2027) |
@@ -557,6 +557,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Base Power** | Failure Analysis Technician | Austin, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-2fab77c3-d853-41db-8a77-e97761562030?s=gh-new-grad-jobs-2027) |
 | **Base Power** | Field Reliability Technician | Austin, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-12aa53c2-f9e1-4de5-96e0-b4d6337a33d9?s=gh-new-grad-jobs-2027) |
 | **Boston Scientific** | Capital Sales Representative, RF - Northeast | New York City US-NY, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813786677?s=gh-new-grad-jobs-2027) |
+| **Dow Jones** | Event Operations Coordinator | NYC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_56300?s=gh-new-grad-jobs-2027) |
+| **Salesforce** | Qualified Business Development Representative | California - San Francisco | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR359630?s=gh-new-grad-jobs-2027) |
+| **Salesforce** | Named Account Executive, Federal Civilian (DOE) | Virginia Mclean | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR338529?s=gh-new-grad-jobs-2027) |
 | **Amgen** | Specialty Account Manager- Rare Disease- Deerfield, IL | IL - Deerfield | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255956?s=gh-new-grad-jobs-2027) |
 | **Zebra** | 2027 Summer Internship (US) - Supply Chain | Lincolnshire Illinois | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103275?s=gh-new-grad-jobs-2027) |
 | **Centene** | Sales Representative (Medicare) | West Palm Beach | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1649699?s=gh-new-grad-jobs-2027) |
@@ -588,9 +591,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wolters Kluwer** | Customer Success Associate | USA - Clayton, MO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060934?s=gh-new-grad-jobs-2027) |
 | **Wolters Kluwer** | Customer Success Associate | USA - Clayton, MO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060932?s=gh-new-grad-jobs-2027) |
 | **Trimble** | Sales Development Representative | GA, Alpharetta | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57756?s=gh-new-grad-jobs-2027) |
-| **Trimble** | Sales Development Representative | OR Lake Oswego | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R54530?s=gh-new-grad-jobs-2027) |
-| **Workday Inc** | Commercial Account Executive | CA San Francisco | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-workday-workday-JR-0110997?s=gh-new-grad-jobs-2027) |
-| **Workday Inc** | Medium Enterprise Account Executive, Customer Base | IL Chicago | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-workday-workday-JR-0110839?s=gh-new-grad-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -602,9 +602,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Red Hat** | Sales Specialist 3 | US, VA | 40m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-redhat-jobs-R-060093?s=gh-new-grad-jobs-2027) |
-| **Momentive** | Regional Service Quality Specialist – Logistic | WV Friendly | 49m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-momentive-mc-R10046?s=gh-new-grad-jobs-2027) |
-| **LSEG** | TradeAgent Client Services Manager | New York, United States | 50m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lseg-careers-R0124524?s=gh-new-grad-jobs-2027) |
+| **Red Hat** | Sales Specialist 3 | US, VA | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-redhat-jobs-R-060093?s=gh-new-grad-jobs-2027) |
+| **Momentive** | Regional Service Quality Specialist – Logistic | WV Friendly | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-momentive-mc-R10046?s=gh-new-grad-jobs-2027) |
+| **LSEG** | TradeAgent Client Services Manager | New York, United States | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lseg-careers-R0124524?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Change Manager, Customer Experience | Houston, TX | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332708?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Employee Benefits Consultant | Milwaukee, WI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003366?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Property & Casualty Risk Consultant | Milwaukee, WI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003363?s=gh-new-grad-jobs-2027) |
@@ -624,22 +624,26 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Red Bull** | Merchandiser | Chandler, AZ | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000160482449?s=gh-new-grad-jobs-2027) |
 | **Red Bull** | Yard Hostler (Weekend, Overnight) | Waddell, AZ | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000160482379?s=gh-new-grad-jobs-2027) |
 | **Sanofi** | Quality Assurance Specialist | Swiftwater, Pennsylvania | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-46715808064?s=gh-new-grad-jobs-2027) |
-| **Emerson Electric** | Production Assembler | Chanhassen, MN, United States | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-emerson-electric-26013601?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Registered Nurse Neuro ICU | Milwaukee, WI | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1236754?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Registered Nurse CVICU Travel | Austin, TX | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-12100?s=gh-new-grad-jobs-2027) |
-| **Ascension** | Urologist | Appleton, WI | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-453683?s=gh-new-grad-jobs-2027) |
-| **UPS** | Driver Helper | Riverside, New Jersey | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-1b640d3e-75ea-485a-9829-5686616a5973?s=gh-new-grad-jobs-2027) |
-| **UPS** | Seasonal Warehouse Worker - Package Handler | Norwood, Massachusetts | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-366c0c13-3224-494f-a589-453eb50e68ed?s=gh-new-grad-jobs-2027) |
-| **UPS** | Seasonal Warehouse Worker /Package Handler | Jackson, Wyoming | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-3e4189c3-9baf-4165-b12e-fd4dd6300f62?s=gh-new-grad-jobs-2027) |
-| **Kohl's** | Early Talent - 2027 - E-Fulfillment Centers - Leadership Management Internship | Plainfield, Indiana | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508039?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Registered Nurse Neuro ICU | Milwaukee, WI | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1236754?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Registered Nurse CVICU Travel | Austin, TX | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-12100?s=gh-new-grad-jobs-2027) |
+| **Ascension** | Urologist | Appleton, WI | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-453683?s=gh-new-grad-jobs-2027) |
+| **UPS** | Driver Helper | Riverside, New Jersey | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-1b640d3e-75ea-485a-9829-5686616a5973?s=gh-new-grad-jobs-2027) |
+| **UPS** | Seasonal Warehouse Worker - Package Handler | Norwood, Massachusetts | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-366c0c13-3224-494f-a589-453eb50e68ed?s=gh-new-grad-jobs-2027) |
+| **UPS** | Seasonal Warehouse Worker /Package Handler | Jackson, Wyoming | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-3e4189c3-9baf-4165-b12e-fd4dd6300f62?s=gh-new-grad-jobs-2027) |
+| **Emerson Electric** | Production Assembler | Chanhassen, MN, United States | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-emerson-electric-26013601?s=gh-new-grad-jobs-2027) |
+| **Kohl's** | Early Talent - 2027 - E-Fulfillment Centers - Leadership Management Internship | Plainfield, Indiana | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508039?s=gh-new-grad-jobs-2027) |
 | **Credit Genie** | People Business Partner | New York, NY | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-creditgenie-af1dc909-8b53-46d9-aee1-c59d57c8596d?s=gh-new-grad-jobs-2027) |
 | **d5856577** | Data Center Construction Security Officer | Abilene, TX | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/adp-d5856577-9203177476507_1?s=gh-new-grad-jobs-2027) |
 | **SpaceX** | Production Coordinator | Long Beach, CA | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8934413002?s=gh-new-grad-jobs-2027) |
 | **SpaceX** | Internal Fleet Driver | Vandenberg, CA | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8893290002?s=gh-new-grad-jobs-2027) |
 | **Veolia Environnement SA** | Field Area Manager | Knoxville, TN | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000160449459?s=gh-new-grad-jobs-2027) |
-| **SpaceX** | Inventory Specialist | Vandenberg, CA | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8893331002?s=gh-new-grad-jobs-2027) |
+| **SpaceX** | Inventory Specialist | Vandenberg, CA | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8893331002?s=gh-new-grad-jobs-2027) |
 | **Nox Metals** | Material Handler | Detroit | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-a38f1d76-edca-4aa5-800a-8ef46f5ce3b1?s=gh-new-grad-jobs-2027) |
-| **Intuitive** | Learning Content Designer | Peachtree Corners, GA | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000160447769?s=gh-new-grad-jobs-2027) |
+| **Intuitive** | Learning Content Designer | Peachtree Corners, GA | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000160447769?s=gh-new-grad-jobs-2027) |
+| **Brunswick** | Boston Whaler - Laminator I | Edgewater, FL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051679?s=gh-new-grad-jobs-2027) |
+| **Brunswick** | Boston Whaler Finisher I | Edgewater, FL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051354?s=gh-new-grad-jobs-2027) |
+| **Brunswick** | Trim and Grind | Edgewater, FL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051693?s=gh-new-grad-jobs-2027) |
+| **Elevance Health** | Pricing Manager - Federal | MA WOBURN 500 UNICORN PARK DR | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR207498?s=gh-new-grad-jobs-2027) |
 | **Oshkosh Corporation** | Painter Trainee - 1st Shift | Dodge | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R51823?s=gh-new-grad-jobs-2027) |
 | **Rolls-Royce** | Chief of  Test and Rigs - America's South | Stennis | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6160451?s=gh-new-grad-jobs-2027) |
 | **Regal Rexnord** | Manual Grinding-Value Added 2nd shift | Cleveland, Ohio, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_05093?s=gh-new-grad-jobs-2027) |
@@ -655,10 +659,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Magna** | Mechatroniker/ Elektriker Instandhaltung Lackieranlage (m/w/d) | Meerane, DE | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00186437?s=gh-new-grad-jobs-2027) |
 | **Magna** | Mitarbeiter technische Reinigung (m/w/d) | Meerane, DE | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00168862?s=gh-new-grad-jobs-2027) |
 | **GE Healthcare** | Site Master Scheduler | Waukesha | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gehc-gehc-externalsite-R4048656?s=gh-new-grad-jobs-2027) |
-| **Brunswick** | Boston Whaler - Laminator I | Edgewater, FL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051679?s=gh-new-grad-jobs-2027) |
-| **Brunswick** | Boston Whaler Finisher I | Edgewater, FL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051354?s=gh-new-grad-jobs-2027) |
-| **Brunswick** | Trim and Grind | Edgewater, FL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051693?s=gh-new-grad-jobs-2027) |
-| **Elevance Health** | Pricing Manager - Federal | MA WOBURN 500 UNICORN PARK DR | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR207498?s=gh-new-grad-jobs-2027) |
 | **Equinix** | Interconnection Sales Specialist (Public Sector) | Ashburn | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-equinix-external-JR-164551?s=gh-new-grad-jobs-2027) |
 | **Equinix** | Interconnection Sales Specialist (Telco & Media) | Ashburn | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-equinix-external-JR-164552?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Assured Compliance Assessment Solution (ACAS) Administrator | USA KY Fort Campbell | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231598?s=gh-new-grad-jobs-2027) |
@@ -788,7 +788,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 29525 current opportunities from 827 companies**
+**🎯 29496 current opportunities from 826 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
