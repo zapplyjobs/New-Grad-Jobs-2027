@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Amentum** | Product Manager, Data Management | VA-Merrifield | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175004?s=gh-new-grad-jobs-2027) |
+| **Amentum** | Product Manager, Data Management | VA-Merrifield | 40m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175004?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Tier 3 Ground Terminal (GT)/ IT Engineer- Junior, Intermediate and Senior Level- TS/SCI with... | USA CO Aurora | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231948?s=gh-new-grad-jobs-2027) |
 | **Nominal** | Product Manager - Run & Scale Reliably | New York, United States | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDqN28cT7_e6YCJqh8u7r9kP?s=gh-new-grad-jobs-2027) |
 | **Nominal** | Product Manager - Manage Usage & Cost | New York, United States | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDrrEmHlqGoAfKZDgzC8QXEU?s=gh-new-grad-jobs-2027) |
@@ -299,7 +299,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RTX** | Systems Security Engineering Intern (Summer 2027) | CA-FULLERTON | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886260?s=gh-new-grad-jobs-2027) |
 | **ICD** | Summer 2027 Cyber Security Internship | New York, NY, United States | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-icd-301991?s=gh-new-grad-jobs-2027) |
 | **Tradeweb** | Summer 2027 Cyber Security Internship | New York, NY, United States | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tradeweb-301991?s=gh-new-grad-jobs-2027) |
-| **RTX** | Internship – Raytheon Systems Security Engineer- Onsite | MA-WOBURN-WB2 | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874703?s=gh-new-grad-jobs-2027) |
+| **RTX** | Internship – Raytheon Systems Security Engineer- Onsite | MA-WOBURN-WB2 | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874703?s=gh-new-grad-jobs-2027) |
 | **Federal Reserve System** | 2027 Summer Internship Program - Supervision & Regulation (Cybersecurity) | Atlanta, GA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033866?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Network Security Engineer Junior | USA VA Ashburn | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230028?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Penetration Tester Junior | USA VA Ashburn | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230003?s=gh-new-grad-jobs-2027) |
@@ -378,8 +378,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | AEGS Pro Electrical Engineer I (On-Site) | AZ-TUCSON-M02 | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886301?s=gh-new-grad-jobs-2027) |
-| **Abbott** | Quality Engineer I | United States - Maine - Scarborough | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163046?s=gh-new-grad-jobs-2027) |
+| **RTX** | AEGS Pro Electrical Engineer I (On-Site) | AZ-TUCSON-M02 | 40m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886301?s=gh-new-grad-jobs-2027) |
+| **Abbott** | Quality Engineer I | United States - Maine - Scarborough | 49m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163046?s=gh-new-grad-jobs-2027) |
 | **Apple** | Data Center Hardware Engineering - Hardware Technician | Austin | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693785?s=gh-new-grad-jobs-2027) |
 | **UPS** | Building and Systems Engineering Specialist | NEW ORLEANS, Louisiana | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26033046?s=gh-new-grad-jobs-2027) |
 | **Magna** | Praktikum im Bereich Industrial Engineering (m/w/d) | Meerane, DE | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00255335?s=gh-new-grad-jobs-2027) |
@@ -489,8 +489,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Insulet Corporation** | Quality Operations Technician (Weekend 12 Hour Day Shift - Onsite) | Massachusetts | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18786?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Business Development Representative | Milwaukee, WI, USA | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003362?s=gh-new-grad-jobs-2027) |
+| **Insulet Corporation** | Quality Operations Technician (Weekend 12 Hour Day Shift - Onsite) | Massachusetts | 49m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18786?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Business Development Representative | Milwaukee, WI, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003362?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Generator Technician  (Jordan) | International | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231941?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Patient Care Technician | Kyle, TX | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-26451?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Patient Care Technician CVTU/CVICU | Indianapolis, IN | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-17220?s=gh-new-grad-jobs-2027) |
@@ -600,17 +600,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Nominal** | USG Contracts Manager | New York, United States | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDpzk7D_ie_hGio4C9eANXO6?s=gh-new-grad-jobs-2027) |
-| **Santander** | Banking Center Relationship Banker 2, Canton, CT | BC Canton | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1632801?s=gh-new-grad-jobs-2027) |
-| **Santander** | Banking Center Relationship Banker 1, Pawtucket, RI | BC Pawtucket | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1632800?s=gh-new-grad-jobs-2027) |
-| **Santander** | Region Relationship Banker 2, Newington, CT | BC Newington Main | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1632820?s=gh-new-grad-jobs-2027) |
-| **Red Hat** | Sales Specialist 3 | US, VA | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-redhat-jobs-R-060093?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Employee Benefits Consultant | Milwaukee, WI | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003366?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Property & Casualty Risk Consultant | Milwaukee, WI | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003363?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Underwriting Supervisor | Vero Beach, FL | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003378?s=gh-new-grad-jobs-2027) |
-| **GE Aerospace** | Aerospace Tig Welder 3rd Shift Flyer | Beavercreek | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042975?s=gh-new-grad-jobs-2027) |
-| **GE Aerospace** | Computerized Machine Operator (CMO) 3rd Shift Flyer | Beavercreek | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042974?s=gh-new-grad-jobs-2027) |
-| **GE Aerospace** | Student Welder Trainee Program - Flyer | Beavercreek | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042970?s=gh-new-grad-jobs-2027) |
+| **Nominal** | USG Contracts Manager | New York, United States | 41m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDpzk7D_ie_hGio4C9eANXO6?s=gh-new-grad-jobs-2027) |
+| **Santander** | Banking Center Relationship Banker 2, Canton, CT | BC Canton | 49m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1632801?s=gh-new-grad-jobs-2027) |
+| **Santander** | Banking Center Relationship Banker 1, Pawtucket, RI | BC Pawtucket | 49m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1632800?s=gh-new-grad-jobs-2027) |
+| **Santander** | Region Relationship Banker 2, Newington, CT | BC Newington Main | 49m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1632820?s=gh-new-grad-jobs-2027) |
+| **Red Hat** | Sales Specialist 3 | US, VA | 49m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-redhat-jobs-R-060093?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Employee Benefits Consultant | Milwaukee, WI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003366?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Property & Casualty Risk Consultant | Milwaukee, WI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003363?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Underwriting Supervisor | Vero Beach, FL | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003378?s=gh-new-grad-jobs-2027) |
+| **GE Aerospace** | Aerospace Tig Welder 3rd Shift Flyer | Beavercreek | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042975?s=gh-new-grad-jobs-2027) |
+| **GE Aerospace** | Computerized Machine Operator (CMO) 3rd Shift Flyer | Beavercreek | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042974?s=gh-new-grad-jobs-2027) |
+| **GE Aerospace** | Student Welder Trainee Program - Flyer | Beavercreek | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042970?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Change Manager, Customer Experience | Houston, TX | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332708?s=gh-new-grad-jobs-2027) |
 | **Bristol Myers Squibb** | 2027 Summer Internship: Law & Leadership Program | Princeton - NJ - US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608267?s=gh-new-grad-jobs-2027) |
 | **KeyBank** | Teller | Westminster, CO | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-43134?s=gh-new-grad-jobs-2027) |
@@ -628,7 +628,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nominal** | Commercial Contracts Manager | New York, United States | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDrPDxBvnjj5WiB7VcEmLycA?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Ground Terminal Operator - Junior, Intermediate and Senior Level- TS/SCI with Polygraph | USA CO Aurora | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231943?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Shipyard Material Manager | USA VA Norfolk | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231954?s=gh-new-grad-jobs-2027) |
-| **TD Bank** | Salesforce IT Solutions Design Specialist (US) | Mount Laurel New Jersey | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515965?s=gh-new-grad-jobs-2027) |
+| **TD Bank** | Salesforce IT Solutions Design Specialist (US) | Mount Laurel New Jersey | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515965?s=gh-new-grad-jobs-2027) |
 | **Apple** | Hardware Systems Integration (iPhone) | San Diego | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693800?s=gh-new-grad-jobs-2027) |
 | **Eaton** | Pads Transformer Assembler - 2nd Shift | Nacogdoches, Texas, USA, 75961 | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687240085382?s=gh-new-grad-jobs-2027) |
 | **OpenAI** | Industrial Compute | Remote | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-6d7ece77-bf25-4f5e-9a84-c5ce26e18c37?s=gh-new-grad-jobs-2027) |
