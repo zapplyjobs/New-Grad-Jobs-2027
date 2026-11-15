@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Product Manager, AdSpam Video and Emerging Inventory | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-140671157203280582?s=gh-new-grad-jobs-2027) |
+| **Google** | Product Manager, AdSpam Video and Emerging Inventory | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-140671157203280582?s=gh-new-grad-jobs-2027) |
 | **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-new-grad-jobs-2027) |
 | **RTX** | F135 Product Owner: Connected Forecasting (Onsite) | CT-EAST HARTFORD-ETC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889315?s=gh-new-grad-jobs-2027) |
 | **Apple** | Software Engineering Program Manager - visionOS | Sunnyvale | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200694999?s=gh-new-grad-jobs-2027) |
@@ -394,7 +394,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boeing** | Associate or Mid-level Ground Systems Engineer for MILSATCOM Program | El Segundo, CA | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523943?s=gh-new-grad-jobs-2027) |
+| **Boeing** | Associate or Mid-level Ground Systems Engineer for MILSATCOM Program | El Segundo, CA | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523943?s=gh-new-grad-jobs-2027) |
 | **RTX** | Lean & Continuous Improvement Industrial Engineering Co-Op (Summer/Fall 2027) | NC-WILSON | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888251?s=gh-new-grad-jobs-2027) |
 | **RTX** | Industrial Engineering Co-Op (Spring/Summer 2027) | NC-WILSON | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887963?s=gh-new-grad-jobs-2027) |
 | **RTX** | Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027) | MN-BURNSVILLE-WEST | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874254?s=gh-new-grad-jobs-2027) |
@@ -505,10 +505,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Data Center Technician I | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-89657015277626054?s=gh-new-grad-jobs-2027) |
+| **Google** | Data Center Technician I | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-89657015277626054?s=gh-new-grad-jobs-2027) |
 | **Google** | Field Sales Representative, South Texas Local, Google Public Sector | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-106359445159584454?s=gh-new-grad-jobs-2027) |
-| **Johnson & Johnson** | Account Executive Wound Closure (Newport Beach, CA) – Johnson & Johnson MedTech – Surgery | Newport Beach, California,... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-110701?s=gh-new-grad-jobs-2027) |
-| **Novanta** | Service Technician | Sarasota, FL | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009931?s=gh-new-grad-jobs-2027) |
+| **Johnson & Johnson** | Account Executive Wound Closure (Newport Beach, CA) – Johnson & Johnson MedTech – Surgery | Newport Beach, California,... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-110701?s=gh-new-grad-jobs-2027) |
+| **Novanta** | Service Technician | Sarasota, FL | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009931?s=gh-new-grad-jobs-2027) |
 | **UPS** | Operations Coordinator M-F 9am-5pm | DORAL, Florida | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040718?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Patient Care Technician | Kyle, TX | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-25018?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Patient Care Technician Cardiac | Nashville, TN | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-22351?s=gh-new-grad-jobs-2027) |
@@ -619,14 +619,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Technical Program Manager, Infrastructure Planning and Efficiency | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-106288580346684102?s=gh-new-grad-jobs-2027) |
 | **Google** | Technical Program Manager, Neutral Atoms, Quantum AI | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-92324973799973574?s=gh-new-grad-jobs-2027) |
 | **Google** | Group Manager, Silicon Sourcing, CPU | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-87176192775332550?s=gh-new-grad-jobs-2027) |
-| **Southwest Airlines** | Supervisor Provisioning - SAN | San Diego, CA | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-73734?s=gh-new-grad-jobs-2027) |
-| **Southwest Airlines** | Flight Ops Flight Instructor - HDQ | Dallas, TX | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74511?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Boeing** | DSP Comm Engineer (Associate or Mid-level) | USA - El Segundo, CA | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523658?s=gh-new-grad-jobs-2027) |
-| **Boeing** | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026512386?s=gh-new-grad-jobs-2027) |
-| **LabCorp** | Laboratory Robotics Operator | Raritan NJ | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639408?s=gh-new-grad-jobs-2027) |
-| **RTX** | Manufacturing Operator , 2nd Shift  (Onsite) | ME-NORTH BERWICK | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889546?s=gh-new-grad-jobs-2027) |
-| **Amentum** | IT Technical Specialist | TX-Houston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173102?s=gh-new-grad-jobs-2027) |
+| **Southwest Airlines** | Supervisor Provisioning - SAN | San Diego, CA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-73734?s=gh-new-grad-jobs-2027) |
+| **Southwest Airlines** | Flight Ops Flight Instructor - HDQ | Dallas, TX | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74511?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Boeing** | DSP Comm Engineer (Associate or Mid-level) | USA - El Segundo, CA | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523658?s=gh-new-grad-jobs-2027) |
+| **Boeing** | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026512386?s=gh-new-grad-jobs-2027) |
+| **LabCorp** | Laboratory Robotics Operator | Raritan NJ | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639408?s=gh-new-grad-jobs-2027) |
+| **RTX** | Manufacturing Operator , 2nd Shift  (Onsite) | ME-NORTH BERWICK | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889546?s=gh-new-grad-jobs-2027) |
+| **Amentum** | IT Technical Specialist | TX-Houston | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173102?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Administrative Assistant | USA MD Aberdeen | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232197?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Administrative Assistant | USA MD Aberdeen | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232238?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Administrative Assistant | USA DC Washington | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232309?s=gh-new-grad-jobs-2027) |
