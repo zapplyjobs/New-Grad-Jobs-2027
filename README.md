@@ -505,8 +505,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Johnson & Johnson** | Account Executive Wound Closure (Newport Beach, CA) – Johnson & Johnson MedTech – Surgery | Newport Beach, California,... | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-110701?s=gh-new-grad-jobs-2027) |
-| **Novanta** | Service Technician | Sarasota, FL | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009931?s=gh-new-grad-jobs-2027) |
+| **Johnson & Johnson** | Account Executive Wound Closure (Newport Beach, CA) – Johnson & Johnson MedTech – Surgery | Newport Beach, California,... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-110701?s=gh-new-grad-jobs-2027) |
+| **Novanta** | Service Technician | Sarasota, FL | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009931?s=gh-new-grad-jobs-2027) |
 | **Google** | Data Center Technician I | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-89657015277626054?s=gh-new-grad-jobs-2027) |
 | **Google** | Field Sales Representative, South Texas Local, Google Public Sector | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-106359445159584454?s=gh-new-grad-jobs-2027) |
 | **UPS** | Operations Coordinator M-F 9am-5pm | DORAL, Florida | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040718?s=gh-new-grad-jobs-2027) |
@@ -551,7 +551,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ServiceNow** | Business Development Representative - French | Boston, Massachusetts | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161548769?s=gh-new-grad-jobs-2027) |
 | **ServiceNow** | Business Development Representative - French | West Palm Beach, Florida | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161548339?s=gh-new-grad-jobs-2027) |
 | **Toast** | Bilingual Strategic Cuisines Inside Account Executive (Mandarin) | Austin, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-toast-8386060?s=gh-new-grad-jobs-2027) |
-| **Toast** | Bilingual Strategic Cuisines Inside Account Executive (Mandarin) | Houston, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-toast-8386059?s=gh-new-grad-jobs-2027) |
+| **Toast** | Bilingual Strategic Cuisines Inside Account Executive (Mandarin) | Houston, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-toast-8386059?s=gh-new-grad-jobs-2027) |
 | **Fidelity Investments** | University Talent Acquisition Partner | Merrimack, NH | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2137511?s=gh-new-grad-jobs-2027) |
 | **Rocket Companies** | Print Technician Intern - Summer 2027 | Detroit | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-084833?s=gh-new-grad-jobs-2027) |
 | **Rocket Companies** | Treasury Operations Analyst Intern - Summer 2027 | Detroit, MI | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-084321?s=gh-new-grad-jobs-2027) |
@@ -616,10 +616,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Jabil** | CVG300 Conversions Quality Inspector - 404 | Florence, KY | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2471870?s=gh-new-grad-jobs-2027) |
-| **Philips** | Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027 | Bedford, Massachusetts, United... | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593145?s=gh-new-grad-jobs-2027) |
-| **LabCorp** | Laboratory Robotics Operator | Raritan NJ | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638988?s=gh-new-grad-jobs-2027) |
-| **LabCorp** | Laboratory Robotics Operator | Raritan NJ | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639408?s=gh-new-grad-jobs-2027) |
+| **Jabil** | CVG300 Conversions Quality Inspector - 404 | Florence, KY | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2471870?s=gh-new-grad-jobs-2027) |
+| **Philips** | Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027 | Bedford, Massachusetts, United... | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593145?s=gh-new-grad-jobs-2027) |
+| **LabCorp** | Laboratory Robotics Operator | Raritan NJ | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638988?s=gh-new-grad-jobs-2027) |
+| **LabCorp** | Laboratory Robotics Operator | Raritan NJ | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639408?s=gh-new-grad-jobs-2027) |
 | **Amentum** | IT Technical Specialist | TX-Houston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173102?s=gh-new-grad-jobs-2027) |
 | **CAE** | Supporting Crew Member | Dallas, TX, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cae-career-124261?s=gh-new-grad-jobs-2027) |
 | **Google** | Technical Program Manager, Infrastructure Planning and Efficiency | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-106288580346684102?s=gh-new-grad-jobs-2027) |
