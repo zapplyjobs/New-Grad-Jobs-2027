@@ -122,7 +122,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Snowflake** | Software Engineer Intern (Database Engineering) - Summer 2027 | CA-Menlo Park | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-0223923d-4f0f-44e6-9649-0d1a9eda950d?s=gh-new-grad-jobs-2027) |
 | **Comcast** | Entry Level C++ Software Engineer- Reston, VA- ONSITE 2X Week- FreeWheel | VA - Reston | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R449189?s=gh-new-grad-jobs-2027) |
 | **Veolia Environnement SA** | Manufacturing Software Engineer Intern | Boulder, CO | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162593839?s=gh-new-grad-jobs-2027) |
-| **Comcast** | Junior Backend Software Engineer (Python or PHP) - Chicago - ONSITE 2X Week- FreeWheel | IL - Chicago | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R446112?s=gh-new-grad-jobs-2027) |
+| **Comcast** | Junior Backend Software Engineer (Python or PHP) - Chicago - ONSITE 2X Week- FreeWheel | IL - Chicago | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R446112?s=gh-new-grad-jobs-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023495?s=gh-new-grad-jobs-2027) |
 | **KLA** | Software Application Engineer Intern | Austin, TX | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2643260?s=gh-new-grad-jobs-2027) |
 | **Cadence** | Software Engineering Intern - Circuit Simulation infrastructure | SAN JOSE | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cadence-external-careers-R57254?s=gh-new-grad-jobs-2027) |
@@ -266,7 +266,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Roblox** | \[2027\] Data Scientist - PhD Early Career - Safety | San Mateo, CA, United States | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-roblox-8384186?s=gh-new-grad-jobs-2027) |
 | **T-Mobile** | Summer 2027 AI Engineering Internship | Bellevue, Washington | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ382110?s=gh-new-grad-jobs-2027) |
 | **Intuitive** | Clinical Research Engineering Intern | Sunnyvale, CA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000161896920?s=gh-new-grad-jobs-2027) |
-| **Toyota Research Institute** | Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge) | Cambridge, MA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476?s=gh-new-grad-jobs-2027) |
+| **Toyota Research Institute** | Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge) | Cambridge, MA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476?s=gh-new-grad-jobs-2027) |
 | **Member Solutions** | Business Analyst I, Client Success | Centennial, Colorado | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-talentmanagementsolution-jonassoftwareus-R55272?s=gh-new-grad-jobs-2027) |
 | **Lumentum** | Internship - Data Science & Analytics | USA - CA - San Jose | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261771?s=gh-new-grad-jobs-2027) |
 | **Federal Reserve System** | Quantitative Fellowship Program - Federal Reserve System | Minneapolis, MN | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000034088?s=gh-new-grad-jobs-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KBR** | OPERATIONS COORDINATOR | Basra, Al Başrah, Iraq | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131957?s=gh-new-grad-jobs-2027) |
+| **KBR** | OPERATIONS COORDINATOR | Basra, Al Başrah, Iraq | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131957?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Website Operations Specialist | USA FL MacDill AFB | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232753?s=gh-new-grad-jobs-2027) |
 | **Microsoft** | Customer Success Account Mgmt | United States | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200058856?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Patient Care Technician | Kyle, TX | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-26451?s=gh-new-grad-jobs-2027) |
@@ -620,11 +620,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Live Nation** | Venue Off Duty Officer | Louisville, KY, USA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-94411?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **KBR** | DCS Operator | Basra, Al Başrah, Iraq | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131954?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Workers' Compensation Claim Manager | Tacoma, WA, USA | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002908?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Insurance Administrative Assistant | Tallahassee, FL, USA | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002455?s=gh-new-grad-jobs-2027) |
+| **Live Nation** | Venue Off Duty Officer | Louisville, KY, USA | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-94411?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **KBR** | DCS Operator | Basra, Al Başrah, Iraq | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131954?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Workers' Compensation Claim Manager | Tacoma, WA, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002908?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Insurance Administrative Assistant | Tallahassee, FL, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002455?s=gh-new-grad-jobs-2027) |
 | **FIS** | Transition Manager | FL JAX 347 | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fis-searchjobs-JR0310276?s=gh-new-grad-jobs-2027) |
 | **Sanofi** | Area Business Manager, Rare Hematology (Hematology/Oncology) - Columbia, SC | Remote, USA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-47141491200?s=gh-new-grad-jobs-2027) |
 | **Sanofi** | Area Business Manager, Rare Hematology (Allergy/Immunology), North Jersey - Manhattan | Remote, USA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-47141491136?s=gh-new-grad-jobs-2027) |
