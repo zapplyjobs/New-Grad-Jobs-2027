@@ -154,7 +154,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer | Houston, TX, US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-335249?s=gh-new-grad-jobs-2027) |
 | **Booz Allen Hamilton** | University, 2027 Summer Games Software Developer Intern - McLean, VA | McLean, VA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253700?s=gh-new-grad-jobs-2027) |
 | **Mytra** | Software Engineer Intern | Brisbane, CA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/rippling-mytra-5e479468-c622-4d2b-8789-89fbc14f3292?s=gh-new-grad-jobs-2027) |
-| **TD Bank** | Product Owner I (US) eGRC AI | Charlotte North Carolina | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1495342?s=gh-new-grad-jobs-2027) |
+| **TD Bank** | Product Owner I (US) eGRC AI | Charlotte North Carolina | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1495342?s=gh-new-grad-jobs-2027) |
 | **Copart** | Software Engineering Intern | Dallas, TX - Headquarters | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-copart-copart-JR112072?s=gh-new-grad-jobs-2027) |
 | **Copart** | Software Engineering Intern | Dallas, TX - Headquarters | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-copart-copart-JR112593?s=gh-new-grad-jobs-2027) |
 | **KLA** | Software Engineering Intern | Milpitas, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641572?s=gh-new-grad-jobs-2027) |
@@ -514,7 +514,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ascension** | Patient Care Technician | Kyle, TX | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-26046?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Telemetry Technician | Nashville, TN | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-31389?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Certified Pharmacy Technician Clinic | Murfreesboro, TN | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-31317?s=gh-new-grad-jobs-2027) |
-| **SpaceX** | Critical Lift Technician - Transport (Starship) | Starbase, TX | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8952834002?s=gh-new-grad-jobs-2027) |
+| **SpaceX** | Critical Lift Technician - Transport (Starship) | Starbase, TX | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8952834002?s=gh-new-grad-jobs-2027) |
 | **Applied Materials** | 2027 Engineering Technician I - Associate's Degree (Gloucester, MA) | Gloucester,MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2634171?s=gh-new-grad-jobs-2027) |
 | **RTX** | Test Technician 4 | VA-CHESAPEAKE | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889604?s=gh-new-grad-jobs-2027) |
 | **Campbell Soup Company** | Sanitation Technician - 2nd shift | USA - WI - Franklin | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-campbellsoup-externalcareers-globalsite-Req-66418?s=gh-new-grad-jobs-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Workers' Compensation Claim Manager | Tacoma, WA, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002908?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Insurance Administrative Assistant | Tallahassee, FL, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002455?s=gh-new-grad-jobs-2027) |
 | **KBR** | DCS Operator | Basra, Al Başrah, Iraq | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131954?s=gh-new-grad-jobs-2027) |
@@ -640,10 +640,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Kohl's** | Early Talent - 2027 - E-Fulfillment Centers - Leadership Management Internship | Plainfield, Indiana | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508039?s=gh-new-grad-jobs-2027) |
 | **UPS** | First Officer | LOUISVILLE, Kentucky | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26031861?s=gh-new-grad-jobs-2027) |
 | **Neros Technologies** | Autonomy Intern - Summer 2027 | Torrance, California, United States | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5273167007?s=gh-new-grad-jobs-2027) |
-| **SpaceX** | SPMT Operator - Transport (Starship) | Starbase, TX | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8952875002?s=gh-new-grad-jobs-2027) |
+| **SpaceX** | SPMT Operator - Transport (Starship) | Starbase, TX | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8952875002?s=gh-new-grad-jobs-2027) |
 | **PopStroke** | Cocktail Waitress | West Palm Beach, FL | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/rippling-popstroke-job-board-1924-234b14c0-a1f4-4a3a-92aa-f5e77e715dc0?s=gh-new-grad-jobs-2027) |
 | **PopStroke** | Lounge Bartender | West Palm Beach, FL | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/rippling-popstroke-job-board-1924-e8e55cb8-ffb1-4467-9078-629a72236364?s=gh-new-grad-jobs-2027) |
-| **SpaceX** | New Graduate Engineer, Electrical (Starfall) | Hawthorne, CA | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957873002?s=gh-new-grad-jobs-2027) |
+| **SpaceX** | New Graduate Engineer, Electrical (Starfall) | Hawthorne, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957873002?s=gh-new-grad-jobs-2027) |
 | **90ee0c52** | Case Manager, Reimbursement | Lake Mary, FL | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/adp-90ee0c52-9203186985735_239?s=gh-new-grad-jobs-2027) |
 | **S&P Global** | Program Manager, Customer Experience | New York, NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332906?s=gh-new-grad-jobs-2027) |
 | **Amentum** | Painter | AL-Huntsville | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0176054?s=gh-new-grad-jobs-2027) |
