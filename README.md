@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Lucid Motors** | Business Analyst Intern | Amsterdam, NH | 18h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306854007?s=gh-new-grad-jobs-2027) |
+| **Lucid Motors** | Business Analyst Intern | Amsterdam, NH | 19h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306854007?s=gh-new-grad-jobs-2027) |
 | **Northrop Grumman** | 2027 Configuration Management Data Analyst Intern - Falls Church VA | United States-Virginia-Falls Church | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10262117?s=gh-new-grad-jobs-2027) |
 | **Booz Allen Hamilton** | Data Scientist, Junior | San Diego, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251120?s=gh-new-grad-jobs-2027) |
 | **Microsoft** | Research Intern - Machine Learning for Biology and Healthcare | Redmond, Washington, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068907?s=gh-new-grad-jobs-2027) |
@@ -509,9 +509,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Magna** | Logistics Planner | Assamstadt, DE | 12m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00271892?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Personal Lines Sales Executive | Phoenix, AZ, USA | 20m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002460?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Sponsorship Account Manager | New York, NY | 50m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332962?s=gh-new-grad-jobs-2027) |
+| **Magna** | Logistics Planner | Assamstadt, DE | 18m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00271892?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Personal Lines Sales Executive | Phoenix, AZ, USA | 26m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002460?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Sponsorship Account Manager | New York, NY | 56m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332962?s=gh-new-grad-jobs-2027) |
 | **Vantage Point Solutions** | DC Power Telecom Technician (Level IV Installer) | Fargo, North Dakota | 10h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/breezy-vantage-point-solutions-inc-4749f84c236c?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Certified Pharmacy Technician | Nashville, TN | 10h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-29551?s=gh-new-grad-jobs-2027) |
 | **Ascension** | Patient Care Technician Emergency Room | Anderson, IN | 10h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-30776?s=gh-new-grad-jobs-2027) |
@@ -620,20 +620,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | US - Specialist | United States | 11m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
-| **Stanley Black & Decker** | DeWALT Tool Repair $20/hr 1st shift M-F 8a-5p | San Antonio, TX, United States | 19m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000054269?s=gh-new-grad-jobs-2027) |
-| **Stryker** | Opérateur d'usinage | Grenoble, France | 19m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R578205?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Commercial Lines Producer | North Mankato, MN, USA | 20m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001598?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 20m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003876?s=gh-new-grad-jobs-2027) |
-| **Brown & Brown Insurance** | Sales Intern | Plano, TX, USA | 20m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003912?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Relationship Banker East Ridge | CLERMONT, FL | 30m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-584916?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Relationship Banker Harbour Place | JACKSONVILLE, FL | 30m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-578847?s=gh-new-grad-jobs-2027) |
-| **Wells Fargo** | Relationship Banker North Monroe | TALLAHASSEE, FL | 30m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-585386?s=gh-new-grad-jobs-2027) |
-| **Baker Hughes** | Service Delivery Coordinator - Wellbore Intervention | Jw, ID | 30m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R164922?s=gh-new-grad-jobs-2027) |
-| **S&P Global** | Energy Industry Fundamentals Training Instructor (AMERICAS) | Houston, TX | 50m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332972?s=gh-new-grad-jobs-2027) |
-| **Tyson Foods** | General Labor DECEMBER Berryville, AR | Berryville Plant - Berryville,... | 50m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-tysonfoods-tsn-R0498729?s=gh-new-grad-jobs-2027) |
-| **Tyson Foods** | MAINTENANCE GENERALIST - ALL SHIFTS | Franklin Feedmill - Franklin,... | 50m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-tysonfoods-tsn-R0497027?s=gh-new-grad-jobs-2027) |
-| **Tyson Foods** | Blender Operator - 1st Shift - (Claryville) Alexandria, KY | Claryville Plant - Alexandria,... | 50m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-tysonfoods-tsn-R0499022?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist | United States | 18m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Stanley Black & Decker** | DeWALT Tool Repair $20/hr 1st shift M-F 8a-5p | San Antonio, TX, United States | 25m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000054269?s=gh-new-grad-jobs-2027) |
+| **Stryker** | Opérateur d'usinage | Grenoble, France | 26m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R578205?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Commercial Lines Producer | North Mankato, MN, USA | 26m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001598?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 26m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003876?s=gh-new-grad-jobs-2027) |
+| **Brown & Brown Insurance** | Sales Intern | Plano, TX, USA | 26m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003912?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Relationship Banker East Ridge | CLERMONT, FL | 36m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-584916?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Relationship Banker Harbour Place | JACKSONVILLE, FL | 36m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-578847?s=gh-new-grad-jobs-2027) |
+| **Wells Fargo** | Relationship Banker North Monroe | TALLAHASSEE, FL | 36m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-585386?s=gh-new-grad-jobs-2027) |
+| **Baker Hughes** | Service Delivery Coordinator - Wellbore Intervention | Jw, ID | 36m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R164922?s=gh-new-grad-jobs-2027) |
+| **S&P Global** | Energy Industry Fundamentals Training Instructor (AMERICAS) | Houston, TX | 56m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332972?s=gh-new-grad-jobs-2027) |
+| **Tyson Foods** | General Labor DECEMBER Berryville, AR | Berryville Plant - Berryville,... | 56m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-tysonfoods-tsn-R0498729?s=gh-new-grad-jobs-2027) |
+| **Tyson Foods** | MAINTENANCE GENERALIST - ALL SHIFTS | Franklin Feedmill - Franklin,... | 56m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-tysonfoods-tsn-R0497027?s=gh-new-grad-jobs-2027) |
+| **Tyson Foods** | Blender Operator - 1st Shift - (Claryville) Alexandria, KY | Claryville Plant - Alexandria,... | 56m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-tysonfoods-tsn-R0499022?s=gh-new-grad-jobs-2027) |
 | **Southwest Airlines** | People Consultant - HDQ | Dallas, TX | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74864?s=gh-new-grad-jobs-2027) |
 | **GDIT** | Network Adminstrator | USA VA Arlington | 3h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232899?s=gh-new-grad-jobs-2027) |
 | **Hitachi** | Global Quality & Continuous Improvement Manager | Texas United States | 4h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0129110?s=gh-new-grad-jobs-2027) |
