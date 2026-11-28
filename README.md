@@ -497,7 +497,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leidos** | SharePoint & Systems Engineering Intern | 6314 Remote/Teleworker US | 4d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00197543?s=gh-new-grad-jobs-2027) |
 | **Applied Materials** | New College Grad Test Engineer I  (Bachelors - Gloucester, MA) | Gloucester,MA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2632406?s=gh-new-grad-jobs-2027) |
 | **Analog Devices** | Associate Engineer, Industrial Engineering | US, WA, Camas | 5d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R269503?s=gh-new-grad-jobs-2027) |
-| **ASML** | Internship - Electrical Engineer | Wilton, CT, USA | 5d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358102?s=gh-new-grad-jobs-2027) |
+| **ASML** | Internship - Electrical Engineer | Wilton, CT, USA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358102?s=gh-new-grad-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -620,10 +620,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Amentum** | Automotive Worker, CDL (PREPO) | LA-Fort Polk | 5m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175975?s=gh-new-grad-jobs-2027) |
-| **Amentum** | Automotive Worker (OGM 1st Shift) | LA-Fort Polk | 5m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175972?s=gh-new-grad-jobs-2027) |
-| **Amentum** | Automotive Worker (PREPO) | LA-Fort Polk | 5m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175970?s=gh-new-grad-jobs-2027) |
-| **Apple** | US - Specialist | United States | 16m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
+| **Amentum** | Automotive Worker, CDL (PREPO) | LA-Fort Polk | 10m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175975?s=gh-new-grad-jobs-2027) |
+| **Amentum** | Automotive Worker (OGM 1st Shift) | LA-Fort Polk | 10m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175972?s=gh-new-grad-jobs-2027) |
+| **Amentum** | Automotive Worker (PREPO) | LA-Fort Polk | 10m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175970?s=gh-new-grad-jobs-2027) |
+| **Apple** | US - Specialist | United States | 21m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Renewal Underwriter | Remote - Montana | 3h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003297?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Claims System Liaison | Carmel, IN, USA | 3h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003326?s=gh-new-grad-jobs-2027) |
 | **Brown & Brown Insurance** | Employee Benefits Producer | Manassas, VA, USA | 3h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003930?s=gh-new-grad-jobs-2027) |
